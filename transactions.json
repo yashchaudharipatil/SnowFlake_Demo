@@ -1,0 +1,8002 @@
+[
+  {
+    "transaction_id": "T00001",
+    "customer_id": 103,
+    "product": "among",
+    "amount": 798.58,
+    "currency": "USD",
+    "transaction_date": "2024-01-23"
+  },
+  {
+    "transaction_id": "T00002",
+    "customer_id": 271,
+    "product": "whole",
+    "amount": 734.67,
+    "currency": "USD",
+    "transaction_date": "2023-09-29"
+  },
+  {
+    "transaction_id": "T00003",
+    "customer_id": 189,
+    "product": "against",
+    "amount": 600.88,
+    "currency": "USD",
+    "transaction_date": "2024-01-04"
+  },
+  {
+    "transaction_id": "T00004",
+    "customer_id": 122,
+    "product": "arm",
+    "amount": 164.43,
+    "currency": "USD",
+    "transaction_date": "2024-12-06"
+  },
+  {
+    "transaction_id": "T00005",
+    "customer_id": 331,
+    "product": "after",
+    "amount": 464.66,
+    "currency": "USD",
+    "transaction_date": "2024-09-13"
+  },
+  {
+    "transaction_id": "T00006",
+    "customer_id": 373,
+    "product": "order",
+    "amount": 605.1,
+    "currency": "USD",
+    "transaction_date": "2024-04-03"
+  },
+  {
+    "transaction_id": "T00007",
+    "customer_id": 152,
+    "product": "account",
+    "amount": 654.38,
+    "currency": "USD",
+    "transaction_date": "2025-02-03"
+  },
+  {
+    "transaction_id": "T00008",
+    "customer_id": 309,
+    "product": "green",
+    "amount": 970.21,
+    "currency": "USD",
+    "transaction_date": "2024-05-13"
+  },
+  {
+    "transaction_id": "T00009",
+    "customer_id": 492,
+    "product": "future",
+    "amount": 939.17,
+    "currency": "USD",
+    "transaction_date": "2025-03-01"
+  },
+  {
+    "transaction_id": "T00010",
+    "customer_id": 386,
+    "product": "paper",
+    "amount": 190.01,
+    "currency": "USD",
+    "transaction_date": "2023-10-26"
+  },
+  {
+    "transaction_id": "T00011",
+    "customer_id": 277,
+    "product": "still",
+    "amount": 621.31,
+    "currency": "USD",
+    "transaction_date": "2025-02-16"
+  },
+  {
+    "transaction_id": "T00012",
+    "customer_id": 314,
+    "product": "brother",
+    "amount": 529.51,
+    "currency": "USD",
+    "transaction_date": "2024-02-07"
+  },
+  {
+    "transaction_id": "T00013",
+    "customer_id": 236,
+    "product": "ten",
+    "amount": 32.83,
+    "currency": "USD",
+    "transaction_date": "2024-02-10"
+  },
+  {
+    "transaction_id": "T00014",
+    "customer_id": 475,
+    "product": "mention",
+    "amount": 615.73,
+    "currency": "USD",
+    "transaction_date": "2024-06-19"
+  },
+  {
+    "transaction_id": "T00015",
+    "customer_id": 170,
+    "product": "threat",
+    "amount": 56.2,
+    "currency": "USD",
+    "transaction_date": "2025-05-17"
+  },
+  {
+    "transaction_id": "T00016",
+    "customer_id": 188,
+    "product": "hundred",
+    "amount": 372.7,
+    "currency": "USD",
+    "transaction_date": "2024-04-18"
+  },
+  {
+    "transaction_id": "T00017",
+    "customer_id": 190,
+    "product": "scene",
+    "amount": 99.7,
+    "currency": "USD",
+    "transaction_date": "2023-12-28"
+  },
+  {
+    "transaction_id": "T00018",
+    "customer_id": 446,
+    "product": "around",
+    "amount": 207.68,
+    "currency": "USD",
+    "transaction_date": "2024-05-01"
+  },
+  {
+    "transaction_id": "T00019",
+    "customer_id": 55,
+    "product": "those",
+    "amount": 983.4,
+    "currency": "USD",
+    "transaction_date": "2024-05-04"
+  },
+  {
+    "transaction_id": "T00020",
+    "customer_id": 131,
+    "product": "join",
+    "amount": 861.34,
+    "currency": "USD",
+    "transaction_date": "2024-07-05"
+  },
+  {
+    "transaction_id": "T00021",
+    "customer_id": 135,
+    "product": "anything",
+    "amount": 178.82,
+    "currency": "USD",
+    "transaction_date": "2024-06-21"
+  },
+  {
+    "transaction_id": "T00022",
+    "customer_id": 167,
+    "product": "structure",
+    "amount": 23.13,
+    "currency": "USD",
+    "transaction_date": "2025-02-25"
+  },
+  {
+    "transaction_id": "T00023",
+    "customer_id": 89,
+    "product": "heavy",
+    "amount": 965.98,
+    "currency": "USD",
+    "transaction_date": "2024-01-10"
+  },
+  {
+    "transaction_id": "T00024",
+    "customer_id": 242,
+    "product": "meeting",
+    "amount": 391.56,
+    "currency": "USD",
+    "transaction_date": "2024-01-20"
+  },
+  {
+    "transaction_id": "T00025",
+    "customer_id": 346,
+    "product": "exist",
+    "amount": 106.7,
+    "currency": "USD",
+    "transaction_date": "2025-05-11"
+  },
+  {
+    "transaction_id": "T00026",
+    "customer_id": 340,
+    "product": "section",
+    "amount": 248.62,
+    "currency": "USD",
+    "transaction_date": "2024-12-22"
+  },
+  {
+    "transaction_id": "T00027",
+    "customer_id": 444,
+    "product": "yet",
+    "amount": 130.82,
+    "currency": "USD",
+    "transaction_date": "2023-10-08"
+  },
+  {
+    "transaction_id": "T00028",
+    "customer_id": 264,
+    "product": "movie",
+    "amount": 44.04,
+    "currency": "USD",
+    "transaction_date": "2025-07-07"
+  },
+  {
+    "transaction_id": "T00029",
+    "customer_id": 206,
+    "product": "fire",
+    "amount": 397.15,
+    "currency": "USD",
+    "transaction_date": "2025-06-02"
+  },
+  {
+    "transaction_id": "T00030",
+    "customer_id": 50,
+    "product": "condition",
+    "amount": 665.9,
+    "currency": "USD",
+    "transaction_date": "2024-05-16"
+  },
+  {
+    "transaction_id": "T00031",
+    "customer_id": 2,
+    "product": "industry",
+    "amount": 430.9,
+    "currency": "USD",
+    "transaction_date": "2025-05-12"
+  },
+  {
+    "transaction_id": "T00032",
+    "customer_id": 54,
+    "product": "issue",
+    "amount": 551.24,
+    "currency": "USD",
+    "transaction_date": "2024-06-24"
+  },
+  {
+    "transaction_id": "T00033",
+    "customer_id": 310,
+    "product": "trouble",
+    "amount": 41.0,
+    "currency": "USD",
+    "transaction_date": "2023-09-28"
+  },
+  {
+    "transaction_id": "T00034",
+    "customer_id": 402,
+    "product": "share",
+    "amount": 777.38,
+    "currency": "USD",
+    "transaction_date": "2024-05-01"
+  },
+  {
+    "transaction_id": "T00035",
+    "customer_id": 162,
+    "product": "bed",
+    "amount": 401.2,
+    "currency": "USD",
+    "transaction_date": "2024-05-05"
+  },
+  {
+    "transaction_id": "T00036",
+    "customer_id": 484,
+    "product": "approach",
+    "amount": 601.92,
+    "currency": "USD",
+    "transaction_date": "2023-08-16"
+  },
+  {
+    "transaction_id": "T00037",
+    "customer_id": 304,
+    "product": "interesting",
+    "amount": 333.28,
+    "currency": "USD",
+    "transaction_date": "2024-09-10"
+  },
+  {
+    "transaction_id": "T00038",
+    "customer_id": 462,
+    "product": "follow",
+    "amount": 204.02,
+    "currency": "USD",
+    "transaction_date": "2023-09-07"
+  },
+  {
+    "transaction_id": "T00039",
+    "customer_id": 190,
+    "product": "live",
+    "amount": 332.08,
+    "currency": "USD",
+    "transaction_date": "2025-05-01"
+  },
+  {
+    "transaction_id": "T00040",
+    "customer_id": 208,
+    "product": "heavy",
+    "amount": 749.85,
+    "currency": "USD",
+    "transaction_date": "2025-06-10"
+  },
+  {
+    "transaction_id": "T00041",
+    "customer_id": 367,
+    "product": "decade",
+    "amount": 830.45,
+    "currency": "USD",
+    "transaction_date": "2025-05-15"
+  },
+  {
+    "transaction_id": "T00042",
+    "customer_id": 410,
+    "product": "mouth",
+    "amount": 965.6,
+    "currency": "USD",
+    "transaction_date": "2025-03-20"
+  },
+  {
+    "transaction_id": "T00043",
+    "customer_id": 188,
+    "product": "push",
+    "amount": 547.27,
+    "currency": "USD",
+    "transaction_date": "2024-02-28"
+  },
+  {
+    "transaction_id": "T00044",
+    "customer_id": 41,
+    "product": "leg",
+    "amount": 303.31,
+    "currency": "USD",
+    "transaction_date": "2024-04-26"
+  },
+  {
+    "transaction_id": "T00045",
+    "customer_id": 301,
+    "product": "food",
+    "amount": 83.81,
+    "currency": "USD",
+    "transaction_date": "2025-03-02"
+  },
+  {
+    "transaction_id": "T00046",
+    "customer_id": 327,
+    "product": "here",
+    "amount": 429.17,
+    "currency": "USD",
+    "transaction_date": "2024-03-20"
+  },
+  {
+    "transaction_id": "T00047",
+    "customer_id": 129,
+    "product": "wish",
+    "amount": 206.73,
+    "currency": "USD",
+    "transaction_date": "2025-03-23"
+  },
+  {
+    "transaction_id": "T00048",
+    "customer_id": 472,
+    "product": "issue",
+    "amount": 23.94,
+    "currency": "USD",
+    "transaction_date": "2024-08-07"
+  },
+  {
+    "transaction_id": "T00049",
+    "customer_id": 499,
+    "product": "generation",
+    "amount": 709.79,
+    "currency": "USD",
+    "transaction_date": "2025-07-01"
+  },
+  {
+    "transaction_id": "T00050",
+    "customer_id": 163,
+    "product": "piece",
+    "amount": 792.27,
+    "currency": "USD",
+    "transaction_date": "2024-01-28"
+  },
+  {
+    "transaction_id": "T00051",
+    "customer_id": 379,
+    "product": "point",
+    "amount": 83.3,
+    "currency": "USD",
+    "transaction_date": "2024-04-12"
+  },
+  {
+    "transaction_id": "T00052",
+    "customer_id": 231,
+    "product": "common",
+    "amount": 654.57,
+    "currency": "USD",
+    "transaction_date": "2023-12-10"
+  },
+  {
+    "transaction_id": "T00053",
+    "customer_id": 28,
+    "product": "fight",
+    "amount": 864.47,
+    "currency": "USD",
+    "transaction_date": "2024-02-14"
+  },
+  {
+    "transaction_id": "T00054",
+    "customer_id": 328,
+    "product": "sport",
+    "amount": 454.96,
+    "currency": "USD",
+    "transaction_date": "2024-02-02"
+  },
+  {
+    "transaction_id": "T00055",
+    "customer_id": 33,
+    "product": "old",
+    "amount": 72.92,
+    "currency": "USD",
+    "transaction_date": "2024-05-07"
+  },
+  {
+    "transaction_id": "T00056",
+    "customer_id": 407,
+    "product": "idea",
+    "amount": 672.15,
+    "currency": "USD",
+    "transaction_date": "2025-02-22"
+  },
+  {
+    "transaction_id": "T00057",
+    "customer_id": 293,
+    "product": "girl",
+    "amount": 732.31,
+    "currency": "USD",
+    "transaction_date": "2024-02-17"
+  },
+  {
+    "transaction_id": "T00058",
+    "customer_id": 360,
+    "product": "start",
+    "amount": 281.97,
+    "currency": "USD",
+    "transaction_date": "2025-02-25"
+  },
+  {
+    "transaction_id": "T00059",
+    "customer_id": 35,
+    "product": "then",
+    "amount": 477.49,
+    "currency": "USD",
+    "transaction_date": "2024-07-17"
+  },
+  {
+    "transaction_id": "T00060",
+    "customer_id": 101,
+    "product": "yet",
+    "amount": 971.99,
+    "currency": "USD",
+    "transaction_date": "2025-03-02"
+  },
+  {
+    "transaction_id": "T00061",
+    "customer_id": 131,
+    "product": "effect",
+    "amount": 763.18,
+    "currency": "USD",
+    "transaction_date": "2024-03-30"
+  },
+  {
+    "transaction_id": "T00062",
+    "customer_id": 218,
+    "product": "kitchen",
+    "amount": 243.63,
+    "currency": "USD",
+    "transaction_date": "2024-09-25"
+  },
+  {
+    "transaction_id": "T00063",
+    "customer_id": 398,
+    "product": "drive",
+    "amount": 498.86,
+    "currency": "USD",
+    "transaction_date": "2024-08-17"
+  },
+  {
+    "transaction_id": "T00064",
+    "customer_id": 393,
+    "product": "than",
+    "amount": 713.56,
+    "currency": "USD",
+    "transaction_date": "2025-07-19"
+  },
+  {
+    "transaction_id": "T00065",
+    "customer_id": 346,
+    "product": "board",
+    "amount": 35.16,
+    "currency": "USD",
+    "transaction_date": "2024-02-12"
+  },
+  {
+    "transaction_id": "T00066",
+    "customer_id": 461,
+    "product": "top",
+    "amount": 209.7,
+    "currency": "USD",
+    "transaction_date": "2024-08-29"
+  },
+  {
+    "transaction_id": "T00067",
+    "customer_id": 352,
+    "product": "south",
+    "amount": 640.05,
+    "currency": "USD",
+    "transaction_date": "2024-10-19"
+  },
+  {
+    "transaction_id": "T00068",
+    "customer_id": 52,
+    "product": "history",
+    "amount": 567.64,
+    "currency": "USD",
+    "transaction_date": "2025-05-06"
+  },
+  {
+    "transaction_id": "T00069",
+    "customer_id": 388,
+    "product": "so",
+    "amount": 908.49,
+    "currency": "USD",
+    "transaction_date": "2023-08-31"
+  },
+  {
+    "transaction_id": "T00070",
+    "customer_id": 407,
+    "product": "allow",
+    "amount": 608.37,
+    "currency": "USD",
+    "transaction_date": "2023-09-04"
+  },
+  {
+    "transaction_id": "T00071",
+    "customer_id": 143,
+    "product": "close",
+    "amount": 758.0,
+    "currency": "USD",
+    "transaction_date": "2023-12-18"
+  },
+  {
+    "transaction_id": "T00072",
+    "customer_id": 36,
+    "product": "say",
+    "amount": 943.43,
+    "currency": "USD",
+    "transaction_date": "2023-11-26"
+  },
+  {
+    "transaction_id": "T00073",
+    "customer_id": 327,
+    "product": "eye",
+    "amount": 296.85,
+    "currency": "USD",
+    "transaction_date": "2025-03-29"
+  },
+  {
+    "transaction_id": "T00074",
+    "customer_id": 86,
+    "product": "tell",
+    "amount": 881.66,
+    "currency": "USD",
+    "transaction_date": "2024-10-22"
+  },
+  {
+    "transaction_id": "T00075",
+    "customer_id": 170,
+    "product": "accept",
+    "amount": 810.04,
+    "currency": "USD",
+    "transaction_date": "2024-10-28"
+  },
+  {
+    "transaction_id": "T00076",
+    "customer_id": 441,
+    "product": "example",
+    "amount": 114.44,
+    "currency": "USD",
+    "transaction_date": "2024-05-10"
+  },
+  {
+    "transaction_id": "T00077",
+    "customer_id": 284,
+    "product": "across",
+    "amount": 805.64,
+    "currency": "USD",
+    "transaction_date": "2025-02-18"
+  },
+  {
+    "transaction_id": "T00078",
+    "customer_id": 44,
+    "product": "next",
+    "amount": 422.34,
+    "currency": "USD",
+    "transaction_date": "2024-12-31"
+  },
+  {
+    "transaction_id": "T00079",
+    "customer_id": 446,
+    "product": "write",
+    "amount": 543.95,
+    "currency": "USD",
+    "transaction_date": "2024-01-08"
+  },
+  {
+    "transaction_id": "T00080",
+    "customer_id": 348,
+    "product": "type",
+    "amount": 362.73,
+    "currency": "USD",
+    "transaction_date": "2024-05-12"
+  },
+  {
+    "transaction_id": "T00081",
+    "customer_id": 190,
+    "product": "like",
+    "amount": 118.95,
+    "currency": "USD",
+    "transaction_date": "2024-02-11"
+  },
+  {
+    "transaction_id": "T00082",
+    "customer_id": 377,
+    "product": "concern",
+    "amount": 651.21,
+    "currency": "USD",
+    "transaction_date": "2024-11-03"
+  },
+  {
+    "transaction_id": "T00083",
+    "customer_id": 121,
+    "product": "rather",
+    "amount": 819.83,
+    "currency": "USD",
+    "transaction_date": "2025-04-24"
+  },
+  {
+    "transaction_id": "T00084",
+    "customer_id": 233,
+    "product": "play",
+    "amount": 311.73,
+    "currency": "USD",
+    "transaction_date": "2024-12-09"
+  },
+  {
+    "transaction_id": "T00085",
+    "customer_id": 198,
+    "product": "film",
+    "amount": 515.64,
+    "currency": "USD",
+    "transaction_date": "2024-10-04"
+  },
+  {
+    "transaction_id": "T00086",
+    "customer_id": 137,
+    "product": "their",
+    "amount": 489.98,
+    "currency": "USD",
+    "transaction_date": "2023-12-29"
+  },
+  {
+    "transaction_id": "T00087",
+    "customer_id": 225,
+    "product": "pressure",
+    "amount": 128.67,
+    "currency": "USD",
+    "transaction_date": "2024-08-05"
+  },
+  {
+    "transaction_id": "T00088",
+    "customer_id": 172,
+    "product": "must",
+    "amount": 251.68,
+    "currency": "USD",
+    "transaction_date": "2024-09-09"
+  },
+  {
+    "transaction_id": "T00089",
+    "customer_id": 315,
+    "product": "ability",
+    "amount": 329.97,
+    "currency": "USD",
+    "transaction_date": "2025-05-11"
+  },
+  {
+    "transaction_id": "T00090",
+    "customer_id": 96,
+    "product": "main",
+    "amount": 562.52,
+    "currency": "USD",
+    "transaction_date": "2024-12-23"
+  },
+  {
+    "transaction_id": "T00091",
+    "customer_id": 180,
+    "product": "people",
+    "amount": 369.99,
+    "currency": "USD",
+    "transaction_date": "2024-11-29"
+  },
+  {
+    "transaction_id": "T00092",
+    "customer_id": 497,
+    "product": "nor",
+    "amount": 261.38,
+    "currency": "USD",
+    "transaction_date": "2024-07-11"
+  },
+  {
+    "transaction_id": "T00093",
+    "customer_id": 268,
+    "product": "religious",
+    "amount": 259.26,
+    "currency": "USD",
+    "transaction_date": "2025-02-26"
+  },
+  {
+    "transaction_id": "T00094",
+    "customer_id": 386,
+    "product": "travel",
+    "amount": 715.15,
+    "currency": "USD",
+    "transaction_date": "2024-04-26"
+  },
+  {
+    "transaction_id": "T00095",
+    "customer_id": 101,
+    "product": "business",
+    "amount": 291.99,
+    "currency": "USD",
+    "transaction_date": "2025-06-16"
+  },
+  {
+    "transaction_id": "T00096",
+    "customer_id": 81,
+    "product": "base",
+    "amount": 274.11,
+    "currency": "USD",
+    "transaction_date": "2025-06-08"
+  },
+  {
+    "transaction_id": "T00097",
+    "customer_id": 2,
+    "product": "majority",
+    "amount": 507.65,
+    "currency": "USD",
+    "transaction_date": "2024-11-06"
+  },
+  {
+    "transaction_id": "T00098",
+    "customer_id": 54,
+    "product": "activity",
+    "amount": 42.72,
+    "currency": "USD",
+    "transaction_date": "2025-03-09"
+  },
+  {
+    "transaction_id": "T00099",
+    "customer_id": 224,
+    "product": "statement",
+    "amount": 909.18,
+    "currency": "USD",
+    "transaction_date": "2024-04-14"
+  },
+  {
+    "transaction_id": "T00100",
+    "customer_id": 403,
+    "product": "story",
+    "amount": 683.9,
+    "currency": "USD",
+    "transaction_date": "2024-10-21"
+  },
+  {
+    "transaction_id": "T00101",
+    "customer_id": 53,
+    "product": "find",
+    "amount": 494.56,
+    "currency": "USD",
+    "transaction_date": "2025-06-02"
+  },
+  {
+    "transaction_id": "T00102",
+    "customer_id": 160,
+    "product": "dark",
+    "amount": 557.36,
+    "currency": "USD",
+    "transaction_date": "2024-08-17"
+  },
+  {
+    "transaction_id": "T00103",
+    "customer_id": 247,
+    "product": "human",
+    "amount": 675.41,
+    "currency": "USD",
+    "transaction_date": "2024-03-18"
+  },
+  {
+    "transaction_id": "T00104",
+    "customer_id": 203,
+    "product": "series",
+    "amount": 375.96,
+    "currency": "USD",
+    "transaction_date": "2023-07-30"
+  },
+  {
+    "transaction_id": "T00105",
+    "customer_id": 401,
+    "product": "hope",
+    "amount": 730.93,
+    "currency": "USD",
+    "transaction_date": "2024-06-10"
+  },
+  {
+    "transaction_id": "T00106",
+    "customer_id": 280,
+    "product": "himself",
+    "amount": 475.6,
+    "currency": "USD",
+    "transaction_date": "2023-09-09"
+  },
+  {
+    "transaction_id": "T00107",
+    "customer_id": 98,
+    "product": "thing",
+    "amount": 637.19,
+    "currency": "USD",
+    "transaction_date": "2024-08-25"
+  },
+  {
+    "transaction_id": "T00108",
+    "customer_id": 395,
+    "product": "black",
+    "amount": 818.27,
+    "currency": "USD",
+    "transaction_date": "2024-10-03"
+  },
+  {
+    "transaction_id": "T00109",
+    "customer_id": 144,
+    "product": "toward",
+    "amount": 836.95,
+    "currency": "USD",
+    "transaction_date": "2024-04-30"
+  },
+  {
+    "transaction_id": "T00110",
+    "customer_id": 124,
+    "product": "successful",
+    "amount": 513.12,
+    "currency": "USD",
+    "transaction_date": "2024-08-03"
+  },
+  {
+    "transaction_id": "T00111",
+    "customer_id": 464,
+    "product": "wait",
+    "amount": 50.37,
+    "currency": "USD",
+    "transaction_date": "2024-01-27"
+  },
+  {
+    "transaction_id": "T00112",
+    "customer_id": 148,
+    "product": "mission",
+    "amount": 332.7,
+    "currency": "USD",
+    "transaction_date": "2025-07-17"
+  },
+  {
+    "transaction_id": "T00113",
+    "customer_id": 420,
+    "product": "wind",
+    "amount": 26.42,
+    "currency": "USD",
+    "transaction_date": "2023-12-19"
+  },
+  {
+    "transaction_id": "T00114",
+    "customer_id": 451,
+    "product": "him",
+    "amount": 811.41,
+    "currency": "USD",
+    "transaction_date": "2025-01-13"
+  },
+  {
+    "transaction_id": "T00115",
+    "customer_id": 148,
+    "product": "operation",
+    "amount": 648.72,
+    "currency": "USD",
+    "transaction_date": "2023-09-22"
+  },
+  {
+    "transaction_id": "T00116",
+    "customer_id": 308,
+    "product": "blue",
+    "amount": 941.12,
+    "currency": "USD",
+    "transaction_date": "2023-08-23"
+  },
+  {
+    "transaction_id": "T00117",
+    "customer_id": 424,
+    "product": "year",
+    "amount": 392.87,
+    "currency": "USD",
+    "transaction_date": "2024-04-10"
+  },
+  {
+    "transaction_id": "T00118",
+    "customer_id": 338,
+    "product": "run",
+    "amount": 839.33,
+    "currency": "USD",
+    "transaction_date": "2024-11-13"
+  },
+  {
+    "transaction_id": "T00119",
+    "customer_id": 267,
+    "product": "animal",
+    "amount": 347.66,
+    "currency": "USD",
+    "transaction_date": "2024-02-06"
+  },
+  {
+    "transaction_id": "T00120",
+    "customer_id": 473,
+    "product": "here",
+    "amount": 216.98,
+    "currency": "USD",
+    "transaction_date": "2024-03-03"
+  },
+  {
+    "transaction_id": "T00121",
+    "customer_id": 415,
+    "product": "send",
+    "amount": 878.57,
+    "currency": "USD",
+    "transaction_date": "2024-08-21"
+  },
+  {
+    "transaction_id": "T00122",
+    "customer_id": 99,
+    "product": "anyone",
+    "amount": 236.26,
+    "currency": "USD",
+    "transaction_date": "2023-12-20"
+  },
+  {
+    "transaction_id": "T00123",
+    "customer_id": 144,
+    "product": "second",
+    "amount": 819.05,
+    "currency": "USD",
+    "transaction_date": "2023-11-04"
+  },
+  {
+    "transaction_id": "T00124",
+    "customer_id": 500,
+    "product": "office",
+    "amount": 534.35,
+    "currency": "USD",
+    "transaction_date": "2024-07-14"
+  },
+  {
+    "transaction_id": "T00125",
+    "customer_id": 2,
+    "product": "young",
+    "amount": 996.29,
+    "currency": "USD",
+    "transaction_date": "2023-11-19"
+  },
+  {
+    "transaction_id": "T00126",
+    "customer_id": 254,
+    "product": "official",
+    "amount": 898.24,
+    "currency": "USD",
+    "transaction_date": "2023-09-10"
+  },
+  {
+    "transaction_id": "T00127",
+    "customer_id": 37,
+    "product": "head",
+    "amount": 883.81,
+    "currency": "USD",
+    "transaction_date": "2024-07-21"
+  },
+  {
+    "transaction_id": "T00128",
+    "customer_id": 9,
+    "product": "explain",
+    "amount": 286.08,
+    "currency": "USD",
+    "transaction_date": "2023-10-27"
+  },
+  {
+    "transaction_id": "T00129",
+    "customer_id": 147,
+    "product": "the",
+    "amount": 728.7,
+    "currency": "USD",
+    "transaction_date": "2024-01-04"
+  },
+  {
+    "transaction_id": "T00130",
+    "customer_id": 131,
+    "product": "three",
+    "amount": 857.76,
+    "currency": "USD",
+    "transaction_date": "2024-12-25"
+  },
+  {
+    "transaction_id": "T00131",
+    "customer_id": 54,
+    "product": "if",
+    "amount": 782.08,
+    "currency": "USD",
+    "transaction_date": "2023-12-15"
+  },
+  {
+    "transaction_id": "T00132",
+    "customer_id": 408,
+    "product": "everything",
+    "amount": 852.42,
+    "currency": "USD",
+    "transaction_date": "2024-11-16"
+  },
+  {
+    "transaction_id": "T00133",
+    "customer_id": 113,
+    "product": "hard",
+    "amount": 170.01,
+    "currency": "USD",
+    "transaction_date": "2023-09-16"
+  },
+  {
+    "transaction_id": "T00134",
+    "customer_id": 422,
+    "product": "think",
+    "amount": 672.3,
+    "currency": "USD",
+    "transaction_date": "2024-11-21"
+  },
+  {
+    "transaction_id": "T00135",
+    "customer_id": 254,
+    "product": "drive",
+    "amount": 19.11,
+    "currency": "USD",
+    "transaction_date": "2024-12-31"
+  },
+  {
+    "transaction_id": "T00136",
+    "customer_id": 473,
+    "product": "back",
+    "amount": 666.87,
+    "currency": "USD",
+    "transaction_date": "2024-01-06"
+  },
+  {
+    "transaction_id": "T00137",
+    "customer_id": 349,
+    "product": "sometimes",
+    "amount": 291.08,
+    "currency": "USD",
+    "transaction_date": "2024-09-06"
+  },
+  {
+    "transaction_id": "T00138",
+    "customer_id": 366,
+    "product": "question",
+    "amount": 553.25,
+    "currency": "USD",
+    "transaction_date": "2025-07-05"
+  },
+  {
+    "transaction_id": "T00139",
+    "customer_id": 310,
+    "product": "population",
+    "amount": 453.94,
+    "currency": "USD",
+    "transaction_date": "2023-09-10"
+  },
+  {
+    "transaction_id": "T00140",
+    "customer_id": 445,
+    "product": "degree",
+    "amount": 232.03,
+    "currency": "USD",
+    "transaction_date": "2024-05-14"
+  },
+  {
+    "transaction_id": "T00141",
+    "customer_id": 161,
+    "product": "also",
+    "amount": 27.89,
+    "currency": "USD",
+    "transaction_date": "2023-11-30"
+  },
+  {
+    "transaction_id": "T00142",
+    "customer_id": 398,
+    "product": "best",
+    "amount": 332.15,
+    "currency": "USD",
+    "transaction_date": "2024-12-28"
+  },
+  {
+    "transaction_id": "T00143",
+    "customer_id": 404,
+    "product": "hand",
+    "amount": 372.8,
+    "currency": "USD",
+    "transaction_date": "2025-02-23"
+  },
+  {
+    "transaction_id": "T00144",
+    "customer_id": 392,
+    "product": "mind",
+    "amount": 850.73,
+    "currency": "USD",
+    "transaction_date": "2024-04-18"
+  },
+  {
+    "transaction_id": "T00145",
+    "customer_id": 401,
+    "product": "when",
+    "amount": 314.98,
+    "currency": "USD",
+    "transaction_date": "2024-05-09"
+  },
+  {
+    "transaction_id": "T00146",
+    "customer_id": 176,
+    "product": "common",
+    "amount": 102.74,
+    "currency": "USD",
+    "transaction_date": "2025-05-16"
+  },
+  {
+    "transaction_id": "T00147",
+    "customer_id": 371,
+    "product": "space",
+    "amount": 639.97,
+    "currency": "USD",
+    "transaction_date": "2025-03-16"
+  },
+  {
+    "transaction_id": "T00148",
+    "customer_id": 22,
+    "product": "themselves",
+    "amount": 251.55,
+    "currency": "USD",
+    "transaction_date": "2025-07-18"
+  },
+  {
+    "transaction_id": "T00149",
+    "customer_id": 38,
+    "product": "tree",
+    "amount": 979.1,
+    "currency": "USD",
+    "transaction_date": "2024-03-16"
+  },
+  {
+    "transaction_id": "T00150",
+    "customer_id": 51,
+    "product": "likely",
+    "amount": 893.13,
+    "currency": "USD",
+    "transaction_date": "2023-10-09"
+  },
+  {
+    "transaction_id": "T00151",
+    "customer_id": 283,
+    "product": "difficult",
+    "amount": 440.05,
+    "currency": "USD",
+    "transaction_date": "2025-01-22"
+  },
+  {
+    "transaction_id": "T00152",
+    "customer_id": 277,
+    "product": "meeting",
+    "amount": 507.61,
+    "currency": "USD",
+    "transaction_date": "2024-07-06"
+  },
+  {
+    "transaction_id": "T00153",
+    "customer_id": 284,
+    "product": "everybody",
+    "amount": 672.23,
+    "currency": "USD",
+    "transaction_date": "2024-11-16"
+  },
+  {
+    "transaction_id": "T00154",
+    "customer_id": 481,
+    "product": "finally",
+    "amount": 203.29,
+    "currency": "USD",
+    "transaction_date": "2025-04-14"
+  },
+  {
+    "transaction_id": "T00155",
+    "customer_id": 317,
+    "product": "tell",
+    "amount": 504.2,
+    "currency": "USD",
+    "transaction_date": "2024-02-14"
+  },
+  {
+    "transaction_id": "T00156",
+    "customer_id": 4,
+    "product": "son",
+    "amount": 34.07,
+    "currency": "USD",
+    "transaction_date": "2023-08-28"
+  },
+  {
+    "transaction_id": "T00157",
+    "customer_id": 49,
+    "product": "hundred",
+    "amount": 53.17,
+    "currency": "USD",
+    "transaction_date": "2023-11-22"
+  },
+  {
+    "transaction_id": "T00158",
+    "customer_id": 172,
+    "product": "forward",
+    "amount": 941.05,
+    "currency": "USD",
+    "transaction_date": "2025-07-14"
+  },
+  {
+    "transaction_id": "T00159",
+    "customer_id": 477,
+    "product": "evening",
+    "amount": 286.76,
+    "currency": "USD",
+    "transaction_date": "2023-12-27"
+  },
+  {
+    "transaction_id": "T00160",
+    "customer_id": 6,
+    "product": "short",
+    "amount": 376.46,
+    "currency": "USD",
+    "transaction_date": "2023-11-19"
+  },
+  {
+    "transaction_id": "T00161",
+    "customer_id": 233,
+    "product": "rock",
+    "amount": 953.54,
+    "currency": "USD",
+    "transaction_date": "2024-04-27"
+  },
+  {
+    "transaction_id": "T00162",
+    "customer_id": 349,
+    "product": "record",
+    "amount": 433.9,
+    "currency": "USD",
+    "transaction_date": "2024-03-29"
+  },
+  {
+    "transaction_id": "T00163",
+    "customer_id": 181,
+    "product": "baby",
+    "amount": 576.57,
+    "currency": "USD",
+    "transaction_date": "2024-06-25"
+  },
+  {
+    "transaction_id": "T00164",
+    "customer_id": 188,
+    "product": "arrive",
+    "amount": 854.48,
+    "currency": "USD",
+    "transaction_date": "2024-08-09"
+  },
+  {
+    "transaction_id": "T00165",
+    "customer_id": 191,
+    "product": "note",
+    "amount": 312.64,
+    "currency": "USD",
+    "transaction_date": "2023-12-12"
+  },
+  {
+    "transaction_id": "T00166",
+    "customer_id": 416,
+    "product": "friend",
+    "amount": 852.63,
+    "currency": "USD",
+    "transaction_date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T00167",
+    "customer_id": 256,
+    "product": "report",
+    "amount": 490.43,
+    "currency": "USD",
+    "transaction_date": "2023-12-01"
+  },
+  {
+    "transaction_id": "T00168",
+    "customer_id": 18,
+    "product": "family",
+    "amount": 561.23,
+    "currency": "USD",
+    "transaction_date": "2025-07-12"
+  },
+  {
+    "transaction_id": "T00169",
+    "customer_id": 223,
+    "product": "away",
+    "amount": 845.77,
+    "currency": "USD",
+    "transaction_date": "2023-10-07"
+  },
+  {
+    "transaction_id": "T00170",
+    "customer_id": 323,
+    "product": "baby",
+    "amount": 574.36,
+    "currency": "USD",
+    "transaction_date": "2024-06-30"
+  },
+  {
+    "transaction_id": "T00171",
+    "customer_id": 280,
+    "product": "effect",
+    "amount": 216.83,
+    "currency": "USD",
+    "transaction_date": "2024-10-30"
+  },
+  {
+    "transaction_id": "T00172",
+    "customer_id": 431,
+    "product": "fight",
+    "amount": 990.15,
+    "currency": "USD",
+    "transaction_date": "2024-05-24"
+  },
+  {
+    "transaction_id": "T00173",
+    "customer_id": 450,
+    "product": "teach",
+    "amount": 261.62,
+    "currency": "USD",
+    "transaction_date": "2025-05-07"
+  },
+  {
+    "transaction_id": "T00174",
+    "customer_id": 490,
+    "product": "together",
+    "amount": 878.6,
+    "currency": "USD",
+    "transaction_date": "2024-02-29"
+  },
+  {
+    "transaction_id": "T00175",
+    "customer_id": 273,
+    "product": "attention",
+    "amount": 850.18,
+    "currency": "USD",
+    "transaction_date": "2023-11-30"
+  },
+  {
+    "transaction_id": "T00176",
+    "customer_id": 393,
+    "product": "PM",
+    "amount": 705.46,
+    "currency": "USD",
+    "transaction_date": "2024-02-01"
+  },
+  {
+    "transaction_id": "T00177",
+    "customer_id": 176,
+    "product": "join",
+    "amount": 557.29,
+    "currency": "USD",
+    "transaction_date": "2025-04-29"
+  },
+  {
+    "transaction_id": "T00178",
+    "customer_id": 170,
+    "product": "move",
+    "amount": 811.27,
+    "currency": "USD",
+    "transaction_date": "2024-06-10"
+  },
+  {
+    "transaction_id": "T00179",
+    "customer_id": 355,
+    "product": "its",
+    "amount": 263.64,
+    "currency": "USD",
+    "transaction_date": "2025-02-13"
+  },
+  {
+    "transaction_id": "T00180",
+    "customer_id": 408,
+    "product": "new",
+    "amount": 914.11,
+    "currency": "USD",
+    "transaction_date": "2024-01-09"
+  },
+  {
+    "transaction_id": "T00181",
+    "customer_id": 391,
+    "product": "add",
+    "amount": 506.5,
+    "currency": "USD",
+    "transaction_date": "2024-03-15"
+  },
+  {
+    "transaction_id": "T00182",
+    "customer_id": 173,
+    "product": "blue",
+    "amount": 202.33,
+    "currency": "USD",
+    "transaction_date": "2024-06-28"
+  },
+  {
+    "transaction_id": "T00183",
+    "customer_id": 264,
+    "product": "bring",
+    "amount": 704.95,
+    "currency": "USD",
+    "transaction_date": "2024-08-05"
+  },
+  {
+    "transaction_id": "T00184",
+    "customer_id": 400,
+    "product": "federal",
+    "amount": 60.26,
+    "currency": "USD",
+    "transaction_date": "2024-05-10"
+  },
+  {
+    "transaction_id": "T00185",
+    "customer_id": 371,
+    "product": "company",
+    "amount": 344.62,
+    "currency": "USD",
+    "transaction_date": "2025-03-09"
+  },
+  {
+    "transaction_id": "T00186",
+    "customer_id": 92,
+    "product": "rather",
+    "amount": 583.08,
+    "currency": "USD",
+    "transaction_date": "2025-05-22"
+  },
+  {
+    "transaction_id": "T00187",
+    "customer_id": 288,
+    "product": "professional",
+    "amount": 582.5,
+    "currency": "USD",
+    "transaction_date": "2024-10-04"
+  },
+  {
+    "transaction_id": "T00188",
+    "customer_id": 342,
+    "product": "what",
+    "amount": 334.87,
+    "currency": "USD",
+    "transaction_date": "2024-02-13"
+  },
+  {
+    "transaction_id": "T00189",
+    "customer_id": 186,
+    "product": "magazine",
+    "amount": 547.22,
+    "currency": "USD",
+    "transaction_date": "2025-05-08"
+  },
+  {
+    "transaction_id": "T00190",
+    "customer_id": 125,
+    "product": "guess",
+    "amount": 840.54,
+    "currency": "USD",
+    "transaction_date": "2025-03-09"
+  },
+  {
+    "transaction_id": "T00191",
+    "customer_id": 58,
+    "product": "let",
+    "amount": 40.2,
+    "currency": "USD",
+    "transaction_date": "2024-04-12"
+  },
+  {
+    "transaction_id": "T00192",
+    "customer_id": 180,
+    "product": "dog",
+    "amount": 48.45,
+    "currency": "USD",
+    "transaction_date": "2023-08-26"
+  },
+  {
+    "transaction_id": "T00193",
+    "customer_id": 271,
+    "product": "for",
+    "amount": 366.59,
+    "currency": "USD",
+    "transaction_date": "2024-10-11"
+  },
+  {
+    "transaction_id": "T00194",
+    "customer_id": 444,
+    "product": "market",
+    "amount": 333.38,
+    "currency": "USD",
+    "transaction_date": "2024-10-26"
+  },
+  {
+    "transaction_id": "T00195",
+    "customer_id": 264,
+    "product": "price",
+    "amount": 772.29,
+    "currency": "USD",
+    "transaction_date": "2024-08-21"
+  },
+  {
+    "transaction_id": "T00196",
+    "customer_id": 492,
+    "product": "instead",
+    "amount": 965.6,
+    "currency": "USD",
+    "transaction_date": "2024-07-17"
+  },
+  {
+    "transaction_id": "T00197",
+    "customer_id": 103,
+    "product": "bring",
+    "amount": 94.49,
+    "currency": "USD",
+    "transaction_date": "2025-07-02"
+  },
+  {
+    "transaction_id": "T00198",
+    "customer_id": 365,
+    "product": "baby",
+    "amount": 202.44,
+    "currency": "USD",
+    "transaction_date": "2025-07-18"
+  },
+  {
+    "transaction_id": "T00199",
+    "customer_id": 350,
+    "product": "performance",
+    "amount": 545.23,
+    "currency": "USD",
+    "transaction_date": "2024-02-10"
+  },
+  {
+    "transaction_id": "T00200",
+    "customer_id": 311,
+    "product": "soldier",
+    "amount": 146.97,
+    "currency": "USD",
+    "transaction_date": "2024-12-01"
+  },
+  {
+    "transaction_id": "T00201",
+    "customer_id": 144,
+    "product": "identify",
+    "amount": 976.09,
+    "currency": "USD",
+    "transaction_date": "2024-07-06"
+  },
+  {
+    "transaction_id": "T00202",
+    "customer_id": 124,
+    "product": "program",
+    "amount": 717.45,
+    "currency": "USD",
+    "transaction_date": "2023-12-29"
+  },
+  {
+    "transaction_id": "T00203",
+    "customer_id": 147,
+    "product": "factor",
+    "amount": 797.23,
+    "currency": "USD",
+    "transaction_date": "2024-09-28"
+  },
+  {
+    "transaction_id": "T00204",
+    "customer_id": 319,
+    "product": "just",
+    "amount": 439.19,
+    "currency": "USD",
+    "transaction_date": "2024-06-23"
+  },
+  {
+    "transaction_id": "T00205",
+    "customer_id": 58,
+    "product": "speech",
+    "amount": 87.67,
+    "currency": "USD",
+    "transaction_date": "2025-06-13"
+  },
+  {
+    "transaction_id": "T00206",
+    "customer_id": 229,
+    "product": "quite",
+    "amount": 192.49,
+    "currency": "USD",
+    "transaction_date": "2024-12-05"
+  },
+  {
+    "transaction_id": "T00207",
+    "customer_id": 318,
+    "product": "easy",
+    "amount": 837.62,
+    "currency": "USD",
+    "transaction_date": "2025-05-05"
+  },
+  {
+    "transaction_id": "T00208",
+    "customer_id": 393,
+    "product": "various",
+    "amount": 691.61,
+    "currency": "USD",
+    "transaction_date": "2025-06-17"
+  },
+  {
+    "transaction_id": "T00209",
+    "customer_id": 129,
+    "product": "modern",
+    "amount": 181.56,
+    "currency": "USD",
+    "transaction_date": "2024-07-05"
+  },
+  {
+    "transaction_id": "T00210",
+    "customer_id": 1,
+    "product": "probably",
+    "amount": 447.93,
+    "currency": "USD",
+    "transaction_date": "2023-10-20"
+  },
+  {
+    "transaction_id": "T00211",
+    "customer_id": 96,
+    "product": "education",
+    "amount": 553.73,
+    "currency": "USD",
+    "transaction_date": "2025-02-23"
+  },
+  {
+    "transaction_id": "T00212",
+    "customer_id": 48,
+    "product": "serious",
+    "amount": 191.04,
+    "currency": "USD",
+    "transaction_date": "2024-01-29"
+  },
+  {
+    "transaction_id": "T00213",
+    "customer_id": 237,
+    "product": "film",
+    "amount": 287.13,
+    "currency": "USD",
+    "transaction_date": "2023-12-20"
+  },
+  {
+    "transaction_id": "T00214",
+    "customer_id": 272,
+    "product": "board",
+    "amount": 521.53,
+    "currency": "USD",
+    "transaction_date": "2024-05-17"
+  },
+  {
+    "transaction_id": "T00215",
+    "customer_id": 192,
+    "product": "stay",
+    "amount": 558.81,
+    "currency": "USD",
+    "transaction_date": "2024-11-23"
+  },
+  {
+    "transaction_id": "T00216",
+    "customer_id": 278,
+    "product": "price",
+    "amount": 732.74,
+    "currency": "USD",
+    "transaction_date": "2024-03-29"
+  },
+  {
+    "transaction_id": "T00217",
+    "customer_id": 451,
+    "product": "meet",
+    "amount": 255.25,
+    "currency": "USD",
+    "transaction_date": "2024-08-27"
+  },
+  {
+    "transaction_id": "T00218",
+    "customer_id": 144,
+    "product": "behind",
+    "amount": 167.06,
+    "currency": "USD",
+    "transaction_date": "2025-04-03"
+  },
+  {
+    "transaction_id": "T00219",
+    "customer_id": 86,
+    "product": "eight",
+    "amount": 24.25,
+    "currency": "USD",
+    "transaction_date": "2024-07-28"
+  },
+  {
+    "transaction_id": "T00220",
+    "customer_id": 462,
+    "product": "partner",
+    "amount": 100.88,
+    "currency": "USD",
+    "transaction_date": "2023-10-25"
+  },
+  {
+    "transaction_id": "T00221",
+    "customer_id": 47,
+    "product": "officer",
+    "amount": 50.32,
+    "currency": "USD",
+    "transaction_date": "2024-12-05"
+  },
+  {
+    "transaction_id": "T00222",
+    "customer_id": 238,
+    "product": "how",
+    "amount": 979.72,
+    "currency": "USD",
+    "transaction_date": "2025-01-27"
+  },
+  {
+    "transaction_id": "T00223",
+    "customer_id": 453,
+    "product": "just",
+    "amount": 479.43,
+    "currency": "USD",
+    "transaction_date": "2025-01-29"
+  },
+  {
+    "transaction_id": "T00224",
+    "customer_id": 218,
+    "product": "state",
+    "amount": 765.73,
+    "currency": "USD",
+    "transaction_date": "2025-05-09"
+  },
+  {
+    "transaction_id": "T00225",
+    "customer_id": 341,
+    "product": "piece",
+    "amount": 478.74,
+    "currency": "USD",
+    "transaction_date": "2024-09-03"
+  },
+  {
+    "transaction_id": "T00226",
+    "customer_id": 289,
+    "product": "I",
+    "amount": 470.03,
+    "currency": "USD",
+    "transaction_date": "2025-02-20"
+  },
+  {
+    "transaction_id": "T00227",
+    "customer_id": 357,
+    "product": "smile",
+    "amount": 404.52,
+    "currency": "USD",
+    "transaction_date": "2025-03-10"
+  },
+  {
+    "transaction_id": "T00228",
+    "customer_id": 10,
+    "product": "herself",
+    "amount": 949.65,
+    "currency": "USD",
+    "transaction_date": "2025-03-24"
+  },
+  {
+    "transaction_id": "T00229",
+    "customer_id": 100,
+    "product": "him",
+    "amount": 54.85,
+    "currency": "USD",
+    "transaction_date": "2025-05-30"
+  },
+  {
+    "transaction_id": "T00230",
+    "customer_id": 223,
+    "product": "race",
+    "amount": 25.15,
+    "currency": "USD",
+    "transaction_date": "2024-01-19"
+  },
+  {
+    "transaction_id": "T00231",
+    "customer_id": 147,
+    "product": "health",
+    "amount": 508.1,
+    "currency": "USD",
+    "transaction_date": "2023-09-08"
+  },
+  {
+    "transaction_id": "T00232",
+    "customer_id": 257,
+    "product": "energy",
+    "amount": 543.98,
+    "currency": "USD",
+    "transaction_date": "2024-03-28"
+  },
+  {
+    "transaction_id": "T00233",
+    "customer_id": 493,
+    "product": "improve",
+    "amount": 171.31,
+    "currency": "USD",
+    "transaction_date": "2023-08-12"
+  },
+  {
+    "transaction_id": "T00234",
+    "customer_id": 280,
+    "product": "cut",
+    "amount": 944.45,
+    "currency": "USD",
+    "transaction_date": "2024-08-15"
+  },
+  {
+    "transaction_id": "T00235",
+    "customer_id": 258,
+    "product": "tend",
+    "amount": 36.25,
+    "currency": "USD",
+    "transaction_date": "2024-07-24"
+  },
+  {
+    "transaction_id": "T00236",
+    "customer_id": 384,
+    "product": "continue",
+    "amount": 640.04,
+    "currency": "USD",
+    "transaction_date": "2024-03-21"
+  },
+  {
+    "transaction_id": "T00237",
+    "customer_id": 340,
+    "product": "amount",
+    "amount": 579.72,
+    "currency": "USD",
+    "transaction_date": "2023-10-27"
+  },
+  {
+    "transaction_id": "T00238",
+    "customer_id": 178,
+    "product": "eat",
+    "amount": 577.63,
+    "currency": "USD",
+    "transaction_date": "2024-07-17"
+  },
+  {
+    "transaction_id": "T00239",
+    "customer_id": 33,
+    "product": "voice",
+    "amount": 463.67,
+    "currency": "USD",
+    "transaction_date": "2025-07-14"
+  },
+  {
+    "transaction_id": "T00240",
+    "customer_id": 179,
+    "product": "get",
+    "amount": 822.43,
+    "currency": "USD",
+    "transaction_date": "2024-01-09"
+  },
+  {
+    "transaction_id": "T00241",
+    "customer_id": 268,
+    "product": "success",
+    "amount": 392.24,
+    "currency": "USD",
+    "transaction_date": "2024-09-18"
+  },
+  {
+    "transaction_id": "T00242",
+    "customer_id": 417,
+    "product": "of",
+    "amount": 654.97,
+    "currency": "USD",
+    "transaction_date": "2024-07-27"
+  },
+  {
+    "transaction_id": "T00243",
+    "customer_id": 43,
+    "product": "great",
+    "amount": 203.83,
+    "currency": "USD",
+    "transaction_date": "2024-04-29"
+  },
+  {
+    "transaction_id": "T00244",
+    "customer_id": 397,
+    "product": "morning",
+    "amount": 222.44,
+    "currency": "USD",
+    "transaction_date": "2024-08-31"
+  },
+  {
+    "transaction_id": "T00245",
+    "customer_id": 302,
+    "product": "treatment",
+    "amount": 28.04,
+    "currency": "USD",
+    "transaction_date": "2024-05-28"
+  },
+  {
+    "transaction_id": "T00246",
+    "customer_id": 499,
+    "product": "play",
+    "amount": 622.07,
+    "currency": "USD",
+    "transaction_date": "2024-11-30"
+  },
+  {
+    "transaction_id": "T00247",
+    "customer_id": 215,
+    "product": "television",
+    "amount": 80.48,
+    "currency": "USD",
+    "transaction_date": "2025-04-21"
+  },
+  {
+    "transaction_id": "T00248",
+    "customer_id": 264,
+    "product": "court",
+    "amount": 391.54,
+    "currency": "USD",
+    "transaction_date": "2024-08-17"
+  },
+  {
+    "transaction_id": "T00249",
+    "customer_id": 458,
+    "product": "prove",
+    "amount": 33.04,
+    "currency": "USD",
+    "transaction_date": "2025-06-15"
+  },
+  {
+    "transaction_id": "T00250",
+    "customer_id": 418,
+    "product": "official",
+    "amount": 268.09,
+    "currency": "USD",
+    "transaction_date": "2024-02-14"
+  },
+  {
+    "transaction_id": "T00251",
+    "customer_id": 391,
+    "product": "anything",
+    "amount": 126.98,
+    "currency": "USD",
+    "transaction_date": "2023-11-18"
+  },
+  {
+    "transaction_id": "T00252",
+    "customer_id": 114,
+    "product": "guy",
+    "amount": 632.65,
+    "currency": "USD",
+    "transaction_date": "2024-08-23"
+  },
+  {
+    "transaction_id": "T00253",
+    "customer_id": 413,
+    "product": "professional",
+    "amount": 48.79,
+    "currency": "USD",
+    "transaction_date": "2024-01-26"
+  },
+  {
+    "transaction_id": "T00254",
+    "customer_id": 217,
+    "product": "finish",
+    "amount": 805.45,
+    "currency": "USD",
+    "transaction_date": "2024-10-07"
+  },
+  {
+    "transaction_id": "T00255",
+    "customer_id": 249,
+    "product": "speech",
+    "amount": 552.49,
+    "currency": "USD",
+    "transaction_date": "2024-12-04"
+  },
+  {
+    "transaction_id": "T00256",
+    "customer_id": 357,
+    "product": "until",
+    "amount": 753.11,
+    "currency": "USD",
+    "transaction_date": "2024-07-15"
+  },
+  {
+    "transaction_id": "T00257",
+    "customer_id": 192,
+    "product": "foreign",
+    "amount": 580.17,
+    "currency": "USD",
+    "transaction_date": "2024-04-11"
+  },
+  {
+    "transaction_id": "T00258",
+    "customer_id": 99,
+    "product": "student",
+    "amount": 418.49,
+    "currency": "USD",
+    "transaction_date": "2024-08-01"
+  },
+  {
+    "transaction_id": "T00259",
+    "customer_id": 466,
+    "product": "read",
+    "amount": 257.52,
+    "currency": "USD",
+    "transaction_date": "2024-01-14"
+  },
+  {
+    "transaction_id": "T00260",
+    "customer_id": 96,
+    "product": "check",
+    "amount": 347.4,
+    "currency": "USD",
+    "transaction_date": "2025-01-08"
+  },
+  {
+    "transaction_id": "T00261",
+    "customer_id": 190,
+    "product": "certain",
+    "amount": 566.25,
+    "currency": "USD",
+    "transaction_date": "2023-11-11"
+  },
+  {
+    "transaction_id": "T00262",
+    "customer_id": 268,
+    "product": "peace",
+    "amount": 434.7,
+    "currency": "USD",
+    "transaction_date": "2023-11-06"
+  },
+  {
+    "transaction_id": "T00263",
+    "customer_id": 13,
+    "product": "anyone",
+    "amount": 742.51,
+    "currency": "USD",
+    "transaction_date": "2023-10-05"
+  },
+  {
+    "transaction_id": "T00264",
+    "customer_id": 355,
+    "product": "require",
+    "amount": 112.09,
+    "currency": "USD",
+    "transaction_date": "2024-08-22"
+  },
+  {
+    "transaction_id": "T00265",
+    "customer_id": 273,
+    "product": "source",
+    "amount": 538.98,
+    "currency": "USD",
+    "transaction_date": "2025-04-20"
+  },
+  {
+    "transaction_id": "T00266",
+    "customer_id": 84,
+    "product": "power",
+    "amount": 828.19,
+    "currency": "USD",
+    "transaction_date": "2023-08-12"
+  },
+  {
+    "transaction_id": "T00267",
+    "customer_id": 342,
+    "product": "ask",
+    "amount": 304.66,
+    "currency": "USD",
+    "transaction_date": "2023-11-10"
+  },
+  {
+    "transaction_id": "T00268",
+    "customer_id": 19,
+    "product": "family",
+    "amount": 395.31,
+    "currency": "USD",
+    "transaction_date": "2023-11-14"
+  },
+  {
+    "transaction_id": "T00269",
+    "customer_id": 396,
+    "product": "color",
+    "amount": 958.96,
+    "currency": "USD",
+    "transaction_date": "2024-07-13"
+  },
+  {
+    "transaction_id": "T00270",
+    "customer_id": 403,
+    "product": "personal",
+    "amount": 100.37,
+    "currency": "USD",
+    "transaction_date": "2025-03-03"
+  },
+  {
+    "transaction_id": "T00271",
+    "customer_id": 455,
+    "product": "black",
+    "amount": 957.23,
+    "currency": "USD",
+    "transaction_date": "2024-05-20"
+  },
+  {
+    "transaction_id": "T00272",
+    "customer_id": 223,
+    "product": "you",
+    "amount": 951.1,
+    "currency": "USD",
+    "transaction_date": "2024-02-08"
+  },
+  {
+    "transaction_id": "T00273",
+    "customer_id": 339,
+    "product": "fast",
+    "amount": 498.1,
+    "currency": "USD",
+    "transaction_date": "2024-01-20"
+  },
+  {
+    "transaction_id": "T00274",
+    "customer_id": 144,
+    "product": "career",
+    "amount": 453.96,
+    "currency": "USD",
+    "transaction_date": "2024-04-25"
+  },
+  {
+    "transaction_id": "T00275",
+    "customer_id": 99,
+    "product": "similar",
+    "amount": 606.42,
+    "currency": "USD",
+    "transaction_date": "2024-01-30"
+  },
+  {
+    "transaction_id": "T00276",
+    "customer_id": 436,
+    "product": "four",
+    "amount": 675.79,
+    "currency": "USD",
+    "transaction_date": "2024-05-22"
+  },
+  {
+    "transaction_id": "T00277",
+    "customer_id": 484,
+    "product": "night",
+    "amount": 946.73,
+    "currency": "USD",
+    "transaction_date": "2024-05-22"
+  },
+  {
+    "transaction_id": "T00278",
+    "customer_id": 144,
+    "product": "himself",
+    "amount": 791.72,
+    "currency": "USD",
+    "transaction_date": "2025-07-23"
+  },
+  {
+    "transaction_id": "T00279",
+    "customer_id": 109,
+    "product": "his",
+    "amount": 931.62,
+    "currency": "USD",
+    "transaction_date": "2023-12-22"
+  },
+  {
+    "transaction_id": "T00280",
+    "customer_id": 186,
+    "product": "democratic",
+    "amount": 66.98,
+    "currency": "USD",
+    "transaction_date": "2024-05-14"
+  },
+  {
+    "transaction_id": "T00281",
+    "customer_id": 223,
+    "product": "administration",
+    "amount": 65.31,
+    "currency": "USD",
+    "transaction_date": "2024-10-27"
+  },
+  {
+    "transaction_id": "T00282",
+    "customer_id": 163,
+    "product": "concern",
+    "amount": 888.83,
+    "currency": "USD",
+    "transaction_date": "2024-06-19"
+  },
+  {
+    "transaction_id": "T00283",
+    "customer_id": 235,
+    "product": "expert",
+    "amount": 708.77,
+    "currency": "USD",
+    "transaction_date": "2023-11-13"
+  },
+  {
+    "transaction_id": "T00284",
+    "customer_id": 239,
+    "product": "event",
+    "amount": 151.56,
+    "currency": "USD",
+    "transaction_date": "2023-08-16"
+  },
+  {
+    "transaction_id": "T00285",
+    "customer_id": 74,
+    "product": "thank",
+    "amount": 838.59,
+    "currency": "USD",
+    "transaction_date": "2024-08-08"
+  },
+  {
+    "transaction_id": "T00286",
+    "customer_id": 401,
+    "product": "large",
+    "amount": 110.11,
+    "currency": "USD",
+    "transaction_date": "2025-01-21"
+  },
+  {
+    "transaction_id": "T00287",
+    "customer_id": 7,
+    "product": "land",
+    "amount": 431.83,
+    "currency": "USD",
+    "transaction_date": "2023-10-17"
+  },
+  {
+    "transaction_id": "T00288",
+    "customer_id": 168,
+    "product": "wife",
+    "amount": 82.04,
+    "currency": "USD",
+    "transaction_date": "2023-10-08"
+  },
+  {
+    "transaction_id": "T00289",
+    "customer_id": 434,
+    "product": "beyond",
+    "amount": 892.98,
+    "currency": "USD",
+    "transaction_date": "2024-05-15"
+  },
+  {
+    "transaction_id": "T00290",
+    "customer_id": 194,
+    "product": "size",
+    "amount": 90.54,
+    "currency": "USD",
+    "transaction_date": "2024-02-23"
+  },
+  {
+    "transaction_id": "T00291",
+    "customer_id": 165,
+    "product": "heart",
+    "amount": 240.9,
+    "currency": "USD",
+    "transaction_date": "2024-08-07"
+  },
+  {
+    "transaction_id": "T00292",
+    "customer_id": 136,
+    "product": "compare",
+    "amount": 380.53,
+    "currency": "USD",
+    "transaction_date": "2023-09-23"
+  },
+  {
+    "transaction_id": "T00293",
+    "customer_id": 321,
+    "product": "establish",
+    "amount": 881.56,
+    "currency": "USD",
+    "transaction_date": "2025-04-17"
+  },
+  {
+    "transaction_id": "T00294",
+    "customer_id": 145,
+    "product": "laugh",
+    "amount": 947.78,
+    "currency": "USD",
+    "transaction_date": "2023-11-19"
+  },
+  {
+    "transaction_id": "T00295",
+    "customer_id": 217,
+    "product": "break",
+    "amount": 595.97,
+    "currency": "USD",
+    "transaction_date": "2025-03-21"
+  },
+  {
+    "transaction_id": "T00296",
+    "customer_id": 292,
+    "product": "maybe",
+    "amount": 382.5,
+    "currency": "USD",
+    "transaction_date": "2024-05-26"
+  },
+  {
+    "transaction_id": "T00297",
+    "customer_id": 415,
+    "product": "consumer",
+    "amount": 486.85,
+    "currency": "USD",
+    "transaction_date": "2024-11-04"
+  },
+  {
+    "transaction_id": "T00298",
+    "customer_id": 364,
+    "product": "sell",
+    "amount": 562.82,
+    "currency": "USD",
+    "transaction_date": "2023-08-22"
+  },
+  {
+    "transaction_id": "T00299",
+    "customer_id": 91,
+    "product": "like",
+    "amount": 256.24,
+    "currency": "USD",
+    "transaction_date": "2024-09-13"
+  },
+  {
+    "transaction_id": "T00300",
+    "customer_id": 19,
+    "product": "smile",
+    "amount": 120.09,
+    "currency": "USD",
+    "transaction_date": "2025-01-29"
+  },
+  {
+    "transaction_id": "T00301",
+    "customer_id": 451,
+    "product": "even",
+    "amount": 261.15,
+    "currency": "USD",
+    "transaction_date": "2025-01-02"
+  },
+  {
+    "transaction_id": "T00302",
+    "customer_id": 242,
+    "product": "above",
+    "amount": 473.97,
+    "currency": "USD",
+    "transaction_date": "2024-08-27"
+  },
+  {
+    "transaction_id": "T00303",
+    "customer_id": 58,
+    "product": "buy",
+    "amount": 743.56,
+    "currency": "USD",
+    "transaction_date": "2025-04-17"
+  },
+  {
+    "transaction_id": "T00304",
+    "customer_id": 456,
+    "product": "popular",
+    "amount": 126.35,
+    "currency": "USD",
+    "transaction_date": "2024-09-16"
+  },
+  {
+    "transaction_id": "T00305",
+    "customer_id": 361,
+    "product": "walk",
+    "amount": 746.77,
+    "currency": "USD",
+    "transaction_date": "2024-05-21"
+  },
+  {
+    "transaction_id": "T00306",
+    "customer_id": 387,
+    "product": "break",
+    "amount": 587.54,
+    "currency": "USD",
+    "transaction_date": "2025-01-29"
+  },
+  {
+    "transaction_id": "T00307",
+    "customer_id": 190,
+    "product": "side",
+    "amount": 406.22,
+    "currency": "USD",
+    "transaction_date": "2024-12-05"
+  },
+  {
+    "transaction_id": "T00308",
+    "customer_id": 369,
+    "product": "use",
+    "amount": 92.06,
+    "currency": "USD",
+    "transaction_date": "2024-12-07"
+  },
+  {
+    "transaction_id": "T00309",
+    "customer_id": 417,
+    "product": "charge",
+    "amount": 231.36,
+    "currency": "USD",
+    "transaction_date": "2024-05-07"
+  },
+  {
+    "transaction_id": "T00310",
+    "customer_id": 134,
+    "product": "performance",
+    "amount": 804.09,
+    "currency": "USD",
+    "transaction_date": "2025-01-25"
+  },
+  {
+    "transaction_id": "T00311",
+    "customer_id": 173,
+    "product": "never",
+    "amount": 970.18,
+    "currency": "USD",
+    "transaction_date": "2024-08-03"
+  },
+  {
+    "transaction_id": "T00312",
+    "customer_id": 317,
+    "product": "relationship",
+    "amount": 329.46,
+    "currency": "USD",
+    "transaction_date": "2023-12-16"
+  },
+  {
+    "transaction_id": "T00313",
+    "customer_id": 80,
+    "product": "other",
+    "amount": 532.42,
+    "currency": "USD",
+    "transaction_date": "2025-04-28"
+  },
+  {
+    "transaction_id": "T00314",
+    "customer_id": 203,
+    "product": "modern",
+    "amount": 919.92,
+    "currency": "USD",
+    "transaction_date": "2024-06-11"
+  },
+  {
+    "transaction_id": "T00315",
+    "customer_id": 164,
+    "product": "to",
+    "amount": 558.32,
+    "currency": "USD",
+    "transaction_date": "2024-09-05"
+  },
+  {
+    "transaction_id": "T00316",
+    "customer_id": 20,
+    "product": "against",
+    "amount": 84.68,
+    "currency": "USD",
+    "transaction_date": "2025-02-28"
+  },
+  {
+    "transaction_id": "T00317",
+    "customer_id": 47,
+    "product": "summer",
+    "amount": 633.1,
+    "currency": "USD",
+    "transaction_date": "2023-09-30"
+  },
+  {
+    "transaction_id": "T00318",
+    "customer_id": 14,
+    "product": "protect",
+    "amount": 301.55,
+    "currency": "USD",
+    "transaction_date": "2023-09-26"
+  },
+  {
+    "transaction_id": "T00319",
+    "customer_id": 1,
+    "product": "three",
+    "amount": 631.28,
+    "currency": "USD",
+    "transaction_date": "2024-06-27"
+  },
+  {
+    "transaction_id": "T00320",
+    "customer_id": 374,
+    "product": "deep",
+    "amount": 390.36,
+    "currency": "USD",
+    "transaction_date": "2024-03-16"
+  },
+  {
+    "transaction_id": "T00321",
+    "customer_id": 471,
+    "product": "girl",
+    "amount": 54.99,
+    "currency": "USD",
+    "transaction_date": "2024-04-04"
+  },
+  {
+    "transaction_id": "T00322",
+    "customer_id": 12,
+    "product": "forward",
+    "amount": 959.12,
+    "currency": "USD",
+    "transaction_date": "2023-11-09"
+  },
+  {
+    "transaction_id": "T00323",
+    "customer_id": 272,
+    "product": "defense",
+    "amount": 891.36,
+    "currency": "USD",
+    "transaction_date": "2024-04-10"
+  },
+  {
+    "transaction_id": "T00324",
+    "customer_id": 460,
+    "product": "certainly",
+    "amount": 115.69,
+    "currency": "USD",
+    "transaction_date": "2023-07-31"
+  },
+  {
+    "transaction_id": "T00325",
+    "customer_id": 373,
+    "product": "notice",
+    "amount": 284.61,
+    "currency": "USD",
+    "transaction_date": "2024-10-25"
+  },
+  {
+    "transaction_id": "T00326",
+    "customer_id": 348,
+    "product": "smile",
+    "amount": 650.38,
+    "currency": "USD",
+    "transaction_date": "2024-06-19"
+  },
+  {
+    "transaction_id": "T00327",
+    "customer_id": 136,
+    "product": "article",
+    "amount": 359.82,
+    "currency": "USD",
+    "transaction_date": "2025-06-06"
+  },
+  {
+    "transaction_id": "T00328",
+    "customer_id": 178,
+    "product": "enjoy",
+    "amount": 273.28,
+    "currency": "USD",
+    "transaction_date": "2024-09-04"
+  },
+  {
+    "transaction_id": "T00329",
+    "customer_id": 357,
+    "product": "increase",
+    "amount": 974.65,
+    "currency": "USD",
+    "transaction_date": "2024-11-25"
+  },
+  {
+    "transaction_id": "T00330",
+    "customer_id": 192,
+    "product": "computer",
+    "amount": 458.71,
+    "currency": "USD",
+    "transaction_date": "2024-10-07"
+  },
+  {
+    "transaction_id": "T00331",
+    "customer_id": 447,
+    "product": "serve",
+    "amount": 540.74,
+    "currency": "USD",
+    "transaction_date": "2024-10-11"
+  },
+  {
+    "transaction_id": "T00332",
+    "customer_id": 417,
+    "product": "idea",
+    "amount": 417.09,
+    "currency": "USD",
+    "transaction_date": "2025-01-18"
+  },
+  {
+    "transaction_id": "T00333",
+    "customer_id": 461,
+    "product": "billion",
+    "amount": 687.88,
+    "currency": "USD",
+    "transaction_date": "2024-10-21"
+  },
+  {
+    "transaction_id": "T00334",
+    "customer_id": 413,
+    "product": "concern",
+    "amount": 141.85,
+    "currency": "USD",
+    "transaction_date": "2023-12-26"
+  },
+  {
+    "transaction_id": "T00335",
+    "customer_id": 35,
+    "product": "car",
+    "amount": 824.31,
+    "currency": "USD",
+    "transaction_date": "2023-11-09"
+  },
+  {
+    "transaction_id": "T00336",
+    "customer_id": 82,
+    "product": "car",
+    "amount": 422.47,
+    "currency": "USD",
+    "transaction_date": "2025-01-09"
+  },
+  {
+    "transaction_id": "T00337",
+    "customer_id": 197,
+    "product": "husband",
+    "amount": 617.28,
+    "currency": "USD",
+    "transaction_date": "2024-03-28"
+  },
+  {
+    "transaction_id": "T00338",
+    "customer_id": 450,
+    "product": "recognize",
+    "amount": 91.92,
+    "currency": "USD",
+    "transaction_date": "2023-11-08"
+  },
+  {
+    "transaction_id": "T00339",
+    "customer_id": 286,
+    "product": "oil",
+    "amount": 867.4,
+    "currency": "USD",
+    "transaction_date": "2024-03-11"
+  },
+  {
+    "transaction_id": "T00340",
+    "customer_id": 365,
+    "product": "letter",
+    "amount": 173.19,
+    "currency": "USD",
+    "transaction_date": "2024-04-10"
+  },
+  {
+    "transaction_id": "T00341",
+    "customer_id": 289,
+    "product": "all",
+    "amount": 779.83,
+    "currency": "USD",
+    "transaction_date": "2024-10-05"
+  },
+  {
+    "transaction_id": "T00342",
+    "customer_id": 146,
+    "product": "condition",
+    "amount": 987.4,
+    "currency": "USD",
+    "transaction_date": "2025-05-27"
+  },
+  {
+    "transaction_id": "T00343",
+    "customer_id": 177,
+    "product": "themselves",
+    "amount": 382.97,
+    "currency": "USD",
+    "transaction_date": "2025-07-27"
+  },
+  {
+    "transaction_id": "T00344",
+    "customer_id": 282,
+    "product": "bad",
+    "amount": 387.08,
+    "currency": "USD",
+    "transaction_date": "2025-02-26"
+  },
+  {
+    "transaction_id": "T00345",
+    "customer_id": 342,
+    "product": "discover",
+    "amount": 830.87,
+    "currency": "USD",
+    "transaction_date": "2024-10-15"
+  },
+  {
+    "transaction_id": "T00346",
+    "customer_id": 177,
+    "product": "account",
+    "amount": 839.95,
+    "currency": "USD",
+    "transaction_date": "2025-01-19"
+  },
+  {
+    "transaction_id": "T00347",
+    "customer_id": 98,
+    "product": "tree",
+    "amount": 46.45,
+    "currency": "USD",
+    "transaction_date": "2024-12-01"
+  },
+  {
+    "transaction_id": "T00348",
+    "customer_id": 385,
+    "product": "still",
+    "amount": 23.54,
+    "currency": "USD",
+    "transaction_date": "2024-01-02"
+  },
+  {
+    "transaction_id": "T00349",
+    "customer_id": 311,
+    "product": "foot",
+    "amount": 866.08,
+    "currency": "USD",
+    "transaction_date": "2023-12-09"
+  },
+  {
+    "transaction_id": "T00350",
+    "customer_id": 465,
+    "product": "like",
+    "amount": 539.0,
+    "currency": "USD",
+    "transaction_date": "2023-08-03"
+  },
+  {
+    "transaction_id": "T00351",
+    "customer_id": 133,
+    "product": "create",
+    "amount": 996.67,
+    "currency": "USD",
+    "transaction_date": "2024-06-12"
+  },
+  {
+    "transaction_id": "T00352",
+    "customer_id": 437,
+    "product": "cup",
+    "amount": 589.3,
+    "currency": "USD",
+    "transaction_date": "2025-07-17"
+  },
+  {
+    "transaction_id": "T00353",
+    "customer_id": 53,
+    "product": "budget",
+    "amount": 945.32,
+    "currency": "USD",
+    "transaction_date": "2025-01-20"
+  },
+  {
+    "transaction_id": "T00354",
+    "customer_id": 458,
+    "product": "someone",
+    "amount": 384.07,
+    "currency": "USD",
+    "transaction_date": "2023-12-31"
+  },
+  {
+    "transaction_id": "T00355",
+    "customer_id": 85,
+    "product": "group",
+    "amount": 456.04,
+    "currency": "USD",
+    "transaction_date": "2025-05-16"
+  },
+  {
+    "transaction_id": "T00356",
+    "customer_id": 366,
+    "product": "argue",
+    "amount": 258.93,
+    "currency": "USD",
+    "transaction_date": "2025-07-07"
+  },
+  {
+    "transaction_id": "T00357",
+    "customer_id": 173,
+    "product": "choose",
+    "amount": 610.11,
+    "currency": "USD",
+    "transaction_date": "2024-05-11"
+  },
+  {
+    "transaction_id": "T00358",
+    "customer_id": 446,
+    "product": "better",
+    "amount": 879.44,
+    "currency": "USD",
+    "transaction_date": "2024-01-09"
+  },
+  {
+    "transaction_id": "T00359",
+    "customer_id": 488,
+    "product": "ago",
+    "amount": 621.95,
+    "currency": "USD",
+    "transaction_date": "2024-03-31"
+  },
+  {
+    "transaction_id": "T00360",
+    "customer_id": 348,
+    "product": "certain",
+    "amount": 275.99,
+    "currency": "USD",
+    "transaction_date": "2023-10-16"
+  },
+  {
+    "transaction_id": "T00361",
+    "customer_id": 39,
+    "product": "about",
+    "amount": 674.86,
+    "currency": "USD",
+    "transaction_date": "2025-05-10"
+  },
+  {
+    "transaction_id": "T00362",
+    "customer_id": 162,
+    "product": "chance",
+    "amount": 481.45,
+    "currency": "USD",
+    "transaction_date": "2025-04-13"
+  },
+  {
+    "transaction_id": "T00363",
+    "customer_id": 259,
+    "product": "out",
+    "amount": 524.96,
+    "currency": "USD",
+    "transaction_date": "2024-09-22"
+  },
+  {
+    "transaction_id": "T00364",
+    "customer_id": 268,
+    "product": "avoid",
+    "amount": 818.22,
+    "currency": "USD",
+    "transaction_date": "2024-03-27"
+  },
+  {
+    "transaction_id": "T00365",
+    "customer_id": 236,
+    "product": "audience",
+    "amount": 565.33,
+    "currency": "USD",
+    "transaction_date": "2025-05-30"
+  },
+  {
+    "transaction_id": "T00366",
+    "customer_id": 222,
+    "product": "world",
+    "amount": 793.9,
+    "currency": "USD",
+    "transaction_date": "2024-08-26"
+  },
+  {
+    "transaction_id": "T00367",
+    "customer_id": 401,
+    "product": "their",
+    "amount": 142.68,
+    "currency": "USD",
+    "transaction_date": "2025-01-02"
+  },
+  {
+    "transaction_id": "T00368",
+    "customer_id": 303,
+    "product": "near",
+    "amount": 426.33,
+    "currency": "USD",
+    "transaction_date": "2024-06-05"
+  },
+  {
+    "transaction_id": "T00369",
+    "customer_id": 229,
+    "product": "thing",
+    "amount": 624.11,
+    "currency": "USD",
+    "transaction_date": "2025-06-28"
+  },
+  {
+    "transaction_id": "T00370",
+    "customer_id": 66,
+    "product": "sister",
+    "amount": 806.99,
+    "currency": "USD",
+    "transaction_date": "2025-02-17"
+  },
+  {
+    "transaction_id": "T00371",
+    "customer_id": 103,
+    "product": "really",
+    "amount": 145.01,
+    "currency": "USD",
+    "transaction_date": "2023-10-19"
+  },
+  {
+    "transaction_id": "T00372",
+    "customer_id": 252,
+    "product": "carry",
+    "amount": 980.66,
+    "currency": "USD",
+    "transaction_date": "2024-06-21"
+  },
+  {
+    "transaction_id": "T00373",
+    "customer_id": 306,
+    "product": "likely",
+    "amount": 594.02,
+    "currency": "USD",
+    "transaction_date": "2024-11-02"
+  },
+  {
+    "transaction_id": "T00374",
+    "customer_id": 286,
+    "product": "production",
+    "amount": 559.27,
+    "currency": "USD",
+    "transaction_date": "2023-08-10"
+  },
+  {
+    "transaction_id": "T00375",
+    "customer_id": 435,
+    "product": "answer",
+    "amount": 905.12,
+    "currency": "USD",
+    "transaction_date": "2025-06-20"
+  },
+  {
+    "transaction_id": "T00376",
+    "customer_id": 308,
+    "product": "movie",
+    "amount": 551.97,
+    "currency": "USD",
+    "transaction_date": "2023-11-02"
+  },
+  {
+    "transaction_id": "T00377",
+    "customer_id": 481,
+    "product": "quality",
+    "amount": 785.82,
+    "currency": "USD",
+    "transaction_date": "2024-06-24"
+  },
+  {
+    "transaction_id": "T00378",
+    "customer_id": 30,
+    "product": "cut",
+    "amount": 625.87,
+    "currency": "USD",
+    "transaction_date": "2025-06-16"
+  },
+  {
+    "transaction_id": "T00379",
+    "customer_id": 51,
+    "product": "meet",
+    "amount": 700.67,
+    "currency": "USD",
+    "transaction_date": "2024-04-12"
+  },
+  {
+    "transaction_id": "T00380",
+    "customer_id": 285,
+    "product": "there",
+    "amount": 155.6,
+    "currency": "USD",
+    "transaction_date": "2023-11-01"
+  },
+  {
+    "transaction_id": "T00381",
+    "customer_id": 184,
+    "product": "hotel",
+    "amount": 843.67,
+    "currency": "USD",
+    "transaction_date": "2024-01-03"
+  },
+  {
+    "transaction_id": "T00382",
+    "customer_id": 273,
+    "product": "condition",
+    "amount": 265.66,
+    "currency": "USD",
+    "transaction_date": "2025-03-02"
+  },
+  {
+    "transaction_id": "T00383",
+    "customer_id": 472,
+    "product": "leg",
+    "amount": 55.4,
+    "currency": "USD",
+    "transaction_date": "2023-12-19"
+  },
+  {
+    "transaction_id": "T00384",
+    "customer_id": 262,
+    "product": "although",
+    "amount": 497.69,
+    "currency": "USD",
+    "transaction_date": "2024-04-27"
+  },
+  {
+    "transaction_id": "T00385",
+    "customer_id": 205,
+    "product": "sit",
+    "amount": 217.04,
+    "currency": "USD",
+    "transaction_date": "2024-05-23"
+  },
+  {
+    "transaction_id": "T00386",
+    "customer_id": 43,
+    "product": "situation",
+    "amount": 247.74,
+    "currency": "USD",
+    "transaction_date": "2025-07-02"
+  },
+  {
+    "transaction_id": "T00387",
+    "customer_id": 371,
+    "product": "find",
+    "amount": 541.89,
+    "currency": "USD",
+    "transaction_date": "2024-01-15"
+  },
+  {
+    "transaction_id": "T00388",
+    "customer_id": 151,
+    "product": "tell",
+    "amount": 136.77,
+    "currency": "USD",
+    "transaction_date": "2025-07-20"
+  },
+  {
+    "transaction_id": "T00389",
+    "customer_id": 95,
+    "product": "job",
+    "amount": 406.3,
+    "currency": "USD",
+    "transaction_date": "2025-03-01"
+  },
+  {
+    "transaction_id": "T00390",
+    "customer_id": 400,
+    "product": "see",
+    "amount": 644.47,
+    "currency": "USD",
+    "transaction_date": "2025-05-22"
+  },
+  {
+    "transaction_id": "T00391",
+    "customer_id": 360,
+    "product": "police",
+    "amount": 699.54,
+    "currency": "USD",
+    "transaction_date": "2025-04-27"
+  },
+  {
+    "transaction_id": "T00392",
+    "customer_id": 281,
+    "product": "really",
+    "amount": 897.82,
+    "currency": "USD",
+    "transaction_date": "2023-09-22"
+  },
+  {
+    "transaction_id": "T00393",
+    "customer_id": 195,
+    "product": "story",
+    "amount": 520.08,
+    "currency": "USD",
+    "transaction_date": "2025-06-16"
+  },
+  {
+    "transaction_id": "T00394",
+    "customer_id": 160,
+    "product": "charge",
+    "amount": 180.6,
+    "currency": "USD",
+    "transaction_date": "2025-01-25"
+  },
+  {
+    "transaction_id": "T00395",
+    "customer_id": 122,
+    "product": "walk",
+    "amount": 231.61,
+    "currency": "USD",
+    "transaction_date": "2024-07-01"
+  },
+  {
+    "transaction_id": "T00396",
+    "customer_id": 277,
+    "product": "particularly",
+    "amount": 177.25,
+    "currency": "USD",
+    "transaction_date": "2024-05-06"
+  },
+  {
+    "transaction_id": "T00397",
+    "customer_id": 92,
+    "product": "minute",
+    "amount": 354.14,
+    "currency": "USD",
+    "transaction_date": "2024-02-19"
+  },
+  {
+    "transaction_id": "T00398",
+    "customer_id": 22,
+    "product": "us",
+    "amount": 97.82,
+    "currency": "USD",
+    "transaction_date": "2024-05-28"
+  },
+  {
+    "transaction_id": "T00399",
+    "customer_id": 1,
+    "product": "meet",
+    "amount": 539.08,
+    "currency": "USD",
+    "transaction_date": "2023-12-19"
+  },
+  {
+    "transaction_id": "T00400",
+    "customer_id": 12,
+    "product": "certainly",
+    "amount": 214.27,
+    "currency": "USD",
+    "transaction_date": "2024-01-31"
+  },
+  {
+    "transaction_id": "T00401",
+    "customer_id": 34,
+    "product": "law",
+    "amount": 137.46,
+    "currency": "USD",
+    "transaction_date": "2023-09-30"
+  },
+  {
+    "transaction_id": "T00402",
+    "customer_id": 218,
+    "product": "science",
+    "amount": 693.49,
+    "currency": "USD",
+    "transaction_date": "2024-04-12"
+  },
+  {
+    "transaction_id": "T00403",
+    "customer_id": 73,
+    "product": "worker",
+    "amount": 101.37,
+    "currency": "USD",
+    "transaction_date": "2024-02-22"
+  },
+  {
+    "transaction_id": "T00404",
+    "customer_id": 47,
+    "product": "something",
+    "amount": 631.62,
+    "currency": "USD",
+    "transaction_date": "2025-07-12"
+  },
+  {
+    "transaction_id": "T00405",
+    "customer_id": 239,
+    "product": "maybe",
+    "amount": 516.54,
+    "currency": "USD",
+    "transaction_date": "2025-05-25"
+  },
+  {
+    "transaction_id": "T00406",
+    "customer_id": 107,
+    "product": "society",
+    "amount": 921.66,
+    "currency": "USD",
+    "transaction_date": "2023-09-09"
+  },
+  {
+    "transaction_id": "T00407",
+    "customer_id": 61,
+    "product": "either",
+    "amount": 12.57,
+    "currency": "USD",
+    "transaction_date": "2025-03-10"
+  },
+  {
+    "transaction_id": "T00408",
+    "customer_id": 292,
+    "product": "fine",
+    "amount": 808.14,
+    "currency": "USD",
+    "transaction_date": "2024-11-04"
+  },
+  {
+    "transaction_id": "T00409",
+    "customer_id": 113,
+    "product": "room",
+    "amount": 601.31,
+    "currency": "USD",
+    "transaction_date": "2025-05-24"
+  },
+  {
+    "transaction_id": "T00410",
+    "customer_id": 180,
+    "product": "use",
+    "amount": 217.26,
+    "currency": "USD",
+    "transaction_date": "2024-08-14"
+  },
+  {
+    "transaction_id": "T00411",
+    "customer_id": 127,
+    "product": "director",
+    "amount": 924.8,
+    "currency": "USD",
+    "transaction_date": "2024-04-02"
+  },
+  {
+    "transaction_id": "T00412",
+    "customer_id": 14,
+    "product": "place",
+    "amount": 622.07,
+    "currency": "USD",
+    "transaction_date": "2025-01-28"
+  },
+  {
+    "transaction_id": "T00413",
+    "customer_id": 471,
+    "product": "free",
+    "amount": 535.95,
+    "currency": "USD",
+    "transaction_date": "2025-07-21"
+  },
+  {
+    "transaction_id": "T00414",
+    "customer_id": 386,
+    "product": "minute",
+    "amount": 750.0,
+    "currency": "USD",
+    "transaction_date": "2023-09-13"
+  },
+  {
+    "transaction_id": "T00415",
+    "customer_id": 14,
+    "product": "someone",
+    "amount": 156.26,
+    "currency": "USD",
+    "transaction_date": "2023-11-26"
+  },
+  {
+    "transaction_id": "T00416",
+    "customer_id": 371,
+    "product": "now",
+    "amount": 716.22,
+    "currency": "USD",
+    "transaction_date": "2024-02-22"
+  },
+  {
+    "transaction_id": "T00417",
+    "customer_id": 111,
+    "product": "she",
+    "amount": 846.0,
+    "currency": "USD",
+    "transaction_date": "2024-05-24"
+  },
+  {
+    "transaction_id": "T00418",
+    "customer_id": 363,
+    "product": "two",
+    "amount": 536.79,
+    "currency": "USD",
+    "transaction_date": "2024-02-18"
+  },
+  {
+    "transaction_id": "T00419",
+    "customer_id": 493,
+    "product": "camera",
+    "amount": 868.54,
+    "currency": "USD",
+    "transaction_date": "2024-02-06"
+  },
+  {
+    "transaction_id": "T00420",
+    "customer_id": 294,
+    "product": "simple",
+    "amount": 537.29,
+    "currency": "USD",
+    "transaction_date": "2025-06-05"
+  },
+  {
+    "transaction_id": "T00421",
+    "customer_id": 15,
+    "product": "there",
+    "amount": 113.82,
+    "currency": "USD",
+    "transaction_date": "2025-06-30"
+  },
+  {
+    "transaction_id": "T00422",
+    "customer_id": 119,
+    "product": "field",
+    "amount": 383.51,
+    "currency": "USD",
+    "transaction_date": "2025-03-22"
+  },
+  {
+    "transaction_id": "T00423",
+    "customer_id": 202,
+    "product": "sea",
+    "amount": 568.33,
+    "currency": "USD",
+    "transaction_date": "2023-10-07"
+  },
+  {
+    "transaction_id": "T00424",
+    "customer_id": 273,
+    "product": "page",
+    "amount": 219.33,
+    "currency": "USD",
+    "transaction_date": "2024-10-29"
+  },
+  {
+    "transaction_id": "T00425",
+    "customer_id": 474,
+    "product": "enough",
+    "amount": 539.98,
+    "currency": "USD",
+    "transaction_date": "2024-03-17"
+  },
+  {
+    "transaction_id": "T00426",
+    "customer_id": 25,
+    "product": "offer",
+    "amount": 891.62,
+    "currency": "USD",
+    "transaction_date": "2025-07-28"
+  },
+  {
+    "transaction_id": "T00427",
+    "customer_id": 212,
+    "product": "scientist",
+    "amount": 479.23,
+    "currency": "USD",
+    "transaction_date": "2023-12-25"
+  },
+  {
+    "transaction_id": "T00428",
+    "customer_id": 394,
+    "product": "range",
+    "amount": 791.28,
+    "currency": "USD",
+    "transaction_date": "2024-04-09"
+  },
+  {
+    "transaction_id": "T00429",
+    "customer_id": 109,
+    "product": "employee",
+    "amount": 484.79,
+    "currency": "USD",
+    "transaction_date": "2025-04-14"
+  },
+  {
+    "transaction_id": "T00430",
+    "customer_id": 228,
+    "product": "quality",
+    "amount": 541.74,
+    "currency": "USD",
+    "transaction_date": "2024-11-07"
+  },
+  {
+    "transaction_id": "T00431",
+    "customer_id": 34,
+    "product": "record",
+    "amount": 562.16,
+    "currency": "USD",
+    "transaction_date": "2024-02-13"
+  },
+  {
+    "transaction_id": "T00432",
+    "customer_id": 424,
+    "product": "relationship",
+    "amount": 437.34,
+    "currency": "USD",
+    "transaction_date": "2024-07-05"
+  },
+  {
+    "transaction_id": "T00433",
+    "customer_id": 83,
+    "product": "method",
+    "amount": 384.98,
+    "currency": "USD",
+    "transaction_date": "2025-06-09"
+  },
+  {
+    "transaction_id": "T00434",
+    "customer_id": 101,
+    "product": "gun",
+    "amount": 369.45,
+    "currency": "USD",
+    "transaction_date": "2024-04-25"
+  },
+  {
+    "transaction_id": "T00435",
+    "customer_id": 282,
+    "product": "watch",
+    "amount": 611.48,
+    "currency": "USD",
+    "transaction_date": "2024-01-23"
+  },
+  {
+    "transaction_id": "T00436",
+    "customer_id": 443,
+    "product": "measure",
+    "amount": 362.54,
+    "currency": "USD",
+    "transaction_date": "2025-06-09"
+  },
+  {
+    "transaction_id": "T00437",
+    "customer_id": 365,
+    "product": "true",
+    "amount": 337.04,
+    "currency": "USD",
+    "transaction_date": "2023-10-07"
+  },
+  {
+    "transaction_id": "T00438",
+    "customer_id": 377,
+    "product": "she",
+    "amount": 244.85,
+    "currency": "USD",
+    "transaction_date": "2023-08-17"
+  },
+  {
+    "transaction_id": "T00439",
+    "customer_id": 150,
+    "product": "animal",
+    "amount": 233.08,
+    "currency": "USD",
+    "transaction_date": "2025-04-27"
+  },
+  {
+    "transaction_id": "T00440",
+    "customer_id": 70,
+    "product": "music",
+    "amount": 253.5,
+    "currency": "USD",
+    "transaction_date": "2023-12-21"
+  },
+  {
+    "transaction_id": "T00441",
+    "customer_id": 4,
+    "product": "air",
+    "amount": 852.31,
+    "currency": "USD",
+    "transaction_date": "2024-03-08"
+  },
+  {
+    "transaction_id": "T00442",
+    "customer_id": 446,
+    "product": "whom",
+    "amount": 292.24,
+    "currency": "USD",
+    "transaction_date": "2024-09-21"
+  },
+  {
+    "transaction_id": "T00443",
+    "customer_id": 95,
+    "product": "growth",
+    "amount": 65.1,
+    "currency": "USD",
+    "transaction_date": "2024-03-05"
+  },
+  {
+    "transaction_id": "T00444",
+    "customer_id": 137,
+    "product": "result",
+    "amount": 89.43,
+    "currency": "USD",
+    "transaction_date": "2024-07-11"
+  },
+  {
+    "transaction_id": "T00445",
+    "customer_id": 243,
+    "product": "discussion",
+    "amount": 28.06,
+    "currency": "USD",
+    "transaction_date": "2025-06-28"
+  },
+  {
+    "transaction_id": "T00446",
+    "customer_id": 229,
+    "product": "religious",
+    "amount": 982.55,
+    "currency": "USD",
+    "transaction_date": "2024-07-25"
+  },
+  {
+    "transaction_id": "T00447",
+    "customer_id": 223,
+    "product": "social",
+    "amount": 897.64,
+    "currency": "USD",
+    "transaction_date": "2024-02-01"
+  },
+  {
+    "transaction_id": "T00448",
+    "customer_id": 468,
+    "product": "system",
+    "amount": 969.78,
+    "currency": "USD",
+    "transaction_date": "2024-04-23"
+  },
+  {
+    "transaction_id": "T00449",
+    "customer_id": 4,
+    "product": "economic",
+    "amount": 15.25,
+    "currency": "USD",
+    "transaction_date": "2023-10-25"
+  },
+  {
+    "transaction_id": "T00450",
+    "customer_id": 118,
+    "product": "road",
+    "amount": 265.32,
+    "currency": "USD",
+    "transaction_date": "2024-07-22"
+  },
+  {
+    "transaction_id": "T00451",
+    "customer_id": 486,
+    "product": "could",
+    "amount": 671.96,
+    "currency": "USD",
+    "transaction_date": "2025-01-04"
+  },
+  {
+    "transaction_id": "T00452",
+    "customer_id": 441,
+    "product": "bed",
+    "amount": 721.27,
+    "currency": "USD",
+    "transaction_date": "2024-06-18"
+  },
+  {
+    "transaction_id": "T00453",
+    "customer_id": 203,
+    "product": "view",
+    "amount": 575.9,
+    "currency": "USD",
+    "transaction_date": "2025-06-26"
+  },
+  {
+    "transaction_id": "T00454",
+    "customer_id": 435,
+    "product": "oil",
+    "amount": 840.2,
+    "currency": "USD",
+    "transaction_date": "2024-08-29"
+  },
+  {
+    "transaction_id": "T00455",
+    "customer_id": 133,
+    "product": "sister",
+    "amount": 195.17,
+    "currency": "USD",
+    "transaction_date": "2023-10-30"
+  },
+  {
+    "transaction_id": "T00456",
+    "customer_id": 118,
+    "product": "authority",
+    "amount": 713.84,
+    "currency": "USD",
+    "transaction_date": "2024-04-08"
+  },
+  {
+    "transaction_id": "T00457",
+    "customer_id": 212,
+    "product": "truth",
+    "amount": 512.53,
+    "currency": "USD",
+    "transaction_date": "2023-08-01"
+  },
+  {
+    "transaction_id": "T00458",
+    "customer_id": 113,
+    "product": "design",
+    "amount": 534.54,
+    "currency": "USD",
+    "transaction_date": "2023-10-12"
+  },
+  {
+    "transaction_id": "T00459",
+    "customer_id": 1,
+    "product": "time",
+    "amount": 614.51,
+    "currency": "USD",
+    "transaction_date": "2023-11-13"
+  },
+  {
+    "transaction_id": "T00460",
+    "customer_id": 320,
+    "product": "million",
+    "amount": 96.42,
+    "currency": "USD",
+    "transaction_date": "2024-08-29"
+  },
+  {
+    "transaction_id": "T00461",
+    "customer_id": 382,
+    "product": "car",
+    "amount": 162.82,
+    "currency": "USD",
+    "transaction_date": "2025-04-09"
+  },
+  {
+    "transaction_id": "T00462",
+    "customer_id": 356,
+    "product": "religious",
+    "amount": 327.44,
+    "currency": "USD",
+    "transaction_date": "2023-10-07"
+  },
+  {
+    "transaction_id": "T00463",
+    "customer_id": 259,
+    "product": "benefit",
+    "amount": 61.31,
+    "currency": "USD",
+    "transaction_date": "2025-05-31"
+  },
+  {
+    "transaction_id": "T00464",
+    "customer_id": 178,
+    "product": "dog",
+    "amount": 459.73,
+    "currency": "USD",
+    "transaction_date": "2023-08-16"
+  },
+  {
+    "transaction_id": "T00465",
+    "customer_id": 261,
+    "product": "cost",
+    "amount": 72.74,
+    "currency": "USD",
+    "transaction_date": "2024-11-03"
+  },
+  {
+    "transaction_id": "T00466",
+    "customer_id": 172,
+    "product": "mention",
+    "amount": 209.71,
+    "currency": "USD",
+    "transaction_date": "2024-07-13"
+  },
+  {
+    "transaction_id": "T00467",
+    "customer_id": 168,
+    "product": "couple",
+    "amount": 811.78,
+    "currency": "USD",
+    "transaction_date": "2024-05-31"
+  },
+  {
+    "transaction_id": "T00468",
+    "customer_id": 321,
+    "product": "rock",
+    "amount": 147.44,
+    "currency": "USD",
+    "transaction_date": "2025-06-11"
+  },
+  {
+    "transaction_id": "T00469",
+    "customer_id": 329,
+    "product": "fish",
+    "amount": 762.63,
+    "currency": "USD",
+    "transaction_date": "2024-01-12"
+  },
+  {
+    "transaction_id": "T00470",
+    "customer_id": 459,
+    "product": "energy",
+    "amount": 478.43,
+    "currency": "USD",
+    "transaction_date": "2023-10-11"
+  },
+  {
+    "transaction_id": "T00471",
+    "customer_id": 38,
+    "product": "hospital",
+    "amount": 417.72,
+    "currency": "USD",
+    "transaction_date": "2024-08-07"
+  },
+  {
+    "transaction_id": "T00472",
+    "customer_id": 94,
+    "product": "week",
+    "amount": 115.63,
+    "currency": "USD",
+    "transaction_date": "2023-12-18"
+  },
+  {
+    "transaction_id": "T00473",
+    "customer_id": 69,
+    "product": "certain",
+    "amount": 832.31,
+    "currency": "USD",
+    "transaction_date": "2025-02-07"
+  },
+  {
+    "transaction_id": "T00474",
+    "customer_id": 236,
+    "product": "environmental",
+    "amount": 414.43,
+    "currency": "USD",
+    "transaction_date": "2024-10-17"
+  },
+  {
+    "transaction_id": "T00475",
+    "customer_id": 373,
+    "product": "not",
+    "amount": 733.56,
+    "currency": "USD",
+    "transaction_date": "2024-12-16"
+  },
+  {
+    "transaction_id": "T00476",
+    "customer_id": 137,
+    "product": "although",
+    "amount": 212.95,
+    "currency": "USD",
+    "transaction_date": "2025-04-24"
+  },
+  {
+    "transaction_id": "T00477",
+    "customer_id": 483,
+    "product": "draw",
+    "amount": 75.83,
+    "currency": "USD",
+    "transaction_date": "2023-08-13"
+  },
+  {
+    "transaction_id": "T00478",
+    "customer_id": 296,
+    "product": "will",
+    "amount": 724.38,
+    "currency": "USD",
+    "transaction_date": "2024-01-06"
+  },
+  {
+    "transaction_id": "T00479",
+    "customer_id": 60,
+    "product": "reflect",
+    "amount": 843.41,
+    "currency": "USD",
+    "transaction_date": "2024-08-25"
+  },
+  {
+    "transaction_id": "T00480",
+    "customer_id": 328,
+    "product": "lot",
+    "amount": 829.66,
+    "currency": "USD",
+    "transaction_date": "2024-11-02"
+  },
+  {
+    "transaction_id": "T00481",
+    "customer_id": 229,
+    "product": "quality",
+    "amount": 209.61,
+    "currency": "USD",
+    "transaction_date": "2023-12-16"
+  },
+  {
+    "transaction_id": "T00482",
+    "customer_id": 286,
+    "product": "stay",
+    "amount": 826.88,
+    "currency": "USD",
+    "transaction_date": "2025-02-19"
+  },
+  {
+    "transaction_id": "T00483",
+    "customer_id": 165,
+    "product": "pick",
+    "amount": 816.43,
+    "currency": "USD",
+    "transaction_date": "2023-11-28"
+  },
+  {
+    "transaction_id": "T00484",
+    "customer_id": 379,
+    "product": "performance",
+    "amount": 637.42,
+    "currency": "USD",
+    "transaction_date": "2024-01-12"
+  },
+  {
+    "transaction_id": "T00485",
+    "customer_id": 62,
+    "product": "pay",
+    "amount": 365.24,
+    "currency": "USD",
+    "transaction_date": "2024-09-19"
+  },
+  {
+    "transaction_id": "T00486",
+    "customer_id": 237,
+    "product": "art",
+    "amount": 592.42,
+    "currency": "USD",
+    "transaction_date": "2023-08-15"
+  },
+  {
+    "transaction_id": "T00487",
+    "customer_id": 402,
+    "product": "let",
+    "amount": 818.43,
+    "currency": "USD",
+    "transaction_date": "2025-03-07"
+  },
+  {
+    "transaction_id": "T00488",
+    "customer_id": 295,
+    "product": "surface",
+    "amount": 716.64,
+    "currency": "USD",
+    "transaction_date": "2024-08-22"
+  },
+  {
+    "transaction_id": "T00489",
+    "customer_id": 288,
+    "product": "garden",
+    "amount": 468.05,
+    "currency": "USD",
+    "transaction_date": "2025-06-19"
+  },
+  {
+    "transaction_id": "T00490",
+    "customer_id": 422,
+    "product": "read",
+    "amount": 544.38,
+    "currency": "USD",
+    "transaction_date": "2025-01-27"
+  },
+  {
+    "transaction_id": "T00491",
+    "customer_id": 63,
+    "product": "before",
+    "amount": 507.69,
+    "currency": "USD",
+    "transaction_date": "2023-09-05"
+  },
+  {
+    "transaction_id": "T00492",
+    "customer_id": 153,
+    "product": "firm",
+    "amount": 361.81,
+    "currency": "USD",
+    "transaction_date": "2024-08-02"
+  },
+  {
+    "transaction_id": "T00493",
+    "customer_id": 495,
+    "product": "push",
+    "amount": 390.05,
+    "currency": "USD",
+    "transaction_date": "2024-08-21"
+  },
+  {
+    "transaction_id": "T00494",
+    "customer_id": 462,
+    "product": "third",
+    "amount": 75.95,
+    "currency": "USD",
+    "transaction_date": "2024-11-10"
+  },
+  {
+    "transaction_id": "T00495",
+    "customer_id": 104,
+    "product": "what",
+    "amount": 628.0,
+    "currency": "USD",
+    "transaction_date": "2025-05-25"
+  },
+  {
+    "transaction_id": "T00496",
+    "customer_id": 435,
+    "product": "very",
+    "amount": 437.21,
+    "currency": "USD",
+    "transaction_date": "2025-07-02"
+  },
+  {
+    "transaction_id": "T00497",
+    "customer_id": 67,
+    "product": "which",
+    "amount": 631.43,
+    "currency": "USD",
+    "transaction_date": "2024-12-21"
+  },
+  {
+    "transaction_id": "T00498",
+    "customer_id": 456,
+    "product": "themselves",
+    "amount": 696.78,
+    "currency": "USD",
+    "transaction_date": "2024-06-25"
+  },
+  {
+    "transaction_id": "T00499",
+    "customer_id": 500,
+    "product": "day",
+    "amount": 796.08,
+    "currency": "USD",
+    "transaction_date": "2023-10-11"
+  },
+  {
+    "transaction_id": "T00500",
+    "customer_id": 157,
+    "product": "would",
+    "amount": 500.47,
+    "currency": "USD",
+    "transaction_date": "2025-06-03"
+  },
+  {
+    "transaction_id": "T00501",
+    "customer_id": 478,
+    "product": "sit",
+    "amount": 894.95,
+    "currency": "USD",
+    "transaction_date": "2024-08-23"
+  },
+  {
+    "transaction_id": "T00502",
+    "customer_id": 420,
+    "product": "let",
+    "amount": 997.72,
+    "currency": "USD",
+    "transaction_date": "2024-11-21"
+  },
+  {
+    "transaction_id": "T00503",
+    "customer_id": 441,
+    "product": "near",
+    "amount": 318.6,
+    "currency": "USD",
+    "transaction_date": "2024-10-12"
+  },
+  {
+    "transaction_id": "T00504",
+    "customer_id": 485,
+    "product": "change",
+    "amount": 780.79,
+    "currency": "USD",
+    "transaction_date": "2024-05-22"
+  },
+  {
+    "transaction_id": "T00505",
+    "customer_id": 289,
+    "product": "issue",
+    "amount": 43.2,
+    "currency": "USD",
+    "transaction_date": "2023-12-31"
+  },
+  {
+    "transaction_id": "T00506",
+    "customer_id": 86,
+    "product": "form",
+    "amount": 716.92,
+    "currency": "USD",
+    "transaction_date": "2023-12-15"
+  },
+  {
+    "transaction_id": "T00507",
+    "customer_id": 5,
+    "product": "image",
+    "amount": 878.0,
+    "currency": "USD",
+    "transaction_date": "2025-01-12"
+  },
+  {
+    "transaction_id": "T00508",
+    "customer_id": 353,
+    "product": "more",
+    "amount": 111.89,
+    "currency": "USD",
+    "transaction_date": "2024-07-25"
+  },
+  {
+    "transaction_id": "T00509",
+    "customer_id": 397,
+    "product": "picture",
+    "amount": 119.53,
+    "currency": "USD",
+    "transaction_date": "2023-09-24"
+  },
+  {
+    "transaction_id": "T00510",
+    "customer_id": 228,
+    "product": "their",
+    "amount": 462.43,
+    "currency": "USD",
+    "transaction_date": "2023-08-14"
+  },
+  {
+    "transaction_id": "T00511",
+    "customer_id": 436,
+    "product": "customer",
+    "amount": 403.31,
+    "currency": "USD",
+    "transaction_date": "2024-12-31"
+  },
+  {
+    "transaction_id": "T00512",
+    "customer_id": 157,
+    "product": "or",
+    "amount": 544.46,
+    "currency": "USD",
+    "transaction_date": "2024-04-05"
+  },
+  {
+    "transaction_id": "T00513",
+    "customer_id": 157,
+    "product": "approach",
+    "amount": 236.96,
+    "currency": "USD",
+    "transaction_date": "2025-04-15"
+  },
+  {
+    "transaction_id": "T00514",
+    "customer_id": 332,
+    "product": "ahead",
+    "amount": 774.16,
+    "currency": "USD",
+    "transaction_date": "2025-06-09"
+  },
+  {
+    "transaction_id": "T00515",
+    "customer_id": 411,
+    "product": "leave",
+    "amount": 644.74,
+    "currency": "USD",
+    "transaction_date": "2023-08-21"
+  },
+  {
+    "transaction_id": "T00516",
+    "customer_id": 243,
+    "product": "week",
+    "amount": 569.85,
+    "currency": "USD",
+    "transaction_date": "2025-07-22"
+  },
+  {
+    "transaction_id": "T00517",
+    "customer_id": 282,
+    "product": "compare",
+    "amount": 259.28,
+    "currency": "USD",
+    "transaction_date": "2023-08-24"
+  },
+  {
+    "transaction_id": "T00518",
+    "customer_id": 69,
+    "product": "out",
+    "amount": 828.53,
+    "currency": "USD",
+    "transaction_date": "2025-07-13"
+  },
+  {
+    "transaction_id": "T00519",
+    "customer_id": 254,
+    "product": "create",
+    "amount": 909.37,
+    "currency": "USD",
+    "transaction_date": "2024-11-03"
+  },
+  {
+    "transaction_id": "T00520",
+    "customer_id": 38,
+    "product": "best",
+    "amount": 235.08,
+    "currency": "USD",
+    "transaction_date": "2024-11-11"
+  },
+  {
+    "transaction_id": "T00521",
+    "customer_id": 23,
+    "product": "painting",
+    "amount": 467.39,
+    "currency": "USD",
+    "transaction_date": "2024-12-05"
+  },
+  {
+    "transaction_id": "T00522",
+    "customer_id": 302,
+    "product": "town",
+    "amount": 618.8,
+    "currency": "USD",
+    "transaction_date": "2024-05-05"
+  },
+  {
+    "transaction_id": "T00523",
+    "customer_id": 218,
+    "product": "leg",
+    "amount": 590.37,
+    "currency": "USD",
+    "transaction_date": "2025-07-28"
+  },
+  {
+    "transaction_id": "T00524",
+    "customer_id": 446,
+    "product": "never",
+    "amount": 109.79,
+    "currency": "USD",
+    "transaction_date": "2024-01-21"
+  },
+  {
+    "transaction_id": "T00525",
+    "customer_id": 481,
+    "product": "executive",
+    "amount": 27.93,
+    "currency": "USD",
+    "transaction_date": "2024-05-11"
+  },
+  {
+    "transaction_id": "T00526",
+    "customer_id": 316,
+    "product": "we",
+    "amount": 597.03,
+    "currency": "USD",
+    "transaction_date": "2024-08-27"
+  },
+  {
+    "transaction_id": "T00527",
+    "customer_id": 492,
+    "product": "above",
+    "amount": 569.48,
+    "currency": "USD",
+    "transaction_date": "2024-05-15"
+  },
+  {
+    "transaction_id": "T00528",
+    "customer_id": 324,
+    "product": "thought",
+    "amount": 792.18,
+    "currency": "USD",
+    "transaction_date": "2024-06-27"
+  },
+  {
+    "transaction_id": "T00529",
+    "customer_id": 293,
+    "product": "board",
+    "amount": 710.17,
+    "currency": "USD",
+    "transaction_date": "2024-01-12"
+  },
+  {
+    "transaction_id": "T00530",
+    "customer_id": 106,
+    "product": "series",
+    "amount": 773.53,
+    "currency": "USD",
+    "transaction_date": "2024-01-15"
+  },
+  {
+    "transaction_id": "T00531",
+    "customer_id": 287,
+    "product": "edge",
+    "amount": 610.65,
+    "currency": "USD",
+    "transaction_date": "2024-06-02"
+  },
+  {
+    "transaction_id": "T00532",
+    "customer_id": 51,
+    "product": "water",
+    "amount": 739.08,
+    "currency": "USD",
+    "transaction_date": "2024-10-19"
+  },
+  {
+    "transaction_id": "T00533",
+    "customer_id": 296,
+    "product": "fact",
+    "amount": 842.04,
+    "currency": "USD",
+    "transaction_date": "2025-02-21"
+  },
+  {
+    "transaction_id": "T00534",
+    "customer_id": 267,
+    "product": "theory",
+    "amount": 456.33,
+    "currency": "USD",
+    "transaction_date": "2024-08-21"
+  },
+  {
+    "transaction_id": "T00535",
+    "customer_id": 302,
+    "product": "degree",
+    "amount": 243.55,
+    "currency": "USD",
+    "transaction_date": "2024-08-27"
+  },
+  {
+    "transaction_id": "T00536",
+    "customer_id": 346,
+    "product": "player",
+    "amount": 840.51,
+    "currency": "USD",
+    "transaction_date": "2024-07-01"
+  },
+  {
+    "transaction_id": "T00537",
+    "customer_id": 182,
+    "product": "education",
+    "amount": 839.12,
+    "currency": "USD",
+    "transaction_date": "2023-11-06"
+  },
+  {
+    "transaction_id": "T00538",
+    "customer_id": 1,
+    "product": "Congress",
+    "amount": 871.2,
+    "currency": "USD",
+    "transaction_date": "2024-05-25"
+  },
+  {
+    "transaction_id": "T00539",
+    "customer_id": 55,
+    "product": "manager",
+    "amount": 235.12,
+    "currency": "USD",
+    "transaction_date": "2025-07-12"
+  },
+  {
+    "transaction_id": "T00540",
+    "customer_id": 399,
+    "product": "dog",
+    "amount": 405.01,
+    "currency": "USD",
+    "transaction_date": "2024-12-11"
+  },
+  {
+    "transaction_id": "T00541",
+    "customer_id": 457,
+    "product": "quite",
+    "amount": 746.81,
+    "currency": "USD",
+    "transaction_date": "2024-08-12"
+  },
+  {
+    "transaction_id": "T00542",
+    "customer_id": 202,
+    "product": "she",
+    "amount": 804.82,
+    "currency": "USD",
+    "transaction_date": "2024-10-18"
+  },
+  {
+    "transaction_id": "T00543",
+    "customer_id": 117,
+    "product": "training",
+    "amount": 607.68,
+    "currency": "USD",
+    "transaction_date": "2025-03-04"
+  },
+  {
+    "transaction_id": "T00544",
+    "customer_id": 291,
+    "product": "oil",
+    "amount": 404.19,
+    "currency": "USD",
+    "transaction_date": "2025-03-10"
+  },
+  {
+    "transaction_id": "T00545",
+    "customer_id": 25,
+    "product": "center",
+    "amount": 864.88,
+    "currency": "USD",
+    "transaction_date": "2025-07-20"
+  },
+  {
+    "transaction_id": "T00546",
+    "customer_id": 294,
+    "product": "onto",
+    "amount": 352.88,
+    "currency": "USD",
+    "transaction_date": "2025-03-22"
+  },
+  {
+    "transaction_id": "T00547",
+    "customer_id": 210,
+    "product": "national",
+    "amount": 486.03,
+    "currency": "USD",
+    "transaction_date": "2025-07-16"
+  },
+  {
+    "transaction_id": "T00548",
+    "customer_id": 347,
+    "product": "life",
+    "amount": 457.7,
+    "currency": "USD",
+    "transaction_date": "2023-10-29"
+  },
+  {
+    "transaction_id": "T00549",
+    "customer_id": 427,
+    "product": "strong",
+    "amount": 42.52,
+    "currency": "USD",
+    "transaction_date": "2023-07-31"
+  },
+  {
+    "transaction_id": "T00550",
+    "customer_id": 251,
+    "product": "grow",
+    "amount": 149.45,
+    "currency": "USD",
+    "transaction_date": "2023-12-11"
+  },
+  {
+    "transaction_id": "T00551",
+    "customer_id": 152,
+    "product": "there",
+    "amount": 581.86,
+    "currency": "USD",
+    "transaction_date": "2024-03-13"
+  },
+  {
+    "transaction_id": "T00552",
+    "customer_id": 180,
+    "product": "many",
+    "amount": 424.74,
+    "currency": "USD",
+    "transaction_date": "2024-07-09"
+  },
+  {
+    "transaction_id": "T00553",
+    "customer_id": 344,
+    "product": "dream",
+    "amount": 318.36,
+    "currency": "USD",
+    "transaction_date": "2024-01-15"
+  },
+  {
+    "transaction_id": "T00554",
+    "customer_id": 285,
+    "product": "arrive",
+    "amount": 584.78,
+    "currency": "USD",
+    "transaction_date": "2025-03-30"
+  },
+  {
+    "transaction_id": "T00555",
+    "customer_id": 150,
+    "product": "recently",
+    "amount": 227.9,
+    "currency": "USD",
+    "transaction_date": "2025-06-13"
+  },
+  {
+    "transaction_id": "T00556",
+    "customer_id": 370,
+    "product": "market",
+    "amount": 666.9,
+    "currency": "USD",
+    "transaction_date": "2025-07-29"
+  },
+  {
+    "transaction_id": "T00557",
+    "customer_id": 455,
+    "product": "show",
+    "amount": 975.79,
+    "currency": "USD",
+    "transaction_date": "2025-07-05"
+  },
+  {
+    "transaction_id": "T00558",
+    "customer_id": 361,
+    "product": "success",
+    "amount": 157.18,
+    "currency": "USD",
+    "transaction_date": "2024-05-30"
+  },
+  {
+    "transaction_id": "T00559",
+    "customer_id": 118,
+    "product": "line",
+    "amount": 862.03,
+    "currency": "USD",
+    "transaction_date": "2023-10-31"
+  },
+  {
+    "transaction_id": "T00560",
+    "customer_id": 63,
+    "product": "billion",
+    "amount": 996.91,
+    "currency": "USD",
+    "transaction_date": "2024-02-11"
+  },
+  {
+    "transaction_id": "T00561",
+    "customer_id": 49,
+    "product": "why",
+    "amount": 306.6,
+    "currency": "USD",
+    "transaction_date": "2024-09-07"
+  },
+  {
+    "transaction_id": "T00562",
+    "customer_id": 224,
+    "product": "behavior",
+    "amount": 76.41,
+    "currency": "USD",
+    "transaction_date": "2023-12-23"
+  },
+  {
+    "transaction_id": "T00563",
+    "customer_id": 215,
+    "product": "matter",
+    "amount": 432.52,
+    "currency": "USD",
+    "transaction_date": "2025-03-30"
+  },
+  {
+    "transaction_id": "T00564",
+    "customer_id": 440,
+    "product": "discuss",
+    "amount": 899.07,
+    "currency": "USD",
+    "transaction_date": "2024-06-16"
+  },
+  {
+    "transaction_id": "T00565",
+    "customer_id": 32,
+    "product": "better",
+    "amount": 473.55,
+    "currency": "USD",
+    "transaction_date": "2024-06-07"
+  },
+  {
+    "transaction_id": "T00566",
+    "customer_id": 305,
+    "product": "environmental",
+    "amount": 46.18,
+    "currency": "USD",
+    "transaction_date": "2024-07-02"
+  },
+  {
+    "transaction_id": "T00567",
+    "customer_id": 286,
+    "product": "common",
+    "amount": 838.2,
+    "currency": "USD",
+    "transaction_date": "2023-10-27"
+  },
+  {
+    "transaction_id": "T00568",
+    "customer_id": 19,
+    "product": "research",
+    "amount": 75.05,
+    "currency": "USD",
+    "transaction_date": "2025-01-05"
+  },
+  {
+    "transaction_id": "T00569",
+    "customer_id": 78,
+    "product": "increase",
+    "amount": 716.92,
+    "currency": "USD",
+    "transaction_date": "2023-12-18"
+  },
+  {
+    "transaction_id": "T00570",
+    "customer_id": 498,
+    "product": "if",
+    "amount": 529.15,
+    "currency": "USD",
+    "transaction_date": "2024-07-09"
+  },
+  {
+    "transaction_id": "T00571",
+    "customer_id": 476,
+    "product": "order",
+    "amount": 486.28,
+    "currency": "USD",
+    "transaction_date": "2025-04-29"
+  },
+  {
+    "transaction_id": "T00572",
+    "customer_id": 222,
+    "product": "military",
+    "amount": 564.04,
+    "currency": "USD",
+    "transaction_date": "2024-09-05"
+  },
+  {
+    "transaction_id": "T00573",
+    "customer_id": 319,
+    "product": "these",
+    "amount": 111.95,
+    "currency": "USD",
+    "transaction_date": "2023-08-24"
+  },
+  {
+    "transaction_id": "T00574",
+    "customer_id": 264,
+    "product": "reduce",
+    "amount": 863.17,
+    "currency": "USD",
+    "transaction_date": "2024-03-24"
+  },
+  {
+    "transaction_id": "T00575",
+    "customer_id": 359,
+    "product": "team",
+    "amount": 755.71,
+    "currency": "USD",
+    "transaction_date": "2025-01-30"
+  },
+  {
+    "transaction_id": "T00576",
+    "customer_id": 266,
+    "product": "real",
+    "amount": 278.04,
+    "currency": "USD",
+    "transaction_date": "2024-04-27"
+  },
+  {
+    "transaction_id": "T00577",
+    "customer_id": 366,
+    "product": "role",
+    "amount": 531.31,
+    "currency": "USD",
+    "transaction_date": "2025-05-26"
+  },
+  {
+    "transaction_id": "T00578",
+    "customer_id": 481,
+    "product": "impact",
+    "amount": 35.13,
+    "currency": "USD",
+    "transaction_date": "2025-01-11"
+  },
+  {
+    "transaction_id": "T00579",
+    "customer_id": 476,
+    "product": "out",
+    "amount": 841.39,
+    "currency": "USD",
+    "transaction_date": "2024-08-23"
+  },
+  {
+    "transaction_id": "T00580",
+    "customer_id": 391,
+    "product": "create",
+    "amount": 662.33,
+    "currency": "USD",
+    "transaction_date": "2024-04-05"
+  },
+  {
+    "transaction_id": "T00581",
+    "customer_id": 321,
+    "product": "security",
+    "amount": 556.21,
+    "currency": "USD",
+    "transaction_date": "2024-08-13"
+  },
+  {
+    "transaction_id": "T00582",
+    "customer_id": 323,
+    "product": "thus",
+    "amount": 238.76,
+    "currency": "USD",
+    "transaction_date": "2024-01-02"
+  },
+  {
+    "transaction_id": "T00583",
+    "customer_id": 443,
+    "product": "training",
+    "amount": 510.45,
+    "currency": "USD",
+    "transaction_date": "2024-09-11"
+  },
+  {
+    "transaction_id": "T00584",
+    "customer_id": 328,
+    "product": "they",
+    "amount": 113.07,
+    "currency": "USD",
+    "transaction_date": "2025-07-27"
+  },
+  {
+    "transaction_id": "T00585",
+    "customer_id": 239,
+    "product": "create",
+    "amount": 573.75,
+    "currency": "USD",
+    "transaction_date": "2023-08-17"
+  },
+  {
+    "transaction_id": "T00586",
+    "customer_id": 51,
+    "product": "manage",
+    "amount": 656.22,
+    "currency": "USD",
+    "transaction_date": "2024-07-21"
+  },
+  {
+    "transaction_id": "T00587",
+    "customer_id": 495,
+    "product": "guess",
+    "amount": 723.6,
+    "currency": "USD",
+    "transaction_date": "2023-10-08"
+  },
+  {
+    "transaction_id": "T00588",
+    "customer_id": 291,
+    "product": "no",
+    "amount": 250.74,
+    "currency": "USD",
+    "transaction_date": "2023-07-31"
+  },
+  {
+    "transaction_id": "T00589",
+    "customer_id": 78,
+    "product": "answer",
+    "amount": 607.17,
+    "currency": "USD",
+    "transaction_date": "2024-02-23"
+  },
+  {
+    "transaction_id": "T00590",
+    "customer_id": 302,
+    "product": "research",
+    "amount": 831.92,
+    "currency": "USD",
+    "transaction_date": "2024-11-25"
+  },
+  {
+    "transaction_id": "T00591",
+    "customer_id": 452,
+    "product": "future",
+    "amount": 944.97,
+    "currency": "USD",
+    "transaction_date": "2023-12-02"
+  },
+  {
+    "transaction_id": "T00592",
+    "customer_id": 182,
+    "product": "poor",
+    "amount": 212.93,
+    "currency": "USD",
+    "transaction_date": "2024-01-05"
+  },
+  {
+    "transaction_id": "T00593",
+    "customer_id": 223,
+    "product": "federal",
+    "amount": 330.75,
+    "currency": "USD",
+    "transaction_date": "2025-04-12"
+  },
+  {
+    "transaction_id": "T00594",
+    "customer_id": 466,
+    "product": "enough",
+    "amount": 22.87,
+    "currency": "USD",
+    "transaction_date": "2024-07-21"
+  },
+  {
+    "transaction_id": "T00595",
+    "customer_id": 263,
+    "product": "push",
+    "amount": 738.55,
+    "currency": "USD",
+    "transaction_date": "2024-08-23"
+  },
+  {
+    "transaction_id": "T00596",
+    "customer_id": 85,
+    "product": "turn",
+    "amount": 36.27,
+    "currency": "USD",
+    "transaction_date": "2023-12-07"
+  },
+  {
+    "transaction_id": "T00597",
+    "customer_id": 381,
+    "product": "dream",
+    "amount": 877.68,
+    "currency": "USD",
+    "transaction_date": "2023-08-22"
+  },
+  {
+    "transaction_id": "T00598",
+    "customer_id": 285,
+    "product": "indeed",
+    "amount": 427.21,
+    "currency": "USD",
+    "transaction_date": "2023-12-28"
+  },
+  {
+    "transaction_id": "T00599",
+    "customer_id": 2,
+    "product": "beautiful",
+    "amount": 911.52,
+    "currency": "USD",
+    "transaction_date": "2024-09-15"
+  },
+  {
+    "transaction_id": "T00600",
+    "customer_id": 197,
+    "product": "face",
+    "amount": 348.4,
+    "currency": "USD",
+    "transaction_date": "2025-06-26"
+  },
+  {
+    "transaction_id": "T00601",
+    "customer_id": 234,
+    "product": "once",
+    "amount": 826.86,
+    "currency": "USD",
+    "transaction_date": "2025-01-17"
+  },
+  {
+    "transaction_id": "T00602",
+    "customer_id": 195,
+    "product": "site",
+    "amount": 594.39,
+    "currency": "USD",
+    "transaction_date": "2024-07-06"
+  },
+  {
+    "transaction_id": "T00603",
+    "customer_id": 396,
+    "product": "control",
+    "amount": 832.35,
+    "currency": "USD",
+    "transaction_date": "2023-11-05"
+  },
+  {
+    "transaction_id": "T00604",
+    "customer_id": 293,
+    "product": "sister",
+    "amount": 415.32,
+    "currency": "USD",
+    "transaction_date": "2025-02-06"
+  },
+  {
+    "transaction_id": "T00605",
+    "customer_id": 222,
+    "product": "choose",
+    "amount": 369.13,
+    "currency": "USD",
+    "transaction_date": "2024-06-04"
+  },
+  {
+    "transaction_id": "T00606",
+    "customer_id": 53,
+    "product": "employee",
+    "amount": 301.52,
+    "currency": "USD",
+    "transaction_date": "2025-05-26"
+  },
+  {
+    "transaction_id": "T00607",
+    "customer_id": 500,
+    "product": "last",
+    "amount": 974.8,
+    "currency": "USD",
+    "transaction_date": "2024-01-29"
+  },
+  {
+    "transaction_id": "T00608",
+    "customer_id": 364,
+    "product": "answer",
+    "amount": 148.71,
+    "currency": "USD",
+    "transaction_date": "2024-12-31"
+  },
+  {
+    "transaction_id": "T00609",
+    "customer_id": 202,
+    "product": "market",
+    "amount": 570.12,
+    "currency": "USD",
+    "transaction_date": "2024-03-05"
+  },
+  {
+    "transaction_id": "T00610",
+    "customer_id": 59,
+    "product": "think",
+    "amount": 895.61,
+    "currency": "USD",
+    "transaction_date": "2025-07-03"
+  },
+  {
+    "transaction_id": "T00611",
+    "customer_id": 128,
+    "product": "sea",
+    "amount": 190.29,
+    "currency": "USD",
+    "transaction_date": "2024-11-14"
+  },
+  {
+    "transaction_id": "T00612",
+    "customer_id": 370,
+    "product": "program",
+    "amount": 32.24,
+    "currency": "USD",
+    "transaction_date": "2023-09-28"
+  },
+  {
+    "transaction_id": "T00613",
+    "customer_id": 14,
+    "product": "onto",
+    "amount": 744.27,
+    "currency": "USD",
+    "transaction_date": "2024-07-06"
+  },
+  {
+    "transaction_id": "T00614",
+    "customer_id": 450,
+    "product": "rate",
+    "amount": 637.14,
+    "currency": "USD",
+    "transaction_date": "2024-08-19"
+  },
+  {
+    "transaction_id": "T00615",
+    "customer_id": 359,
+    "product": "system",
+    "amount": 225.84,
+    "currency": "USD",
+    "transaction_date": "2023-12-05"
+  },
+  {
+    "transaction_id": "T00616",
+    "customer_id": 278,
+    "product": "marriage",
+    "amount": 836.58,
+    "currency": "USD",
+    "transaction_date": "2023-12-27"
+  },
+  {
+    "transaction_id": "T00617",
+    "customer_id": 4,
+    "product": "effort",
+    "amount": 140.95,
+    "currency": "USD",
+    "transaction_date": "2024-08-25"
+  },
+  {
+    "transaction_id": "T00618",
+    "customer_id": 29,
+    "product": "word",
+    "amount": 179.96,
+    "currency": "USD",
+    "transaction_date": "2025-01-14"
+  },
+  {
+    "transaction_id": "T00619",
+    "customer_id": 215,
+    "product": "really",
+    "amount": 686.35,
+    "currency": "USD",
+    "transaction_date": "2023-08-25"
+  },
+  {
+    "transaction_id": "T00620",
+    "customer_id": 326,
+    "product": "trial",
+    "amount": 915.16,
+    "currency": "USD",
+    "transaction_date": "2024-12-01"
+  },
+  {
+    "transaction_id": "T00621",
+    "customer_id": 341,
+    "product": "add",
+    "amount": 816.9,
+    "currency": "USD",
+    "transaction_date": "2024-03-28"
+  },
+  {
+    "transaction_id": "T00622",
+    "customer_id": 41,
+    "product": "whom",
+    "amount": 281.31,
+    "currency": "USD",
+    "transaction_date": "2025-05-13"
+  },
+  {
+    "transaction_id": "T00623",
+    "customer_id": 17,
+    "product": "rule",
+    "amount": 411.2,
+    "currency": "USD",
+    "transaction_date": "2024-06-18"
+  },
+  {
+    "transaction_id": "T00624",
+    "customer_id": 486,
+    "product": "ever",
+    "amount": 831.44,
+    "currency": "USD",
+    "transaction_date": "2025-03-15"
+  },
+  {
+    "transaction_id": "T00625",
+    "customer_id": 87,
+    "product": "throw",
+    "amount": 115.51,
+    "currency": "USD",
+    "transaction_date": "2024-12-25"
+  },
+  {
+    "transaction_id": "T00626",
+    "customer_id": 342,
+    "product": "street",
+    "amount": 145.52,
+    "currency": "USD",
+    "transaction_date": "2024-03-24"
+  },
+  {
+    "transaction_id": "T00627",
+    "customer_id": 313,
+    "product": "them",
+    "amount": 273.83,
+    "currency": "USD",
+    "transaction_date": "2025-04-08"
+  },
+  {
+    "transaction_id": "T00628",
+    "customer_id": 219,
+    "product": "would",
+    "amount": 601.44,
+    "currency": "USD",
+    "transaction_date": "2024-11-20"
+  },
+  {
+    "transaction_id": "T00629",
+    "customer_id": 268,
+    "product": "owner",
+    "amount": 636.77,
+    "currency": "USD",
+    "transaction_date": "2023-10-17"
+  },
+  {
+    "transaction_id": "T00630",
+    "customer_id": 309,
+    "product": "thought",
+    "amount": 183.62,
+    "currency": "USD",
+    "transaction_date": "2023-12-29"
+  },
+  {
+    "transaction_id": "T00631",
+    "customer_id": 173,
+    "product": "plant",
+    "amount": 839.73,
+    "currency": "USD",
+    "transaction_date": "2024-01-06"
+  },
+  {
+    "transaction_id": "T00632",
+    "customer_id": 469,
+    "product": "eight",
+    "amount": 389.31,
+    "currency": "USD",
+    "transaction_date": "2024-12-22"
+  },
+  {
+    "transaction_id": "T00633",
+    "customer_id": 122,
+    "product": "toward",
+    "amount": 427.82,
+    "currency": "USD",
+    "transaction_date": "2024-08-25"
+  },
+  {
+    "transaction_id": "T00634",
+    "customer_id": 130,
+    "product": "Congress",
+    "amount": 174.62,
+    "currency": "USD",
+    "transaction_date": "2024-11-27"
+  },
+  {
+    "transaction_id": "T00635",
+    "customer_id": 363,
+    "product": "society",
+    "amount": 192.53,
+    "currency": "USD",
+    "transaction_date": "2025-01-25"
+  },
+  {
+    "transaction_id": "T00636",
+    "customer_id": 181,
+    "product": "system",
+    "amount": 607.12,
+    "currency": "USD",
+    "transaction_date": "2024-04-02"
+  },
+  {
+    "transaction_id": "T00637",
+    "customer_id": 282,
+    "product": "beat",
+    "amount": 77.57,
+    "currency": "USD",
+    "transaction_date": "2024-08-20"
+  },
+  {
+    "transaction_id": "T00638",
+    "customer_id": 267,
+    "product": "affect",
+    "amount": 295.81,
+    "currency": "USD",
+    "transaction_date": "2024-04-14"
+  },
+  {
+    "transaction_id": "T00639",
+    "customer_id": 164,
+    "product": "short",
+    "amount": 721.86,
+    "currency": "USD",
+    "transaction_date": "2024-01-20"
+  },
+  {
+    "transaction_id": "T00640",
+    "customer_id": 295,
+    "product": "positive",
+    "amount": 614.3,
+    "currency": "USD",
+    "transaction_date": "2025-05-18"
+  },
+  {
+    "transaction_id": "T00641",
+    "customer_id": 310,
+    "product": "much",
+    "amount": 481.29,
+    "currency": "USD",
+    "transaction_date": "2024-07-03"
+  },
+  {
+    "transaction_id": "T00642",
+    "customer_id": 111,
+    "product": "middle",
+    "amount": 954.55,
+    "currency": "USD",
+    "transaction_date": "2025-03-30"
+  },
+  {
+    "transaction_id": "T00643",
+    "customer_id": 406,
+    "product": "kitchen",
+    "amount": 735.25,
+    "currency": "USD",
+    "transaction_date": "2025-03-21"
+  },
+  {
+    "transaction_id": "T00644",
+    "customer_id": 289,
+    "product": "meet",
+    "amount": 277.21,
+    "currency": "USD",
+    "transaction_date": "2025-04-28"
+  },
+  {
+    "transaction_id": "T00645",
+    "customer_id": 239,
+    "product": "pay",
+    "amount": 269.64,
+    "currency": "USD",
+    "transaction_date": "2024-01-19"
+  },
+  {
+    "transaction_id": "T00646",
+    "customer_id": 227,
+    "product": "rate",
+    "amount": 843.11,
+    "currency": "USD",
+    "transaction_date": "2024-03-08"
+  },
+  {
+    "transaction_id": "T00647",
+    "customer_id": 337,
+    "product": "since",
+    "amount": 501.4,
+    "currency": "USD",
+    "transaction_date": "2025-02-08"
+  },
+  {
+    "transaction_id": "T00648",
+    "customer_id": 365,
+    "product": "view",
+    "amount": 163.13,
+    "currency": "USD",
+    "transaction_date": "2025-04-25"
+  },
+  {
+    "transaction_id": "T00649",
+    "customer_id": 201,
+    "product": "agent",
+    "amount": 773.2,
+    "currency": "USD",
+    "transaction_date": "2023-10-02"
+  },
+  {
+    "transaction_id": "T00650",
+    "customer_id": 73,
+    "product": "drop",
+    "amount": 84.39,
+    "currency": "USD",
+    "transaction_date": "2025-03-18"
+  },
+  {
+    "transaction_id": "T00651",
+    "customer_id": 17,
+    "product": "interesting",
+    "amount": 418.67,
+    "currency": "USD",
+    "transaction_date": "2024-03-09"
+  },
+  {
+    "transaction_id": "T00652",
+    "customer_id": 61,
+    "product": "interest",
+    "amount": 691.52,
+    "currency": "USD",
+    "transaction_date": "2024-07-15"
+  },
+  {
+    "transaction_id": "T00653",
+    "customer_id": 42,
+    "product": "either",
+    "amount": 465.08,
+    "currency": "USD",
+    "transaction_date": "2024-05-25"
+  },
+  {
+    "transaction_id": "T00654",
+    "customer_id": 291,
+    "product": "seem",
+    "amount": 820.91,
+    "currency": "USD",
+    "transaction_date": "2024-12-12"
+  },
+  {
+    "transaction_id": "T00655",
+    "customer_id": 229,
+    "product": "base",
+    "amount": 12.32,
+    "currency": "USD",
+    "transaction_date": "2023-12-31"
+  },
+  {
+    "transaction_id": "T00656",
+    "customer_id": 435,
+    "product": "community",
+    "amount": 279.42,
+    "currency": "USD",
+    "transaction_date": "2023-08-02"
+  },
+  {
+    "transaction_id": "T00657",
+    "customer_id": 354,
+    "product": "threat",
+    "amount": 112.06,
+    "currency": "USD",
+    "transaction_date": "2023-10-12"
+  },
+  {
+    "transaction_id": "T00658",
+    "customer_id": 101,
+    "product": "senior",
+    "amount": 100.67,
+    "currency": "USD",
+    "transaction_date": "2024-01-06"
+  },
+  {
+    "transaction_id": "T00659",
+    "customer_id": 305,
+    "product": "always",
+    "amount": 145.45,
+    "currency": "USD",
+    "transaction_date": "2025-06-11"
+  },
+  {
+    "transaction_id": "T00660",
+    "customer_id": 330,
+    "product": "important",
+    "amount": 693.65,
+    "currency": "USD",
+    "transaction_date": "2025-02-21"
+  },
+  {
+    "transaction_id": "T00661",
+    "customer_id": 497,
+    "product": "gas",
+    "amount": 193.28,
+    "currency": "USD",
+    "transaction_date": "2025-05-13"
+  },
+  {
+    "transaction_id": "T00662",
+    "customer_id": 318,
+    "product": "left",
+    "amount": 958.59,
+    "currency": "USD",
+    "transaction_date": "2024-02-07"
+  },
+  {
+    "transaction_id": "T00663",
+    "customer_id": 339,
+    "product": "note",
+    "amount": 734.9,
+    "currency": "USD",
+    "transaction_date": "2024-10-17"
+  },
+  {
+    "transaction_id": "T00664",
+    "customer_id": 149,
+    "product": "sound",
+    "amount": 761.45,
+    "currency": "USD",
+    "transaction_date": "2025-04-21"
+  },
+  {
+    "transaction_id": "T00665",
+    "customer_id": 485,
+    "product": "plan",
+    "amount": 695.35,
+    "currency": "USD",
+    "transaction_date": "2023-08-28"
+  },
+  {
+    "transaction_id": "T00666",
+    "customer_id": 198,
+    "product": "front",
+    "amount": 980.77,
+    "currency": "USD",
+    "transaction_date": "2025-01-19"
+  },
+  {
+    "transaction_id": "T00667",
+    "customer_id": 466,
+    "product": "indeed",
+    "amount": 494.53,
+    "currency": "USD",
+    "transaction_date": "2024-05-01"
+  },
+  {
+    "transaction_id": "T00668",
+    "customer_id": 143,
+    "product": "operation",
+    "amount": 696.24,
+    "currency": "USD",
+    "transaction_date": "2024-05-26"
+  },
+  {
+    "transaction_id": "T00669",
+    "customer_id": 489,
+    "product": "that",
+    "amount": 944.62,
+    "currency": "USD",
+    "transaction_date": "2024-11-12"
+  },
+  {
+    "transaction_id": "T00670",
+    "customer_id": 47,
+    "product": "much",
+    "amount": 53.72,
+    "currency": "USD",
+    "transaction_date": "2025-04-11"
+  },
+  {
+    "transaction_id": "T00671",
+    "customer_id": 16,
+    "product": "cell",
+    "amount": 926.0,
+    "currency": "USD",
+    "transaction_date": "2024-01-10"
+  },
+  {
+    "transaction_id": "T00672",
+    "customer_id": 407,
+    "product": "ago",
+    "amount": 560.25,
+    "currency": "USD",
+    "transaction_date": "2024-08-09"
+  },
+  {
+    "transaction_id": "T00673",
+    "customer_id": 86,
+    "product": "everybody",
+    "amount": 916.33,
+    "currency": "USD",
+    "transaction_date": "2023-12-01"
+  },
+  {
+    "transaction_id": "T00674",
+    "customer_id": 270,
+    "product": "can",
+    "amount": 129.32,
+    "currency": "USD",
+    "transaction_date": "2023-09-03"
+  },
+  {
+    "transaction_id": "T00675",
+    "customer_id": 7,
+    "product": "product",
+    "amount": 304.38,
+    "currency": "USD",
+    "transaction_date": "2023-11-16"
+  },
+  {
+    "transaction_id": "T00676",
+    "customer_id": 176,
+    "product": "situation",
+    "amount": 124.13,
+    "currency": "USD",
+    "transaction_date": "2024-10-05"
+  },
+  {
+    "transaction_id": "T00677",
+    "customer_id": 315,
+    "product": "wall",
+    "amount": 944.82,
+    "currency": "USD",
+    "transaction_date": "2024-10-18"
+  },
+  {
+    "transaction_id": "T00678",
+    "customer_id": 82,
+    "product": "himself",
+    "amount": 747.61,
+    "currency": "USD",
+    "transaction_date": "2025-04-11"
+  },
+  {
+    "transaction_id": "T00679",
+    "customer_id": 372,
+    "product": "much",
+    "amount": 846.1,
+    "currency": "USD",
+    "transaction_date": "2024-12-14"
+  },
+  {
+    "transaction_id": "T00680",
+    "customer_id": 402,
+    "product": "lose",
+    "amount": 527.21,
+    "currency": "USD",
+    "transaction_date": "2023-09-13"
+  },
+  {
+    "transaction_id": "T00681",
+    "customer_id": 103,
+    "product": "name",
+    "amount": 46.64,
+    "currency": "USD",
+    "transaction_date": "2024-09-05"
+  },
+  {
+    "transaction_id": "T00682",
+    "customer_id": 159,
+    "product": "edge",
+    "amount": 371.05,
+    "currency": "USD",
+    "transaction_date": "2023-09-12"
+  },
+  {
+    "transaction_id": "T00683",
+    "customer_id": 108,
+    "product": "receive",
+    "amount": 129.36,
+    "currency": "USD",
+    "transaction_date": "2024-06-13"
+  },
+  {
+    "transaction_id": "T00684",
+    "customer_id": 98,
+    "product": "understand",
+    "amount": 886.15,
+    "currency": "USD",
+    "transaction_date": "2023-09-15"
+  },
+  {
+    "transaction_id": "T00685",
+    "customer_id": 171,
+    "product": "east",
+    "amount": 346.48,
+    "currency": "USD",
+    "transaction_date": "2025-03-25"
+  },
+  {
+    "transaction_id": "T00686",
+    "customer_id": 183,
+    "product": "resource",
+    "amount": 410.44,
+    "currency": "USD",
+    "transaction_date": "2025-07-21"
+  },
+  {
+    "transaction_id": "T00687",
+    "customer_id": 39,
+    "product": "Mr",
+    "amount": 322.14,
+    "currency": "USD",
+    "transaction_date": "2023-09-27"
+  },
+  {
+    "transaction_id": "T00688",
+    "customer_id": 497,
+    "product": "leg",
+    "amount": 543.02,
+    "currency": "USD",
+    "transaction_date": "2024-04-15"
+  },
+  {
+    "transaction_id": "T00689",
+    "customer_id": 470,
+    "product": "expect",
+    "amount": 325.56,
+    "currency": "USD",
+    "transaction_date": "2023-08-05"
+  },
+  {
+    "transaction_id": "T00690",
+    "customer_id": 210,
+    "product": "the",
+    "amount": 524.97,
+    "currency": "USD",
+    "transaction_date": "2025-07-04"
+  },
+  {
+    "transaction_id": "T00691",
+    "customer_id": 493,
+    "product": "bar",
+    "amount": 619.7,
+    "currency": "USD",
+    "transaction_date": "2024-07-23"
+  },
+  {
+    "transaction_id": "T00692",
+    "customer_id": 382,
+    "product": "every",
+    "amount": 423.33,
+    "currency": "USD",
+    "transaction_date": "2025-07-22"
+  },
+  {
+    "transaction_id": "T00693",
+    "customer_id": 227,
+    "product": "movement",
+    "amount": 871.4,
+    "currency": "USD",
+    "transaction_date": "2023-08-24"
+  },
+  {
+    "transaction_id": "T00694",
+    "customer_id": 414,
+    "product": "including",
+    "amount": 10.24,
+    "currency": "USD",
+    "transaction_date": "2025-07-13"
+  },
+  {
+    "transaction_id": "T00695",
+    "customer_id": 269,
+    "product": "others",
+    "amount": 533.65,
+    "currency": "USD",
+    "transaction_date": "2023-09-16"
+  },
+  {
+    "transaction_id": "T00696",
+    "customer_id": 416,
+    "product": "although",
+    "amount": 933.26,
+    "currency": "USD",
+    "transaction_date": "2024-04-30"
+  },
+  {
+    "transaction_id": "T00697",
+    "customer_id": 379,
+    "product": "buy",
+    "amount": 997.95,
+    "currency": "USD",
+    "transaction_date": "2024-05-31"
+  },
+  {
+    "transaction_id": "T00698",
+    "customer_id": 500,
+    "product": "ball",
+    "amount": 62.16,
+    "currency": "USD",
+    "transaction_date": "2024-04-03"
+  },
+  {
+    "transaction_id": "T00699",
+    "customer_id": 497,
+    "product": "possible",
+    "amount": 407.91,
+    "currency": "USD",
+    "transaction_date": "2023-12-19"
+  },
+  {
+    "transaction_id": "T00700",
+    "customer_id": 245,
+    "product": "necessary",
+    "amount": 484.98,
+    "currency": "USD",
+    "transaction_date": "2023-09-08"
+  },
+  {
+    "transaction_id": "T00701",
+    "customer_id": 272,
+    "product": "off",
+    "amount": 874.94,
+    "currency": "USD",
+    "transaction_date": "2025-05-13"
+  },
+  {
+    "transaction_id": "T00702",
+    "customer_id": 239,
+    "product": "person",
+    "amount": 404.3,
+    "currency": "USD",
+    "transaction_date": "2025-07-09"
+  },
+  {
+    "transaction_id": "T00703",
+    "customer_id": 414,
+    "product": "administration",
+    "amount": 423.59,
+    "currency": "USD",
+    "transaction_date": "2024-06-24"
+  },
+  {
+    "transaction_id": "T00704",
+    "customer_id": 359,
+    "product": "vote",
+    "amount": 527.29,
+    "currency": "USD",
+    "transaction_date": "2023-12-06"
+  },
+  {
+    "transaction_id": "T00705",
+    "customer_id": 65,
+    "product": "way",
+    "amount": 246.39,
+    "currency": "USD",
+    "transaction_date": "2024-10-16"
+  },
+  {
+    "transaction_id": "T00706",
+    "customer_id": 3,
+    "product": "high",
+    "amount": 472.64,
+    "currency": "USD",
+    "transaction_date": "2023-08-06"
+  },
+  {
+    "transaction_id": "T00707",
+    "customer_id": 376,
+    "product": "marriage",
+    "amount": 294.37,
+    "currency": "USD",
+    "transaction_date": "2024-07-28"
+  },
+  {
+    "transaction_id": "T00708",
+    "customer_id": 324,
+    "product": "anyone",
+    "amount": 718.4,
+    "currency": "USD",
+    "transaction_date": "2023-12-23"
+  },
+  {
+    "transaction_id": "T00709",
+    "customer_id": 293,
+    "product": "home",
+    "amount": 51.67,
+    "currency": "USD",
+    "transaction_date": "2024-07-16"
+  },
+  {
+    "transaction_id": "T00710",
+    "customer_id": 193,
+    "product": "church",
+    "amount": 911.24,
+    "currency": "USD",
+    "transaction_date": "2024-06-24"
+  },
+  {
+    "transaction_id": "T00711",
+    "customer_id": 463,
+    "product": "month",
+    "amount": 433.5,
+    "currency": "USD",
+    "transaction_date": "2024-04-11"
+  },
+  {
+    "transaction_id": "T00712",
+    "customer_id": 305,
+    "product": "ground",
+    "amount": 397.71,
+    "currency": "USD",
+    "transaction_date": "2024-11-23"
+  },
+  {
+    "transaction_id": "T00713",
+    "customer_id": 452,
+    "product": "cell",
+    "amount": 226.07,
+    "currency": "USD",
+    "transaction_date": "2023-09-04"
+  },
+  {
+    "transaction_id": "T00714",
+    "customer_id": 293,
+    "product": "ask",
+    "amount": 788.48,
+    "currency": "USD",
+    "transaction_date": "2024-05-13"
+  },
+  {
+    "transaction_id": "T00715",
+    "customer_id": 427,
+    "product": "him",
+    "amount": 592.67,
+    "currency": "USD",
+    "transaction_date": "2024-12-18"
+  },
+  {
+    "transaction_id": "T00716",
+    "customer_id": 295,
+    "product": "happen",
+    "amount": 880.33,
+    "currency": "USD",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "transaction_id": "T00717",
+    "customer_id": 302,
+    "product": "appear",
+    "amount": 604.79,
+    "currency": "USD",
+    "transaction_date": "2025-02-12"
+  },
+  {
+    "transaction_id": "T00718",
+    "customer_id": 62,
+    "product": "safe",
+    "amount": 617.28,
+    "currency": "USD",
+    "transaction_date": "2025-03-04"
+  },
+  {
+    "transaction_id": "T00719",
+    "customer_id": 153,
+    "product": "institution",
+    "amount": 745.92,
+    "currency": "USD",
+    "transaction_date": "2024-11-12"
+  },
+  {
+    "transaction_id": "T00720",
+    "customer_id": 260,
+    "product": "work",
+    "amount": 239.35,
+    "currency": "USD",
+    "transaction_date": "2024-10-26"
+  },
+  {
+    "transaction_id": "T00721",
+    "customer_id": 148,
+    "product": "standard",
+    "amount": 839.45,
+    "currency": "USD",
+    "transaction_date": "2024-12-22"
+  },
+  {
+    "transaction_id": "T00722",
+    "customer_id": 310,
+    "product": "nor",
+    "amount": 611.66,
+    "currency": "USD",
+    "transaction_date": "2024-03-24"
+  },
+  {
+    "transaction_id": "T00723",
+    "customer_id": 493,
+    "product": "fly",
+    "amount": 129.14,
+    "currency": "USD",
+    "transaction_date": "2024-04-04"
+  },
+  {
+    "transaction_id": "T00724",
+    "customer_id": 107,
+    "product": "ability",
+    "amount": 184.76,
+    "currency": "USD",
+    "transaction_date": "2023-10-07"
+  },
+  {
+    "transaction_id": "T00725",
+    "customer_id": 218,
+    "product": "police",
+    "amount": 46.36,
+    "currency": "USD",
+    "transaction_date": "2023-09-10"
+  },
+  {
+    "transaction_id": "T00726",
+    "customer_id": 259,
+    "product": "indeed",
+    "amount": 827.94,
+    "currency": "USD",
+    "transaction_date": "2024-10-18"
+  },
+  {
+    "transaction_id": "T00727",
+    "customer_id": 5,
+    "product": "nation",
+    "amount": 67.26,
+    "currency": "USD",
+    "transaction_date": "2024-08-05"
+  },
+  {
+    "transaction_id": "T00728",
+    "customer_id": 47,
+    "product": "method",
+    "amount": 224.16,
+    "currency": "USD",
+    "transaction_date": "2025-06-11"
+  },
+  {
+    "transaction_id": "T00729",
+    "customer_id": 9,
+    "product": "new",
+    "amount": 928.47,
+    "currency": "USD",
+    "transaction_date": "2024-09-13"
+  },
+  {
+    "transaction_id": "T00730",
+    "customer_id": 378,
+    "product": "not",
+    "amount": 529.78,
+    "currency": "USD",
+    "transaction_date": "2024-09-29"
+  },
+  {
+    "transaction_id": "T00731",
+    "customer_id": 379,
+    "product": "third",
+    "amount": 402.28,
+    "currency": "USD",
+    "transaction_date": "2025-03-10"
+  },
+  {
+    "transaction_id": "T00732",
+    "customer_id": 178,
+    "product": "human",
+    "amount": 496.27,
+    "currency": "USD",
+    "transaction_date": "2025-03-19"
+  },
+  {
+    "transaction_id": "T00733",
+    "customer_id": 145,
+    "product": "garden",
+    "amount": 162.36,
+    "currency": "USD",
+    "transaction_date": "2025-02-22"
+  },
+  {
+    "transaction_id": "T00734",
+    "customer_id": 160,
+    "product": "themselves",
+    "amount": 468.75,
+    "currency": "USD",
+    "transaction_date": "2024-01-16"
+  },
+  {
+    "transaction_id": "T00735",
+    "customer_id": 269,
+    "product": "program",
+    "amount": 231.58,
+    "currency": "USD",
+    "transaction_date": "2025-01-27"
+  },
+  {
+    "transaction_id": "T00736",
+    "customer_id": 495,
+    "product": "fire",
+    "amount": 44.52,
+    "currency": "USD",
+    "transaction_date": "2024-05-04"
+  },
+  {
+    "transaction_id": "T00737",
+    "customer_id": 68,
+    "product": "rich",
+    "amount": 584.29,
+    "currency": "USD",
+    "transaction_date": "2025-03-20"
+  },
+  {
+    "transaction_id": "T00738",
+    "customer_id": 98,
+    "product": "house",
+    "amount": 462.86,
+    "currency": "USD",
+    "transaction_date": "2024-04-05"
+  },
+  {
+    "transaction_id": "T00739",
+    "customer_id": 440,
+    "product": "though",
+    "amount": 272.94,
+    "currency": "USD",
+    "transaction_date": "2023-08-07"
+  },
+  {
+    "transaction_id": "T00740",
+    "customer_id": 476,
+    "product": "line",
+    "amount": 481.91,
+    "currency": "USD",
+    "transaction_date": "2025-03-04"
+  },
+  {
+    "transaction_id": "T00741",
+    "customer_id": 195,
+    "product": "must",
+    "amount": 956.09,
+    "currency": "USD",
+    "transaction_date": "2024-08-06"
+  },
+  {
+    "transaction_id": "T00742",
+    "customer_id": 332,
+    "product": "eat",
+    "amount": 45.07,
+    "currency": "USD",
+    "transaction_date": "2023-08-03"
+  },
+  {
+    "transaction_id": "T00743",
+    "customer_id": 463,
+    "product": "relate",
+    "amount": 658.69,
+    "currency": "USD",
+    "transaction_date": "2025-07-20"
+  },
+  {
+    "transaction_id": "T00744",
+    "customer_id": 261,
+    "product": "speech",
+    "amount": 737.86,
+    "currency": "USD",
+    "transaction_date": "2025-03-23"
+  },
+  {
+    "transaction_id": "T00745",
+    "customer_id": 226,
+    "product": "various",
+    "amount": 414.37,
+    "currency": "USD",
+    "transaction_date": "2024-05-12"
+  },
+  {
+    "transaction_id": "T00746",
+    "customer_id": 463,
+    "product": "process",
+    "amount": 15.03,
+    "currency": "USD",
+    "transaction_date": "2024-10-26"
+  },
+  {
+    "transaction_id": "T00747",
+    "customer_id": 251,
+    "product": "building",
+    "amount": 726.19,
+    "currency": "USD",
+    "transaction_date": "2025-05-04"
+  },
+  {
+    "transaction_id": "T00748",
+    "customer_id": 90,
+    "product": "catch",
+    "amount": 537.28,
+    "currency": "USD",
+    "transaction_date": "2024-04-05"
+  },
+  {
+    "transaction_id": "T00749",
+    "customer_id": 37,
+    "product": "team",
+    "amount": 227.98,
+    "currency": "USD",
+    "transaction_date": "2025-03-11"
+  },
+  {
+    "transaction_id": "T00750",
+    "customer_id": 461,
+    "product": "five",
+    "amount": 895.54,
+    "currency": "USD",
+    "transaction_date": "2023-11-28"
+  },
+  {
+    "transaction_id": "T00751",
+    "customer_id": 461,
+    "product": "with",
+    "amount": 852.69,
+    "currency": "USD",
+    "transaction_date": "2024-09-08"
+  },
+  {
+    "transaction_id": "T00752",
+    "customer_id": 40,
+    "product": "statement",
+    "amount": 884.08,
+    "currency": "USD",
+    "transaction_date": "2024-08-19"
+  },
+  {
+    "transaction_id": "T00753",
+    "customer_id": 318,
+    "product": "significant",
+    "amount": 596.48,
+    "currency": "USD",
+    "transaction_date": "2024-09-05"
+  },
+  {
+    "transaction_id": "T00754",
+    "customer_id": 186,
+    "product": "perhaps",
+    "amount": 575.61,
+    "currency": "USD",
+    "transaction_date": "2024-04-02"
+  },
+  {
+    "transaction_id": "T00755",
+    "customer_id": 40,
+    "product": "play",
+    "amount": 681.24,
+    "currency": "USD",
+    "transaction_date": "2024-10-07"
+  },
+  {
+    "transaction_id": "T00756",
+    "customer_id": 347,
+    "product": "rule",
+    "amount": 865.85,
+    "currency": "USD",
+    "transaction_date": "2024-02-24"
+  },
+  {
+    "transaction_id": "T00757",
+    "customer_id": 289,
+    "product": "east",
+    "amount": 879.84,
+    "currency": "USD",
+    "transaction_date": "2025-01-03"
+  },
+  {
+    "transaction_id": "T00758",
+    "customer_id": 147,
+    "product": "person",
+    "amount": 869.48,
+    "currency": "USD",
+    "transaction_date": "2024-10-15"
+  },
+  {
+    "transaction_id": "T00759",
+    "customer_id": 92,
+    "product": "director",
+    "amount": 852.08,
+    "currency": "USD",
+    "transaction_date": "2024-02-29"
+  },
+  {
+    "transaction_id": "T00760",
+    "customer_id": 59,
+    "product": "the",
+    "amount": 168.8,
+    "currency": "USD",
+    "transaction_date": "2025-04-05"
+  },
+  {
+    "transaction_id": "T00761",
+    "customer_id": 269,
+    "product": "forget",
+    "amount": 838.64,
+    "currency": "USD",
+    "transaction_date": "2024-03-31"
+  },
+  {
+    "transaction_id": "T00762",
+    "customer_id": 345,
+    "product": "employee",
+    "amount": 930.79,
+    "currency": "USD",
+    "transaction_date": "2023-12-16"
+  },
+  {
+    "transaction_id": "T00763",
+    "customer_id": 356,
+    "product": "itself",
+    "amount": 622.43,
+    "currency": "USD",
+    "transaction_date": "2025-03-17"
+  },
+  {
+    "transaction_id": "T00764",
+    "customer_id": 422,
+    "product": "prepare",
+    "amount": 197.33,
+    "currency": "USD",
+    "transaction_date": "2025-03-29"
+  },
+  {
+    "transaction_id": "T00765",
+    "customer_id": 133,
+    "product": "light",
+    "amount": 882.06,
+    "currency": "USD",
+    "transaction_date": "2023-09-15"
+  },
+  {
+    "transaction_id": "T00766",
+    "customer_id": 314,
+    "product": "type",
+    "amount": 470.82,
+    "currency": "USD",
+    "transaction_date": "2025-01-21"
+  },
+  {
+    "transaction_id": "T00767",
+    "customer_id": 31,
+    "product": "south",
+    "amount": 827.56,
+    "currency": "USD",
+    "transaction_date": "2024-06-14"
+  },
+  {
+    "transaction_id": "T00768",
+    "customer_id": 394,
+    "product": "concern",
+    "amount": 821.75,
+    "currency": "USD",
+    "transaction_date": "2024-02-25"
+  },
+  {
+    "transaction_id": "T00769",
+    "customer_id": 437,
+    "product": "air",
+    "amount": 746.07,
+    "currency": "USD",
+    "transaction_date": "2024-10-16"
+  },
+  {
+    "transaction_id": "T00770",
+    "customer_id": 415,
+    "product": "show",
+    "amount": 11.11,
+    "currency": "USD",
+    "transaction_date": "2024-03-08"
+  },
+  {
+    "transaction_id": "T00771",
+    "customer_id": 258,
+    "product": "control",
+    "amount": 833.81,
+    "currency": "USD",
+    "transaction_date": "2025-03-07"
+  },
+  {
+    "transaction_id": "T00772",
+    "customer_id": 477,
+    "product": "answer",
+    "amount": 266.1,
+    "currency": "USD",
+    "transaction_date": "2025-02-08"
+  },
+  {
+    "transaction_id": "T00773",
+    "customer_id": 450,
+    "product": "mention",
+    "amount": 294.17,
+    "currency": "USD",
+    "transaction_date": "2023-11-22"
+  },
+  {
+    "transaction_id": "T00774",
+    "customer_id": 46,
+    "product": "us",
+    "amount": 333.17,
+    "currency": "USD",
+    "transaction_date": "2025-01-18"
+  },
+  {
+    "transaction_id": "T00775",
+    "customer_id": 233,
+    "product": "population",
+    "amount": 635.5,
+    "currency": "USD",
+    "transaction_date": "2025-06-05"
+  },
+  {
+    "transaction_id": "T00776",
+    "customer_id": 223,
+    "product": "site",
+    "amount": 382.93,
+    "currency": "USD",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "transaction_id": "T00777",
+    "customer_id": 448,
+    "product": "have",
+    "amount": 544.59,
+    "currency": "USD",
+    "transaction_date": "2024-03-21"
+  },
+  {
+    "transaction_id": "T00778",
+    "customer_id": 163,
+    "product": "local",
+    "amount": 137.16,
+    "currency": "USD",
+    "transaction_date": "2025-05-13"
+  },
+  {
+    "transaction_id": "T00779",
+    "customer_id": 467,
+    "product": "appear",
+    "amount": 763.42,
+    "currency": "USD",
+    "transaction_date": "2023-12-20"
+  },
+  {
+    "transaction_id": "T00780",
+    "customer_id": 74,
+    "product": "treat",
+    "amount": 437.92,
+    "currency": "USD",
+    "transaction_date": "2024-06-11"
+  },
+  {
+    "transaction_id": "T00781",
+    "customer_id": 482,
+    "product": "sometimes",
+    "amount": 348.45,
+    "currency": "USD",
+    "transaction_date": "2024-08-11"
+  },
+  {
+    "transaction_id": "T00782",
+    "customer_id": 60,
+    "product": "lot",
+    "amount": 187.7,
+    "currency": "USD",
+    "transaction_date": "2024-12-17"
+  },
+  {
+    "transaction_id": "T00783",
+    "customer_id": 37,
+    "product": "training",
+    "amount": 111.48,
+    "currency": "USD",
+    "transaction_date": "2024-05-18"
+  },
+  {
+    "transaction_id": "T00784",
+    "customer_id": 196,
+    "product": "large",
+    "amount": 182.02,
+    "currency": "USD",
+    "transaction_date": "2025-02-28"
+  },
+  {
+    "transaction_id": "T00785",
+    "customer_id": 484,
+    "product": "education",
+    "amount": 77.16,
+    "currency": "USD",
+    "transaction_date": "2024-03-11"
+  },
+  {
+    "transaction_id": "T00786",
+    "customer_id": 219,
+    "product": "report",
+    "amount": 174.71,
+    "currency": "USD",
+    "transaction_date": "2025-06-20"
+  },
+  {
+    "transaction_id": "T00787",
+    "customer_id": 12,
+    "product": "smile",
+    "amount": 76.68,
+    "currency": "USD",
+    "transaction_date": "2025-06-20"
+  },
+  {
+    "transaction_id": "T00788",
+    "customer_id": 394,
+    "product": "ever",
+    "amount": 478.84,
+    "currency": "USD",
+    "transaction_date": "2024-11-13"
+  },
+  {
+    "transaction_id": "T00789",
+    "customer_id": 22,
+    "product": "concern",
+    "amount": 624.71,
+    "currency": "USD",
+    "transaction_date": "2024-10-18"
+  },
+  {
+    "transaction_id": "T00790",
+    "customer_id": 210,
+    "product": "successful",
+    "amount": 872.82,
+    "currency": "USD",
+    "transaction_date": "2025-05-07"
+  },
+  {
+    "transaction_id": "T00791",
+    "customer_id": 192,
+    "product": "property",
+    "amount": 679.29,
+    "currency": "USD",
+    "transaction_date": "2024-07-13"
+  },
+  {
+    "transaction_id": "T00792",
+    "customer_id": 204,
+    "product": "crime",
+    "amount": 752.16,
+    "currency": "USD",
+    "transaction_date": "2025-02-10"
+  },
+  {
+    "transaction_id": "T00793",
+    "customer_id": 227,
+    "product": "project",
+    "amount": 598.45,
+    "currency": "USD",
+    "transaction_date": "2024-09-16"
+  },
+  {
+    "transaction_id": "T00794",
+    "customer_id": 460,
+    "product": "laugh",
+    "amount": 34.34,
+    "currency": "USD",
+    "transaction_date": "2025-03-19"
+  },
+  {
+    "transaction_id": "T00795",
+    "customer_id": 395,
+    "product": "thank",
+    "amount": 823.3,
+    "currency": "USD",
+    "transaction_date": "2023-12-28"
+  },
+  {
+    "transaction_id": "T00796",
+    "customer_id": 367,
+    "product": "feel",
+    "amount": 493.76,
+    "currency": "USD",
+    "transaction_date": "2024-06-25"
+  },
+  {
+    "transaction_id": "T00797",
+    "customer_id": 435,
+    "product": "firm",
+    "amount": 259.98,
+    "currency": "USD",
+    "transaction_date": "2024-01-01"
+  },
+  {
+    "transaction_id": "T00798",
+    "customer_id": 471,
+    "product": "shoulder",
+    "amount": 451.44,
+    "currency": "USD",
+    "transaction_date": "2023-11-03"
+  },
+  {
+    "transaction_id": "T00799",
+    "customer_id": 430,
+    "product": "media",
+    "amount": 473.85,
+    "currency": "USD",
+    "transaction_date": "2025-04-12"
+  },
+  {
+    "transaction_id": "T00800",
+    "customer_id": 4,
+    "product": "seek",
+    "amount": 431.92,
+    "currency": "USD",
+    "transaction_date": "2024-12-14"
+  },
+  {
+    "transaction_id": "T00801",
+    "customer_id": 397,
+    "product": "yeah",
+    "amount": 855.67,
+    "currency": "USD",
+    "transaction_date": "2025-02-14"
+  },
+  {
+    "transaction_id": "T00802",
+    "customer_id": 271,
+    "product": "apply",
+    "amount": 796.86,
+    "currency": "USD",
+    "transaction_date": "2024-08-17"
+  },
+  {
+    "transaction_id": "T00803",
+    "customer_id": 157,
+    "product": "effect",
+    "amount": 305.39,
+    "currency": "USD",
+    "transaction_date": "2025-06-30"
+  },
+  {
+    "transaction_id": "T00804",
+    "customer_id": 288,
+    "product": "only",
+    "amount": 91.56,
+    "currency": "USD",
+    "transaction_date": "2024-02-02"
+  },
+  {
+    "transaction_id": "T00805",
+    "customer_id": 462,
+    "product": "five",
+    "amount": 237.75,
+    "currency": "USD",
+    "transaction_date": "2024-06-13"
+  },
+  {
+    "transaction_id": "T00806",
+    "customer_id": 459,
+    "product": "run",
+    "amount": 280.53,
+    "currency": "USD",
+    "transaction_date": "2023-12-05"
+  },
+  {
+    "transaction_id": "T00807",
+    "customer_id": 337,
+    "product": "vote",
+    "amount": 963.6,
+    "currency": "USD",
+    "transaction_date": "2023-09-10"
+  },
+  {
+    "transaction_id": "T00808",
+    "customer_id": 440,
+    "product": "quite",
+    "amount": 438.01,
+    "currency": "USD",
+    "transaction_date": "2024-02-24"
+  },
+  {
+    "transaction_id": "T00809",
+    "customer_id": 21,
+    "product": "like",
+    "amount": 910.43,
+    "currency": "USD",
+    "transaction_date": "2023-10-20"
+  },
+  {
+    "transaction_id": "T00810",
+    "customer_id": 357,
+    "product": "of",
+    "amount": 642.14,
+    "currency": "USD",
+    "transaction_date": "2025-05-23"
+  },
+  {
+    "transaction_id": "T00811",
+    "customer_id": 262,
+    "product": "collection",
+    "amount": 762.49,
+    "currency": "USD",
+    "transaction_date": "2023-12-21"
+  },
+  {
+    "transaction_id": "T00812",
+    "customer_id": 453,
+    "product": "education",
+    "amount": 984.14,
+    "currency": "USD",
+    "transaction_date": "2023-08-26"
+  },
+  {
+    "transaction_id": "T00813",
+    "customer_id": 257,
+    "product": "example",
+    "amount": 327.54,
+    "currency": "USD",
+    "transaction_date": "2024-10-27"
+  },
+  {
+    "transaction_id": "T00814",
+    "customer_id": 422,
+    "product": "part",
+    "amount": 237.66,
+    "currency": "USD",
+    "transaction_date": "2024-09-25"
+  },
+  {
+    "transaction_id": "T00815",
+    "customer_id": 445,
+    "product": "country",
+    "amount": 208.36,
+    "currency": "USD",
+    "transaction_date": "2023-08-17"
+  },
+  {
+    "transaction_id": "T00816",
+    "customer_id": 497,
+    "product": "prove",
+    "amount": 655.15,
+    "currency": "USD",
+    "transaction_date": "2024-08-18"
+  },
+  {
+    "transaction_id": "T00817",
+    "customer_id": 12,
+    "product": "difficult",
+    "amount": 567.12,
+    "currency": "USD",
+    "transaction_date": "2023-09-17"
+  },
+  {
+    "transaction_id": "T00818",
+    "customer_id": 492,
+    "product": "responsibility",
+    "amount": 478.48,
+    "currency": "USD",
+    "transaction_date": "2024-02-16"
+  },
+  {
+    "transaction_id": "T00819",
+    "customer_id": 72,
+    "product": "rich",
+    "amount": 167.65,
+    "currency": "USD",
+    "transaction_date": "2023-08-23"
+  },
+  {
+    "transaction_id": "T00820",
+    "customer_id": 473,
+    "product": "without",
+    "amount": 869.94,
+    "currency": "USD",
+    "transaction_date": "2025-01-01"
+  },
+  {
+    "transaction_id": "T00821",
+    "customer_id": 309,
+    "product": "season",
+    "amount": 162.12,
+    "currency": "USD",
+    "transaction_date": "2024-08-29"
+  },
+  {
+    "transaction_id": "T00822",
+    "customer_id": 27,
+    "product": "art",
+    "amount": 846.34,
+    "currency": "USD",
+    "transaction_date": "2024-02-14"
+  },
+  {
+    "transaction_id": "T00823",
+    "customer_id": 500,
+    "product": "wrong",
+    "amount": 27.68,
+    "currency": "USD",
+    "transaction_date": "2024-12-20"
+  },
+  {
+    "transaction_id": "T00824",
+    "customer_id": 349,
+    "product": "minute",
+    "amount": 139.93,
+    "currency": "USD",
+    "transaction_date": "2023-09-09"
+  },
+  {
+    "transaction_id": "T00825",
+    "customer_id": 181,
+    "product": "woman",
+    "amount": 912.72,
+    "currency": "USD",
+    "transaction_date": "2025-04-06"
+  },
+  {
+    "transaction_id": "T00826",
+    "customer_id": 378,
+    "product": "himself",
+    "amount": 620.48,
+    "currency": "USD",
+    "transaction_date": "2025-01-30"
+  },
+  {
+    "transaction_id": "T00827",
+    "customer_id": 46,
+    "product": "writer",
+    "amount": 467.48,
+    "currency": "USD",
+    "transaction_date": "2024-09-09"
+  },
+  {
+    "transaction_id": "T00828",
+    "customer_id": 222,
+    "product": "able",
+    "amount": 126.14,
+    "currency": "USD",
+    "transaction_date": "2024-04-28"
+  },
+  {
+    "transaction_id": "T00829",
+    "customer_id": 273,
+    "product": "century",
+    "amount": 611.23,
+    "currency": "USD",
+    "transaction_date": "2024-11-29"
+  },
+  {
+    "transaction_id": "T00830",
+    "customer_id": 340,
+    "product": "environmental",
+    "amount": 436.0,
+    "currency": "USD",
+    "transaction_date": "2024-06-26"
+  },
+  {
+    "transaction_id": "T00831",
+    "customer_id": 166,
+    "product": "hot",
+    "amount": 233.28,
+    "currency": "USD",
+    "transaction_date": "2025-07-27"
+  },
+  {
+    "transaction_id": "T00832",
+    "customer_id": 444,
+    "product": "fear",
+    "amount": 73.57,
+    "currency": "USD",
+    "transaction_date": "2025-06-30"
+  },
+  {
+    "transaction_id": "T00833",
+    "customer_id": 117,
+    "product": "assume",
+    "amount": 594.36,
+    "currency": "USD",
+    "transaction_date": "2023-10-21"
+  },
+  {
+    "transaction_id": "T00834",
+    "customer_id": 72,
+    "product": "lose",
+    "amount": 317.26,
+    "currency": "USD",
+    "transaction_date": "2025-07-11"
+  },
+  {
+    "transaction_id": "T00835",
+    "customer_id": 205,
+    "product": "that",
+    "amount": 158.08,
+    "currency": "USD",
+    "transaction_date": "2024-04-26"
+  },
+  {
+    "transaction_id": "T00836",
+    "customer_id": 277,
+    "product": "manager",
+    "amount": 81.72,
+    "currency": "USD",
+    "transaction_date": "2024-08-21"
+  },
+  {
+    "transaction_id": "T00837",
+    "customer_id": 320,
+    "product": "change",
+    "amount": 401.59,
+    "currency": "USD",
+    "transaction_date": "2024-10-03"
+  },
+  {
+    "transaction_id": "T00838",
+    "customer_id": 495,
+    "product": "end",
+    "amount": 604.02,
+    "currency": "USD",
+    "transaction_date": "2025-02-21"
+  },
+  {
+    "transaction_id": "T00839",
+    "customer_id": 32,
+    "product": "reach",
+    "amount": 660.41,
+    "currency": "USD",
+    "transaction_date": "2024-04-14"
+  },
+  {
+    "transaction_id": "T00840",
+    "customer_id": 217,
+    "product": "enough",
+    "amount": 861.52,
+    "currency": "USD",
+    "transaction_date": "2024-06-10"
+  },
+  {
+    "transaction_id": "T00841",
+    "customer_id": 102,
+    "product": "almost",
+    "amount": 908.74,
+    "currency": "USD",
+    "transaction_date": "2024-11-12"
+  },
+  {
+    "transaction_id": "T00842",
+    "customer_id": 267,
+    "product": "enough",
+    "amount": 485.7,
+    "currency": "USD",
+    "transaction_date": "2023-08-01"
+  },
+  {
+    "transaction_id": "T00843",
+    "customer_id": 88,
+    "product": "economic",
+    "amount": 154.46,
+    "currency": "USD",
+    "transaction_date": "2024-03-13"
+  },
+  {
+    "transaction_id": "T00844",
+    "customer_id": 76,
+    "product": "actually",
+    "amount": 986.8,
+    "currency": "USD",
+    "transaction_date": "2024-09-28"
+  },
+  {
+    "transaction_id": "T00845",
+    "customer_id": 160,
+    "product": "wonder",
+    "amount": 28.18,
+    "currency": "USD",
+    "transaction_date": "2023-09-20"
+  },
+  {
+    "transaction_id": "T00846",
+    "customer_id": 310,
+    "product": "product",
+    "amount": 621.97,
+    "currency": "USD",
+    "transaction_date": "2025-06-11"
+  },
+  {
+    "transaction_id": "T00847",
+    "customer_id": 148,
+    "product": "see",
+    "amount": 352.56,
+    "currency": "USD",
+    "transaction_date": "2023-09-03"
+  },
+  {
+    "transaction_id": "T00848",
+    "customer_id": 424,
+    "product": "wait",
+    "amount": 19.67,
+    "currency": "USD",
+    "transaction_date": "2024-05-14"
+  },
+  {
+    "transaction_id": "T00849",
+    "customer_id": 353,
+    "product": "want",
+    "amount": 522.53,
+    "currency": "USD",
+    "transaction_date": "2024-11-20"
+  },
+  {
+    "transaction_id": "T00850",
+    "customer_id": 289,
+    "product": "everyone",
+    "amount": 883.71,
+    "currency": "USD",
+    "transaction_date": "2025-02-27"
+  },
+  {
+    "transaction_id": "T00851",
+    "customer_id": 414,
+    "product": "project",
+    "amount": 42.87,
+    "currency": "USD",
+    "transaction_date": "2024-01-19"
+  },
+  {
+    "transaction_id": "T00852",
+    "customer_id": 116,
+    "product": "opportunity",
+    "amount": 364.22,
+    "currency": "USD",
+    "transaction_date": "2025-02-23"
+  },
+  {
+    "transaction_id": "T00853",
+    "customer_id": 103,
+    "product": "mother",
+    "amount": 141.39,
+    "currency": "USD",
+    "transaction_date": "2024-05-25"
+  },
+  {
+    "transaction_id": "T00854",
+    "customer_id": 359,
+    "product": "wide",
+    "amount": 208.85,
+    "currency": "USD",
+    "transaction_date": "2024-09-10"
+  },
+  {
+    "transaction_id": "T00855",
+    "customer_id": 122,
+    "product": "such",
+    "amount": 802.58,
+    "currency": "USD",
+    "transaction_date": "2024-06-04"
+  },
+  {
+    "transaction_id": "T00856",
+    "customer_id": 482,
+    "product": "available",
+    "amount": 50.77,
+    "currency": "USD",
+    "transaction_date": "2024-05-11"
+  },
+  {
+    "transaction_id": "T00857",
+    "customer_id": 428,
+    "product": "nature",
+    "amount": 113.52,
+    "currency": "USD",
+    "transaction_date": "2025-06-12"
+  },
+  {
+    "transaction_id": "T00858",
+    "customer_id": 459,
+    "product": "far",
+    "amount": 132.98,
+    "currency": "USD",
+    "transaction_date": "2023-11-23"
+  },
+  {
+    "transaction_id": "T00859",
+    "customer_id": 123,
+    "product": "these",
+    "amount": 41.27,
+    "currency": "USD",
+    "transaction_date": "2024-04-18"
+  },
+  {
+    "transaction_id": "T00860",
+    "customer_id": 262,
+    "product": "recently",
+    "amount": 620.44,
+    "currency": "USD",
+    "transaction_date": "2023-12-19"
+  },
+  {
+    "transaction_id": "T00861",
+    "customer_id": 223,
+    "product": "space",
+    "amount": 545.88,
+    "currency": "USD",
+    "transaction_date": "2024-05-23"
+  },
+  {
+    "transaction_id": "T00862",
+    "customer_id": 370,
+    "product": "water",
+    "amount": 935.85,
+    "currency": "USD",
+    "transaction_date": "2024-01-12"
+  },
+  {
+    "transaction_id": "T00863",
+    "customer_id": 328,
+    "product": "ready",
+    "amount": 716.95,
+    "currency": "USD",
+    "transaction_date": "2023-11-13"
+  },
+  {
+    "transaction_id": "T00864",
+    "customer_id": 318,
+    "product": "project",
+    "amount": 785.59,
+    "currency": "USD",
+    "transaction_date": "2024-06-11"
+  },
+  {
+    "transaction_id": "T00865",
+    "customer_id": 111,
+    "product": "design",
+    "amount": 816.68,
+    "currency": "USD",
+    "transaction_date": "2023-09-23"
+  },
+  {
+    "transaction_id": "T00866",
+    "customer_id": 7,
+    "product": "send",
+    "amount": 664.21,
+    "currency": "USD",
+    "transaction_date": "2024-08-25"
+  },
+  {
+    "transaction_id": "T00867",
+    "customer_id": 208,
+    "product": "now",
+    "amount": 552.12,
+    "currency": "USD",
+    "transaction_date": "2025-05-26"
+  },
+  {
+    "transaction_id": "T00868",
+    "customer_id": 314,
+    "product": "film",
+    "amount": 785.99,
+    "currency": "USD",
+    "transaction_date": "2025-07-03"
+  },
+  {
+    "transaction_id": "T00869",
+    "customer_id": 383,
+    "product": "growth",
+    "amount": 647.14,
+    "currency": "USD",
+    "transaction_date": "2024-08-31"
+  },
+  {
+    "transaction_id": "T00870",
+    "customer_id": 297,
+    "product": "student",
+    "amount": 172.36,
+    "currency": "USD",
+    "transaction_date": "2023-08-14"
+  },
+  {
+    "transaction_id": "T00871",
+    "customer_id": 14,
+    "product": "partner",
+    "amount": 90.81,
+    "currency": "USD",
+    "transaction_date": "2024-11-14"
+  },
+  {
+    "transaction_id": "T00872",
+    "customer_id": 12,
+    "product": "edge",
+    "amount": 254.63,
+    "currency": "USD",
+    "transaction_date": "2023-09-04"
+  },
+  {
+    "transaction_id": "T00873",
+    "customer_id": 397,
+    "product": "friend",
+    "amount": 484.49,
+    "currency": "USD",
+    "transaction_date": "2025-04-18"
+  },
+  {
+    "transaction_id": "T00874",
+    "customer_id": 243,
+    "product": "marriage",
+    "amount": 227.02,
+    "currency": "USD",
+    "transaction_date": "2024-12-21"
+  },
+  {
+    "transaction_id": "T00875",
+    "customer_id": 55,
+    "product": "or",
+    "amount": 475.48,
+    "currency": "USD",
+    "transaction_date": "2025-04-26"
+  },
+  {
+    "transaction_id": "T00876",
+    "customer_id": 173,
+    "product": "international",
+    "amount": 190.3,
+    "currency": "USD",
+    "transaction_date": "2023-10-19"
+  },
+  {
+    "transaction_id": "T00877",
+    "customer_id": 119,
+    "product": "activity",
+    "amount": 439.32,
+    "currency": "USD",
+    "transaction_date": "2024-12-07"
+  },
+  {
+    "transaction_id": "T00878",
+    "customer_id": 288,
+    "product": "eight",
+    "amount": 503.21,
+    "currency": "USD",
+    "transaction_date": "2023-10-08"
+  },
+  {
+    "transaction_id": "T00879",
+    "customer_id": 82,
+    "product": "senior",
+    "amount": 30.65,
+    "currency": "USD",
+    "transaction_date": "2024-05-05"
+  },
+  {
+    "transaction_id": "T00880",
+    "customer_id": 211,
+    "product": "husband",
+    "amount": 236.17,
+    "currency": "USD",
+    "transaction_date": "2024-12-26"
+  },
+  {
+    "transaction_id": "T00881",
+    "customer_id": 352,
+    "product": "station",
+    "amount": 547.05,
+    "currency": "USD",
+    "transaction_date": "2025-04-13"
+  },
+  {
+    "transaction_id": "T00882",
+    "customer_id": 59,
+    "product": "few",
+    "amount": 653.82,
+    "currency": "USD",
+    "transaction_date": "2025-06-14"
+  },
+  {
+    "transaction_id": "T00883",
+    "customer_id": 202,
+    "product": "let",
+    "amount": 409.23,
+    "currency": "USD",
+    "transaction_date": "2025-07-12"
+  },
+  {
+    "transaction_id": "T00884",
+    "customer_id": 445,
+    "product": "campaign",
+    "amount": 81.48,
+    "currency": "USD",
+    "transaction_date": "2024-12-11"
+  },
+  {
+    "transaction_id": "T00885",
+    "customer_id": 447,
+    "product": "executive",
+    "amount": 211.54,
+    "currency": "USD",
+    "transaction_date": "2024-12-18"
+  },
+  {
+    "transaction_id": "T00886",
+    "customer_id": 391,
+    "product": "finally",
+    "amount": 468.0,
+    "currency": "USD",
+    "transaction_date": "2024-02-17"
+  },
+  {
+    "transaction_id": "T00887",
+    "customer_id": 350,
+    "product": "both",
+    "amount": 961.17,
+    "currency": "USD",
+    "transaction_date": "2024-10-06"
+  },
+  {
+    "transaction_id": "T00888",
+    "customer_id": 442,
+    "product": "American",
+    "amount": 745.28,
+    "currency": "USD",
+    "transaction_date": "2023-09-29"
+  },
+  {
+    "transaction_id": "T00889",
+    "customer_id": 404,
+    "product": "ball",
+    "amount": 632.48,
+    "currency": "USD",
+    "transaction_date": "2024-11-12"
+  },
+  {
+    "transaction_id": "T00890",
+    "customer_id": 220,
+    "product": "when",
+    "amount": 377.33,
+    "currency": "USD",
+    "transaction_date": "2025-03-03"
+  },
+  {
+    "transaction_id": "T00891",
+    "customer_id": 20,
+    "product": "trial",
+    "amount": 509.8,
+    "currency": "USD",
+    "transaction_date": "2023-08-26"
+  },
+  {
+    "transaction_id": "T00892",
+    "customer_id": 50,
+    "product": "decision",
+    "amount": 868.36,
+    "currency": "USD",
+    "transaction_date": "2024-09-22"
+  },
+  {
+    "transaction_id": "T00893",
+    "customer_id": 96,
+    "product": "final",
+    "amount": 592.18,
+    "currency": "USD",
+    "transaction_date": "2025-05-05"
+  },
+  {
+    "transaction_id": "T00894",
+    "customer_id": 250,
+    "product": "them",
+    "amount": 728.01,
+    "currency": "USD",
+    "transaction_date": "2025-07-23"
+  },
+  {
+    "transaction_id": "T00895",
+    "customer_id": 228,
+    "product": "sing",
+    "amount": 874.69,
+    "currency": "USD",
+    "transaction_date": "2023-09-03"
+  },
+  {
+    "transaction_id": "T00896",
+    "customer_id": 418,
+    "product": "rule",
+    "amount": 795.03,
+    "currency": "USD",
+    "transaction_date": "2025-04-09"
+  },
+  {
+    "transaction_id": "T00897",
+    "customer_id": 295,
+    "product": "always",
+    "amount": 284.06,
+    "currency": "USD",
+    "transaction_date": "2025-05-30"
+  },
+  {
+    "transaction_id": "T00898",
+    "customer_id": 371,
+    "product": "together",
+    "amount": 291.02,
+    "currency": "USD",
+    "transaction_date": "2025-02-06"
+  },
+  {
+    "transaction_id": "T00899",
+    "customer_id": 125,
+    "product": "them",
+    "amount": 218.56,
+    "currency": "USD",
+    "transaction_date": "2025-04-07"
+  },
+  {
+    "transaction_id": "T00900",
+    "customer_id": 237,
+    "product": "about",
+    "amount": 471.15,
+    "currency": "USD",
+    "transaction_date": "2024-12-23"
+  },
+  {
+    "transaction_id": "T00901",
+    "customer_id": 21,
+    "product": "here",
+    "amount": 735.78,
+    "currency": "USD",
+    "transaction_date": "2023-09-24"
+  },
+  {
+    "transaction_id": "T00902",
+    "customer_id": 355,
+    "product": "film",
+    "amount": 778.24,
+    "currency": "USD",
+    "transaction_date": "2024-01-23"
+  },
+  {
+    "transaction_id": "T00903",
+    "customer_id": 100,
+    "product": "kind",
+    "amount": 909.94,
+    "currency": "USD",
+    "transaction_date": "2023-11-23"
+  },
+  {
+    "transaction_id": "T00904",
+    "customer_id": 87,
+    "product": "beat",
+    "amount": 636.22,
+    "currency": "USD",
+    "transaction_date": "2025-01-12"
+  },
+  {
+    "transaction_id": "T00905",
+    "customer_id": 14,
+    "product": "anything",
+    "amount": 971.68,
+    "currency": "USD",
+    "transaction_date": "2024-05-09"
+  },
+  {
+    "transaction_id": "T00906",
+    "customer_id": 375,
+    "product": "realize",
+    "amount": 418.9,
+    "currency": "USD",
+    "transaction_date": "2024-09-03"
+  },
+  {
+    "transaction_id": "T00907",
+    "customer_id": 422,
+    "product": "save",
+    "amount": 497.36,
+    "currency": "USD",
+    "transaction_date": "2025-02-10"
+  },
+  {
+    "transaction_id": "T00908",
+    "customer_id": 318,
+    "product": "ball",
+    "amount": 106.42,
+    "currency": "USD",
+    "transaction_date": "2024-02-22"
+  },
+  {
+    "transaction_id": "T00909",
+    "customer_id": 381,
+    "product": "after",
+    "amount": 450.85,
+    "currency": "USD",
+    "transaction_date": "2025-03-04"
+  },
+  {
+    "transaction_id": "T00910",
+    "customer_id": 231,
+    "product": "even",
+    "amount": 365.64,
+    "currency": "USD",
+    "transaction_date": "2023-10-16"
+  },
+  {
+    "transaction_id": "T00911",
+    "customer_id": 130,
+    "product": "response",
+    "amount": 104.31,
+    "currency": "USD",
+    "transaction_date": "2024-09-25"
+  },
+  {
+    "transaction_id": "T00912",
+    "customer_id": 145,
+    "product": "same",
+    "amount": 397.17,
+    "currency": "USD",
+    "transaction_date": "2024-06-12"
+  },
+  {
+    "transaction_id": "T00913",
+    "customer_id": 28,
+    "product": "can",
+    "amount": 265.55,
+    "currency": "USD",
+    "transaction_date": "2023-10-09"
+  },
+  {
+    "transaction_id": "T00914",
+    "customer_id": 229,
+    "product": "campaign",
+    "amount": 18.94,
+    "currency": "USD",
+    "transaction_date": "2024-02-17"
+  },
+  {
+    "transaction_id": "T00915",
+    "customer_id": 449,
+    "product": "head",
+    "amount": 775.74,
+    "currency": "USD",
+    "transaction_date": "2023-10-16"
+  },
+  {
+    "transaction_id": "T00916",
+    "customer_id": 440,
+    "product": "director",
+    "amount": 402.69,
+    "currency": "USD",
+    "transaction_date": "2024-07-31"
+  },
+  {
+    "transaction_id": "T00917",
+    "customer_id": 407,
+    "product": "set",
+    "amount": 459.25,
+    "currency": "USD",
+    "transaction_date": "2024-01-25"
+  },
+  {
+    "transaction_id": "T00918",
+    "customer_id": 395,
+    "product": "although",
+    "amount": 884.87,
+    "currency": "USD",
+    "transaction_date": "2023-08-06"
+  },
+  {
+    "transaction_id": "T00919",
+    "customer_id": 118,
+    "product": "military",
+    "amount": 178.06,
+    "currency": "USD",
+    "transaction_date": "2024-11-11"
+  },
+  {
+    "transaction_id": "T00920",
+    "customer_id": 458,
+    "product": "away",
+    "amount": 454.29,
+    "currency": "USD",
+    "transaction_date": "2024-06-15"
+  },
+  {
+    "transaction_id": "T00921",
+    "customer_id": 332,
+    "product": "couple",
+    "amount": 830.59,
+    "currency": "USD",
+    "transaction_date": "2025-07-19"
+  },
+  {
+    "transaction_id": "T00922",
+    "customer_id": 257,
+    "product": "day",
+    "amount": 454.94,
+    "currency": "USD",
+    "transaction_date": "2024-08-05"
+  },
+  {
+    "transaction_id": "T00923",
+    "customer_id": 264,
+    "product": "suddenly",
+    "amount": 620.97,
+    "currency": "USD",
+    "transaction_date": "2025-04-17"
+  },
+  {
+    "transaction_id": "T00924",
+    "customer_id": 1,
+    "product": "I",
+    "amount": 260.0,
+    "currency": "USD",
+    "transaction_date": "2023-11-17"
+  },
+  {
+    "transaction_id": "T00925",
+    "customer_id": 374,
+    "product": "democratic",
+    "amount": 175.94,
+    "currency": "USD",
+    "transaction_date": "2024-05-31"
+  },
+  {
+    "transaction_id": "T00926",
+    "customer_id": 121,
+    "product": "serious",
+    "amount": 609.48,
+    "currency": "USD",
+    "transaction_date": "2024-04-18"
+  },
+  {
+    "transaction_id": "T00927",
+    "customer_id": 175,
+    "product": "away",
+    "amount": 667.17,
+    "currency": "USD",
+    "transaction_date": "2025-05-12"
+  },
+  {
+    "transaction_id": "T00928",
+    "customer_id": 165,
+    "product": "least",
+    "amount": 783.97,
+    "currency": "USD",
+    "transaction_date": "2024-03-18"
+  },
+  {
+    "transaction_id": "T00929",
+    "customer_id": 120,
+    "product": "family",
+    "amount": 807.61,
+    "currency": "USD",
+    "transaction_date": "2024-07-06"
+  },
+  {
+    "transaction_id": "T00930",
+    "customer_id": 156,
+    "product": "sea",
+    "amount": 865.57,
+    "currency": "USD",
+    "transaction_date": "2024-10-31"
+  },
+  {
+    "transaction_id": "T00931",
+    "customer_id": 390,
+    "product": "let",
+    "amount": 213.78,
+    "currency": "USD",
+    "transaction_date": "2025-04-06"
+  },
+  {
+    "transaction_id": "T00932",
+    "customer_id": 445,
+    "product": "person",
+    "amount": 43.85,
+    "currency": "USD",
+    "transaction_date": "2025-05-09"
+  },
+  {
+    "transaction_id": "T00933",
+    "customer_id": 334,
+    "product": "artist",
+    "amount": 66.52,
+    "currency": "USD",
+    "transaction_date": "2024-05-13"
+  },
+  {
+    "transaction_id": "T00934",
+    "customer_id": 293,
+    "product": "official",
+    "amount": 937.24,
+    "currency": "USD",
+    "transaction_date": "2025-06-29"
+  },
+  {
+    "transaction_id": "T00935",
+    "customer_id": 285,
+    "product": "daughter",
+    "amount": 643.6,
+    "currency": "USD",
+    "transaction_date": "2024-04-23"
+  },
+  {
+    "transaction_id": "T00936",
+    "customer_id": 35,
+    "product": "nearly",
+    "amount": 457.68,
+    "currency": "USD",
+    "transaction_date": "2025-01-01"
+  },
+  {
+    "transaction_id": "T00937",
+    "customer_id": 245,
+    "product": "course",
+    "amount": 97.67,
+    "currency": "USD",
+    "transaction_date": "2023-09-16"
+  },
+  {
+    "transaction_id": "T00938",
+    "customer_id": 161,
+    "product": "oil",
+    "amount": 512.16,
+    "currency": "USD",
+    "transaction_date": "2023-10-21"
+  },
+  {
+    "transaction_id": "T00939",
+    "customer_id": 206,
+    "product": "always",
+    "amount": 691.33,
+    "currency": "USD",
+    "transaction_date": "2025-03-06"
+  },
+  {
+    "transaction_id": "T00940",
+    "customer_id": 276,
+    "product": "discuss",
+    "amount": 986.76,
+    "currency": "USD",
+    "transaction_date": "2024-08-15"
+  },
+  {
+    "transaction_id": "T00941",
+    "customer_id": 216,
+    "product": "option",
+    "amount": 689.11,
+    "currency": "USD",
+    "transaction_date": "2024-10-20"
+  },
+  {
+    "transaction_id": "T00942",
+    "customer_id": 126,
+    "product": "red",
+    "amount": 952.29,
+    "currency": "USD",
+    "transaction_date": "2024-09-20"
+  },
+  {
+    "transaction_id": "T00943",
+    "customer_id": 306,
+    "product": "approach",
+    "amount": 973.37,
+    "currency": "USD",
+    "transaction_date": "2023-08-10"
+  },
+  {
+    "transaction_id": "T00944",
+    "customer_id": 39,
+    "product": "tree",
+    "amount": 460.19,
+    "currency": "USD",
+    "transaction_date": "2024-11-03"
+  },
+  {
+    "transaction_id": "T00945",
+    "customer_id": 495,
+    "product": "child",
+    "amount": 526.51,
+    "currency": "USD",
+    "transaction_date": "2024-07-03"
+  },
+  {
+    "transaction_id": "T00946",
+    "customer_id": 407,
+    "product": "probably",
+    "amount": 670.2,
+    "currency": "USD",
+    "transaction_date": "2024-04-18"
+  },
+  {
+    "transaction_id": "T00947",
+    "customer_id": 340,
+    "product": "single",
+    "amount": 134.48,
+    "currency": "USD",
+    "transaction_date": "2023-10-12"
+  },
+  {
+    "transaction_id": "T00948",
+    "customer_id": 126,
+    "product": "detail",
+    "amount": 314.85,
+    "currency": "USD",
+    "transaction_date": "2024-08-05"
+  },
+  {
+    "transaction_id": "T00949",
+    "customer_id": 336,
+    "product": "sit",
+    "amount": 940.42,
+    "currency": "USD",
+    "transaction_date": "2025-01-24"
+  },
+  {
+    "transaction_id": "T00950",
+    "customer_id": 380,
+    "product": "issue",
+    "amount": 676.7,
+    "currency": "USD",
+    "transaction_date": "2024-12-07"
+  },
+  {
+    "transaction_id": "T00951",
+    "customer_id": 498,
+    "product": "bag",
+    "amount": 196.47,
+    "currency": "USD",
+    "transaction_date": "2025-05-16"
+  },
+  {
+    "transaction_id": "T00952",
+    "customer_id": 264,
+    "product": "I",
+    "amount": 164.6,
+    "currency": "USD",
+    "transaction_date": "2024-02-11"
+  },
+  {
+    "transaction_id": "T00953",
+    "customer_id": 358,
+    "product": "network",
+    "amount": 869.46,
+    "currency": "USD",
+    "transaction_date": "2025-06-11"
+  },
+  {
+    "transaction_id": "T00954",
+    "customer_id": 86,
+    "product": "law",
+    "amount": 262.75,
+    "currency": "USD",
+    "transaction_date": "2023-10-29"
+  },
+  {
+    "transaction_id": "T00955",
+    "customer_id": 193,
+    "product": "subject",
+    "amount": 839.73,
+    "currency": "USD",
+    "transaction_date": "2023-12-11"
+  },
+  {
+    "transaction_id": "T00956",
+    "customer_id": 218,
+    "product": "still",
+    "amount": 380.55,
+    "currency": "USD",
+    "transaction_date": "2024-10-20"
+  },
+  {
+    "transaction_id": "T00957",
+    "customer_id": 414,
+    "product": "where",
+    "amount": 502.2,
+    "currency": "USD",
+    "transaction_date": "2024-10-18"
+  },
+  {
+    "transaction_id": "T00958",
+    "customer_id": 145,
+    "product": "short",
+    "amount": 832.57,
+    "currency": "USD",
+    "transaction_date": "2024-06-08"
+  },
+  {
+    "transaction_id": "T00959",
+    "customer_id": 303,
+    "product": "past",
+    "amount": 574.9,
+    "currency": "USD",
+    "transaction_date": "2024-08-04"
+  },
+  {
+    "transaction_id": "T00960",
+    "customer_id": 76,
+    "product": "stock",
+    "amount": 121.98,
+    "currency": "USD",
+    "transaction_date": "2024-12-10"
+  },
+  {
+    "transaction_id": "T00961",
+    "customer_id": 345,
+    "product": "large",
+    "amount": 692.63,
+    "currency": "USD",
+    "transaction_date": "2024-12-31"
+  },
+  {
+    "transaction_id": "T00962",
+    "customer_id": 289,
+    "product": "could",
+    "amount": 604.6,
+    "currency": "USD",
+    "transaction_date": "2024-04-07"
+  },
+  {
+    "transaction_id": "T00963",
+    "customer_id": 287,
+    "product": "doctor",
+    "amount": 662.3,
+    "currency": "USD",
+    "transaction_date": "2024-12-05"
+  },
+  {
+    "transaction_id": "T00964",
+    "customer_id": 53,
+    "product": "control",
+    "amount": 670.3,
+    "currency": "USD",
+    "transaction_date": "2024-10-06"
+  },
+  {
+    "transaction_id": "T00965",
+    "customer_id": 361,
+    "product": "suffer",
+    "amount": 115.53,
+    "currency": "USD",
+    "transaction_date": "2023-10-15"
+  },
+  {
+    "transaction_id": "T00966",
+    "customer_id": 220,
+    "product": "data",
+    "amount": 167.69,
+    "currency": "USD",
+    "transaction_date": "2023-10-21"
+  },
+  {
+    "transaction_id": "T00967",
+    "customer_id": 192,
+    "product": "should",
+    "amount": 57.73,
+    "currency": "USD",
+    "transaction_date": "2024-04-13"
+  },
+  {
+    "transaction_id": "T00968",
+    "customer_id": 73,
+    "product": "age",
+    "amount": 867.77,
+    "currency": "USD",
+    "transaction_date": "2024-07-14"
+  },
+  {
+    "transaction_id": "T00969",
+    "customer_id": 89,
+    "product": "today",
+    "amount": 872.05,
+    "currency": "USD",
+    "transaction_date": "2025-03-13"
+  },
+  {
+    "transaction_id": "T00970",
+    "customer_id": 73,
+    "product": "her",
+    "amount": 99.58,
+    "currency": "USD",
+    "transaction_date": "2024-10-26"
+  },
+  {
+    "transaction_id": "T00971",
+    "customer_id": 159,
+    "product": "above",
+    "amount": 741.06,
+    "currency": "USD",
+    "transaction_date": "2024-07-28"
+  },
+  {
+    "transaction_id": "T00972",
+    "customer_id": 324,
+    "product": "expert",
+    "amount": 654.01,
+    "currency": "USD",
+    "transaction_date": "2024-10-22"
+  },
+  {
+    "transaction_id": "T00973",
+    "customer_id": 102,
+    "product": "career",
+    "amount": 333.76,
+    "currency": "USD",
+    "transaction_date": "2024-04-04"
+  },
+  {
+    "transaction_id": "T00974",
+    "customer_id": 102,
+    "product": "war",
+    "amount": 443.79,
+    "currency": "USD",
+    "transaction_date": "2023-11-14"
+  },
+  {
+    "transaction_id": "T00975",
+    "customer_id": 482,
+    "product": "western",
+    "amount": 764.66,
+    "currency": "USD",
+    "transaction_date": "2023-09-13"
+  },
+  {
+    "transaction_id": "T00976",
+    "customer_id": 489,
+    "product": "vote",
+    "amount": 324.02,
+    "currency": "USD",
+    "transaction_date": "2024-05-30"
+  },
+  {
+    "transaction_id": "T00977",
+    "customer_id": 365,
+    "product": "imagine",
+    "amount": 819.66,
+    "currency": "USD",
+    "transaction_date": "2023-11-23"
+  },
+  {
+    "transaction_id": "T00978",
+    "customer_id": 344,
+    "product": "wall",
+    "amount": 303.9,
+    "currency": "USD",
+    "transaction_date": "2024-02-23"
+  },
+  {
+    "transaction_id": "T00979",
+    "customer_id": 455,
+    "product": "power",
+    "amount": 15.7,
+    "currency": "USD",
+    "transaction_date": "2024-03-10"
+  },
+  {
+    "transaction_id": "T00980",
+    "customer_id": 143,
+    "product": "skill",
+    "amount": 633.91,
+    "currency": "USD",
+    "transaction_date": "2025-07-03"
+  },
+  {
+    "transaction_id": "T00981",
+    "customer_id": 199,
+    "product": "soon",
+    "amount": 567.8,
+    "currency": "USD",
+    "transaction_date": "2025-02-24"
+  },
+  {
+    "transaction_id": "T00982",
+    "customer_id": 403,
+    "product": "civil",
+    "amount": 394.67,
+    "currency": "USD",
+    "transaction_date": "2025-05-17"
+  },
+  {
+    "transaction_id": "T00983",
+    "customer_id": 473,
+    "product": "least",
+    "amount": 600.52,
+    "currency": "USD",
+    "transaction_date": "2025-02-26"
+  },
+  {
+    "transaction_id": "T00984",
+    "customer_id": 224,
+    "product": "condition",
+    "amount": 379.52,
+    "currency": "USD",
+    "transaction_date": "2023-08-30"
+  },
+  {
+    "transaction_id": "T00985",
+    "customer_id": 428,
+    "product": "result",
+    "amount": 24.52,
+    "currency": "USD",
+    "transaction_date": "2023-10-23"
+  },
+  {
+    "transaction_id": "T00986",
+    "customer_id": 267,
+    "product": "successful",
+    "amount": 607.41,
+    "currency": "USD",
+    "transaction_date": "2023-12-18"
+  },
+  {
+    "transaction_id": "T00987",
+    "customer_id": 110,
+    "product": "contain",
+    "amount": 646.15,
+    "currency": "USD",
+    "transaction_date": "2023-10-01"
+  },
+  {
+    "transaction_id": "T00988",
+    "customer_id": 450,
+    "product": "recognize",
+    "amount": 468.86,
+    "currency": "USD",
+    "transaction_date": "2024-01-14"
+  },
+  {
+    "transaction_id": "T00989",
+    "customer_id": 3,
+    "product": "most",
+    "amount": 546.94,
+    "currency": "USD",
+    "transaction_date": "2024-01-04"
+  },
+  {
+    "transaction_id": "T00990",
+    "customer_id": 328,
+    "product": "treat",
+    "amount": 523.89,
+    "currency": "USD",
+    "transaction_date": "2023-12-11"
+  },
+  {
+    "transaction_id": "T00991",
+    "customer_id": 454,
+    "product": "song",
+    "amount": 915.09,
+    "currency": "USD",
+    "transaction_date": "2024-07-11"
+  },
+  {
+    "transaction_id": "T00992",
+    "customer_id": 221,
+    "product": "imagine",
+    "amount": 347.84,
+    "currency": "USD",
+    "transaction_date": "2025-03-30"
+  },
+  {
+    "transaction_id": "T00993",
+    "customer_id": 12,
+    "product": "protect",
+    "amount": 157.5,
+    "currency": "USD",
+    "transaction_date": "2025-06-12"
+  },
+  {
+    "transaction_id": "T00994",
+    "customer_id": 304,
+    "product": "middle",
+    "amount": 584.37,
+    "currency": "USD",
+    "transaction_date": "2024-10-01"
+  },
+  {
+    "transaction_id": "T00995",
+    "customer_id": 300,
+    "product": "relationship",
+    "amount": 481.93,
+    "currency": "USD",
+    "transaction_date": "2023-11-16"
+  },
+  {
+    "transaction_id": "T00996",
+    "customer_id": 43,
+    "product": "just",
+    "amount": 767.23,
+    "currency": "USD",
+    "transaction_date": "2024-03-09"
+  },
+  {
+    "transaction_id": "T00997",
+    "customer_id": 326,
+    "product": "attention",
+    "amount": 749.41,
+    "currency": "USD",
+    "transaction_date": "2024-07-02"
+  },
+  {
+    "transaction_id": "T00998",
+    "customer_id": 364,
+    "product": "find",
+    "amount": 955.97,
+    "currency": "USD",
+    "transaction_date": "2024-07-10"
+  },
+  {
+    "transaction_id": "T00999",
+    "customer_id": 493,
+    "product": "student",
+    "amount": 824.17,
+    "currency": "USD",
+    "transaction_date": "2025-02-22"
+  },
+  {
+    "transaction_id": "T01000",
+    "customer_id": 107,
+    "product": "it",
+    "amount": 17.49,
+    "currency": "USD",
+    "transaction_date": "2024-04-28"
+  }
+]
